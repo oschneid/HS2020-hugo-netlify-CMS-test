@@ -1,5 +1,5 @@
 baseurl: "/"
-title: "Conference name"
+title: "Haptics Symposium 2020"
 canonifyurls: true
 theme: "hugo-conference"
 
@@ -7,14 +7,14 @@ GoogleAnalytics: ""
 
 params:
   # Conference info
-  Name: "Conference name"
+  Name: "IEEE Haptics Symposium 2020"
   Description: "Conference description"
-  Date: "November 15"
-  Price: "Only $100" # If your event is free, just comment this line
-  Venue: "Coco Bongo"
-  Address: "Boulevard Kukulcan, 30"
-  City:  "Cancún"
-  State: "Quintana"
+  Date: "March 28 - 31, 2020"
+  # Price: "Only $100" # If your event is free, just comment this line
+  Venue: "Crystal Gateway Marriott"
+  # Address: "Boulevard Kukulcan, 30"
+  City:  "Washington"
+  State: "DC"
   Images: ["/img/badge.jpg"]
   GoogleMapsKey: "my-secret-maps-key"
 
@@ -46,8 +46,8 @@ params:
     link: "http://register.example.com"
 
   # Fork me on GitHub, if you don't want this, just remove the forkButton property
-  ForkButton:
-    repository: "https://github.com/jweslley/hugo-conference/"
+  # ForkButton:
+  #   repository: "https://github.com/jweslley/hugo-conference/"
 
   # List of Sponsors
   Sponsors:
