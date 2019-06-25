@@ -1,24 +1,13 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
-blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
-intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
-products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
-values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
-
-about:
-    heading: foobar
-    text: asdf asdf
+title: "Home"
+subtitle: "IEEE Haptics Symposium 2020!"
+image: /img/products-jumbotron.jpg
 ---
 
+Welcome to IEEE Haptics Symposium 2020!
+
+Held since 1992, the IEEE Haptics Symposium is a vibrant interdisciplinary forum where psychophysicists, engineers, and designers come together to share advances, spark new collaborations, and envision a future that benefits from rich physical interactions between humans and computers, generated through haptic (force and tactile) devices.  
+
+The 2018 conference included two cross-cutting challenge sessions, 57 oral presentations of technical papers, 37 poster presentations of recent IEEE Transactions on Haptics articles, 32 poster presentations of work-in-progress papers, 36 hands-on demonstrations, many industry exhibits, a delicious banquet, technical tours of haptics labs at Stanford University, and much more!  Learn more via the compact program overview, the detailed online program, the iOs Confero app, the Android Confero app, and the symposium proceedings.  Registered conference attendees can access the papers and proceedings using credentials shared by email.
+
+The 2020 conference has lots of information to come!
