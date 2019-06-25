@@ -1,7 +1,7 @@
 ---
 title: "Home"
 subtitle: "IEEE Haptics Symposium 2020!"
-image: /img/products-jumbotron.jpg
+image: /img/dc/bg01.jpg
 ---
 
 Welcome to IEEE Haptics Symposium 2020!

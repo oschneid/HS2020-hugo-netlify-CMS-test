@@ -1,3 +1,4 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Homepage"
+title = "IEEE Haptics Symposium 2020"
+logo = "/img/hs-logo.png"
