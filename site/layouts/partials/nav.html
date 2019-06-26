@@ -1,11 +1,15 @@
 <nav class="overflow-x-scroll overflow-x-visible-ns flex justify-between items-center center bg-white divider-grey relative">
 
 	<!-- Logo -->
-	<a href="/" class="flex w-100">
-			<div class="flex pa3 db mr4 h-100 w-100 items-end">
-				<img src="/img/hs-logo.png" alt="Haptics Symposium Logo" class="br0 db mb0"/>
-				<h1>{{ .Site.Title }} </h1>
-			</div>
+	<a href="/" class="flex pa3 db mr4 h-100 w-100 items-end">
+		<img src="/img/hs-logo.png" alt="Haptics Symposium Logo" class="br0 db mb0 h-100"/>
+		<div class="flex-column db tb h-100 w-100">
+			<h1 class="f3 lh-title"> {{ .Site.Title }} </h1>
+			<h2 class="f4 lh-copy">
+				<span>{{ .Site.Params.ConferenceDate }} |</span> 
+				<span> {{ .Site.Params.ConferenceLocation }} </span>
+			</h2>
+		</div>
 	</a>
 	
 
