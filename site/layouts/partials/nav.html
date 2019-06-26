@@ -1,7 +1,7 @@
 <nav class="overflow-x-scroll overflow-x-visible-ns flex justify-between items-center center bg-white divider-grey relative">
 
 	<!-- Logo -->
-	<a href="/" class="flex pa3 db mr4 h-100 w-100 items-end">
+	<a href="/" class="flex pa3 db mr4 h-100 items-end tl">
 		<img src="/img/hs-logo.png" alt="Haptics Symposium Logo" class="br0 db mb0 h-100"/>
 		<div class="flex-column db tb h-100 w-100">
 			<h1 class="f3 lh-title"> {{ .Site.Title }} </h1>
@@ -14,13 +14,21 @@
 	
 
 	<!-- Primary Nav -->
-	<ul class="flex b grey-3">
-		<li><a href="/" class="pa3 no-underline db">Home</a></li>
-
-		<li><a href="/sponsors" class="pa3 no-underline db">Sponsors</a></li>
-
-		<li><a href="/about" class="pa3 no-underline db">About</a></li>
+	<div class="flex-column tr db">
+		<ul class="flex-row b grey-3 db">
+			{{ partial "social-icon" (dict "link" "https://www.facebook.com/HapticsSymposium" "svg" "icons-facebook") }}
+			{{ partial "social-icon" (dict "link" "http://twitter.com/ieeehaptics" "svg" "icons-twitter") }}
+			<!-- {{ partial "social-icon" (dict "link" "#" "svg" "icons-instagram") }} -->
+		</ul>
+		<ul class="flex b grey-3 db">
+				<li><a href="/" class="pa3 no-underline db">Home</a></li>
 		
-	</ul>
+				<li><a href="/sponsors" class="pa3 no-underline db">Sponsors</a></li>
+		
+				<li><a href="/about" class="pa3 no-underline db">About</a></li>
+				
+		</ul>
+	</div>
+	
 
 </nav>
