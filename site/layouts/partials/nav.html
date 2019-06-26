@@ -1,34 +1,51 @@
 <nav class="overflow-x-scroll overflow-x-visible-ns flex justify-between items-center center bg-white divider-grey relative">
 
-	<!-- Logo -->
-	<a href="/" class="flex pa3 db mr4 h-100 items-end tl">
-		<img src="/img/hs-logo.png" alt="Haptics Symposium Logo" class="br0 db mb0 h-100"/>
-		<div class="flex-column db tb h-100 w-100">
-			<h1 class="f3 lh-title"> {{ .Site.Title }} </h1>
-			<h2 class="f4 lh-copy">
-				<span>{{ .Site.Params.ConferenceDate }} |</span> 
-				<span> {{ .Site.Params.ConferenceLocation }} </span>
-			</h2>
-		</div>
-	</a>
-	
+	<!-- Overall Header -->
+	<div class="flex-column w-100">
 
-	<!-- Primary Nav -->
-	<div class="flex-column tr db">
-		<ul class="flex-row b grey-3 db">
-			{{ partial "social-icon" (dict "link" "https://www.facebook.com/HapticsSymposium" "svg" "icons-facebook") }}
-			{{ partial "social-icon" (dict "link" "http://twitter.com/ieeehaptics" "svg" "icons-twitter") }}
-			<!-- {{ partial "social-icon" (dict "link" "#" "svg" "icons-instagram") }} -->
-		</ul>
-		<ul class="flex b grey-3 db">
-				<li><a href="/" class="pa3 no-underline db">Home</a></li>
-		
-				<li><a href="/sponsors" class="pa3 no-underline db">Sponsors</a></li>
-		
-				<li><a href="/about" class="pa3 no-underline db">About</a></li>
-				
+		<!-- Title bar -->
+		<div class="flex justify-between">
+			<!-- Logo -->
+			<a href="/" class="flex ph3 pv1 db mr4 items-end tl no-underline">
+				<img src="/img/hs-logo.png" alt="Haptics Symposium Logo" class="br0 db mb0 h-100"/>
+				<div class="flex-column db tb h-100">
+					<h1 class="f3 lh-title"> {{ .Site.Title }} </h1>
+					<p class="f5 lh-copy ma0">
+						{{ .Site.Params.ConferenceDate }} |
+						{{ .Site.Params.ConferenceLocation }} 
+					</p>
+				</div>
+			</a>
+
+			<!-- Social Media -->
+			<ul class="flex b grey-3 db">
+				{{ partial "social-icon" (dict "link" "https://www.facebook.com/HapticsSymposium" "svg" "icons-facebook") }}
+				{{ partial "social-icon" (dict "link" "http://twitter.com/ieeehaptics" "svg" "icons-twitter") }}
+				<!-- {{ partial "social-icon" (dict "link" "#" "svg" "icons-instagram") }} -->
+			</ul>
+
+		</div>
+
+		<!-- Primary Nav -->
+		<ul class="flex b grey-3 db center ph5-l ph1">
+			<li><a href="/" class="ph4 pv2 no-underline db">Home</a></li>
+
+			<li><a href="/presenting" class="ph4 pv2 no-underline db">Presenting</a></li>
+
+			<li><a href="/attending" class="ph4 pv2 no-underline db">Attending</a></li>
+			
+			<li><a href="/organization" class="ph4 pv2 no-underline db">Organization</a></li>
+
+			<li><a href="/sponsors" class="ph4 pv2 no-underline db">Sponsors</a></li>
+	
+			<li><a href="http://about.hapticssymposium.org/" class="ph4 pv2 no-underline db">About</a></li>
+			
 		</ul>
 	</div>
+
+	
+
+	
 	
 
 </nav>

@@ -1,10 +1,9 @@
 ---
 title: "Home"
-subtitle: "IEEE Haptics Symposium 2020!"
 image: /img/dc/bg01.jpg
 ---
 
-Welcome to IEEE Haptics Symposium 2020!
+**Welcome to IEEE Haptics Symposium 2020!**
 
 Held since 1992, the IEEE Haptics Symposium is a vibrant interdisciplinary forum where psychophysicists, engineers, and designers come together to share advances, spark new collaborations, and envision a future that benefits from rich physical interactions between humans and computers, generated through haptic (force and tactile) devices.  
 
