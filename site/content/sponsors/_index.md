@@ -1,5 +1,6 @@
 ---
 title: "Sponsors"
+image: /img/dc/bg06.jpg
 sponsors:
   - name: "Sponsor 1 Gold"
     category: "gold"
@@ -11,3 +12,5 @@ sponsors:
     category: "silver"
     imageUrl: "/img/about-shade-grown.jpg" 
 ---
+
+sponsors todo
