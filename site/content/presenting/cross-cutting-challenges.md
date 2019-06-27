@@ -1,9 +1,11 @@
 ---
-title: "Cross-Cutting Challenges"
-image: /img/dc/bg03.jpg
-deadline: September 6, 2019
+title: Cross-Cutting Challenges
+deadline: 2019-09-06T04:00:00.000Z
 description: >-
-     Following its successful launch at the 2018 Haptics Symposium, the Cross-Cutting Challenges (CCC) submission category will be held again at the 2020 Haptics Symposium.
+  Following its successful launch at the 2018 Haptics Symposium, the
+  Cross-Cutting Challenges (CCC) submission category will be held again at the
+  2020 Haptics Symposium.
+image: /img/dc/bg03.jpg
 ---
 
 
