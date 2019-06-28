@@ -7,15 +7,18 @@ description: >
   application aspects of haptics.
 
 
+
   Conference Technical Papers - Up to 6 pages in length, including references. 
 
   Deadline: 20 October, 2019
+
 
 
   Transactions on Haptics Papers (new for 2020!) - Up to 6 pages in length,
   including references.
 
   Deadline: 20 September, 2019
+
 
 
   Papers accepted to the new IEEE Transactions on Haptics journal track will be
