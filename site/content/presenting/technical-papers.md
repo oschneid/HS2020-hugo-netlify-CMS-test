@@ -18,7 +18,7 @@ description: >
   Deadline: 20 September, 2019
 
 
-  Papers accepted to the new IEEE Transactions on Haptics Journal track will be
+  Papers accepted to the new IEEE Transactions on Haptics journal track will be
   presented at the conference and simultaneously published as short papers in
   IEEE Transactions on Haptics. 
 image: /img/dc/bg03.jpg
