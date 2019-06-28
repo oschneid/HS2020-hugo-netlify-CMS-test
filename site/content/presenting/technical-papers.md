@@ -5,6 +5,22 @@ description: >
   IEEE Haptics Symposium 2020 solicits technical papers that report original,
   novel, unpublished work relevant to all the scientific, technological, and
   application aspects of haptics.
+
+
+  Conference Technical Papers - Up to 6 pages in length, including references. 
+
+  Deadline: 20 October, 2019
+
+
+  Transactions on Haptics Papers (new for 2020!) - Up to 6 pages in length,
+  including references.
+
+  Deadline: 20 September, 2019
+
+
+  Papers accepted to the new IEEE Transactions on Haptics Journal track will be
+  presented at the conference and simultaneously published as short papers in
+  IEEE Transactions on Haptics. 
 image: /img/dc/bg03.jpg
 ---
 We solicit technical papers that report original, novel, unpublished work relevant to all the scientific, technological, and application aspects of haptics.
