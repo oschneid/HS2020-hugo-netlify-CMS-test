@@ -1,6 +1,6 @@
 ---
 title: Hands-On Demonstrations
-deadline: 2019-11-30T06:59:00.000Z
+deadline: ''
 description: >-
   Haptics Symposium strongly encourages demonstrations of all kinds - for
   example, of novel developments in haptics-related devices, software or
@@ -19,11 +19,11 @@ Submission of hands-on demonstrations is open to all members of the haptics rese
 
 Paper Format
 
-November 29, 2019 – Demo submissions open
+Late November, 2019 – Demo submissions open
 
-January 26, 2020 – Demo submission deadline
+Late January, 2020 – Demo submission deadline
 
-February 9, 2020 – Demo acceptance notification
+Early February, 2020 – Demo acceptance notification
 
 Submission Method
 
