@@ -2,7 +2,7 @@
 title: Email List
 description: >-
   We have a dedicated email list to distribute infrequent but important
-  information about the 2018 IEEE Haptics Symposium. Link:
+  information about the IEEE Haptics Symposium. Link:
   https://listserv.ieee.org/cgi-bin/wa?SUBED1=haptics&A=1
 ---
 We have a dedicated email list to distribute infrequent but important information about the 2018 IEEE Haptics Symposium.
