@@ -1,6 +1,6 @@
 ---
 title: Technical Papers
-deadline: 2019-06-28T20:10:35.105Z
+deadline: ''
 description: >
   IEEE Haptics Symposium 2020 solicits technical papers that report original,
   novel, unpublished work relevant to all the scientific, technological, and
