@@ -1,6 +1,6 @@
 ---
 title: Hands-On Demonstrations
-deadline: 2019-11-30T07:59:00.000Z
+deadline: 2019-11-30T06:59:00.000Z
 description: >-
   Haptics Symposium strongly encourages demonstrations of all kinds - for
   example, of novel developments in haptics-related devices, software or
