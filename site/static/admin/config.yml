@@ -22,6 +22,7 @@ collections: # A list of collections the CMS should be able to edit
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Intro Blurb", name: "description", widget: "text"}
+      - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "attending" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Attending" # Used in the UI, ie.: "New Post"
@@ -30,8 +31,8 @@ collections: # A list of collections the CMS should be able to edit
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Intro Blurb", name: "description", widget: "text"}
+      - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
-  
   
   #     - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
   #   label: "Post" # Used in the UI, ie.: "New Post"
