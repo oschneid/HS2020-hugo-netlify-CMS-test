@@ -1,16 +1,17 @@
 ---
-title: "Sponsors"
+title: Sponsors
 image: /img/dc/bg06.jpg
-sponsors:
-  - name: "Sponsor 1 Gold"
-    category: "gold"
-    imageUrl: "/img/about-shade-grown.jpg"
-  - name: "Sponsor 2 Bronze"
-    category: "bronze"
-    imageUrl: "/img/about-shade-grown.jpg"
-  - name: "Sponsor 3 Silver"
-    category: "silver"
-    imageUrl: "/img/about-shade-grown.jpg" 
 ---
+# Gold Sponsors
 
-sponsors todo
+![](/img/hs-logo.png "Gold Sponsor 1")
+
+![](/img/apple-touch-icon.png "Gold Sponsor 2")
+
+# Silver Sponsors
+
+todo
+
+# Bronze Sponsors
+
+todo
