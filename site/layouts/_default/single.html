@@ -1,6 +1,9 @@
 {{ define "main" }}
 
 {{ partial "jumbotron" (dict "imageUrl" .CurrentSection.Params.image "title" .CurrentSection.Params.title "subtitle" .Params.title) }}
-{{ .Content }}
+
+<div class="cms pa3">
+    {{ .Content }}
+</div>
 
 {{ end }}
