@@ -2,6 +2,10 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.Image "title" .Title ) }}
 
+<div class="cms pa3">
+    {{ .Content }}
+</div>
+
 <div class="mw7 center">
   <ul class="flex-ns flex-wrap mhn1-ns pa3 pa2">
       {{ range (.Paginator 4).Pages.ByPublishDate.Reverse }}
