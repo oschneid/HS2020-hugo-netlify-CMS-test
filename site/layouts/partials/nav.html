@@ -1,4 +1,11 @@
-<nav class="overflow-x-scroll overflow-x-visible-ns flex justify-between items-center center bg-white divider-grey relative">
+<nav
+	class="overflow-x-scroll overflow-x-visible-ns flex-column justify-between items-center center bg-white divider-grey relative pv1 pv2-l ph3 bg-center cover"
+	{{ if .Params.Image }}
+		style="background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.33), rgba(0, 0, 0, 0) 75%), url('{{.Params.Image}}')"
+	{{ else if .Parent }}
+		style="background-image: url('{{.CurrentSection.Params.Image}}')"
+	{{ end }}
+	>
 
 	<!-- Overall Header -->
 	<div class="flex-column w-100">
@@ -8,7 +15,7 @@
 			<!-- Logo -->
 			<a href="/" class="flex ph3 pv1 db mr4 items-end tl no-underline">
 				<img src="/img/hs-logo.png" alt="Haptics Symposium Logo" class="br0 db mb0 h-100"/>
-				<div class="flex-column db tb h-100">
+				<div class="flex-column db tb h-100 grey-1">
 					<h1 class="f3 lh-title"> {{ .Site.Title }} </h1>
 					<p class="f5 lh-copy ma0">
 						{{ .Site.Params.ConferenceDate }} |
@@ -27,7 +34,7 @@
 		</div>
 
 		<!-- Primary Nav -->
-		<ul class="flex b grey-3 db center ph5-l ph1">
+		<ul class="flex b grey-2 db center ph5-l ph1">
 			<li><a href="/" class="ph4 pv2 no-underline db">Home</a></li>
 
 			<li><a href="/attending" class="ph4 pv2 no-underline db">Attending</a></li>
@@ -43,9 +50,15 @@
 		</ul>
 	</div>
 
-	
+	<div class="pt3 pb6 mw7 ph3">
+		<div class="db mb3">
+			<div class="mw7 relative bg-fix-primary mb3">
+			<h1 class="f2 f1-l b di lh-title mb3 white mw6 bg-primary">
+				{{ .Title}}
+			</h1>
+			</div>
+		</div>
+	</div>
 
-	
-	
 
 </nav>
