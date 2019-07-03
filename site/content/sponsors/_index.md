@@ -1,6 +1,6 @@
 ---
 title: Sponsors
-image: /img/dc/bg06.jpg
+image: /img/bg06.jpg
 ---
 # Gold Sponsors
 

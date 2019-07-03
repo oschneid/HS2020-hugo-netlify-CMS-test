@@ -1,11 +1,10 @@
 ---
 title: Organization
-image: /img/dc/bg04.jpg
 description: >
   Members of the Organizing Committee handle all planning and logistics for the
   IEEE Haptics Symposium.  We deeply appreciate their service to the haptics
   community and particularly to this conference.
-image: ''
+image: '/img/bg04.jpg'
 ---
 General Chairs   <mailto:chairs@hapticssymposium.org>
 
