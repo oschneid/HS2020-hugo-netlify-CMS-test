@@ -1,23 +1,13 @@
 ---
-title: Sponsors
+title: Sponsorship
 image: /img/bg04B.jpg
 ---
-# Gold Sponsors
+We are delighted to invite you to support the 2020 IEEE Haptics Symposium as a sponsor or exhibitor.
 
-* 
+For sponsorship opportunities, please contact the sponsorship chairs: <mailto:sponsorship@hapticssymposium.org>
 
-![](/img/hs-logo.png "Gold Sponsor 1")
+Hong Tan, Purdue University
 
-**Sponsor 1**
+Tania Morimoto, University of California, San Diego
 
-![](/img/apple-touch-icon.png "Gold Sponsor 2")
-
-**Sponsor 2**
-
-# Silver Sponsors
-
-todo
-
-# Bronze Sponsors
-
-todo
+Nick Colonnese, Facebook Reality Labs
