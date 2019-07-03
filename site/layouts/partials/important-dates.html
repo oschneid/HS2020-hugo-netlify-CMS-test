@@ -1,0 +1,15 @@
+<div class="mw3 center">
+  <h1>Important Dates</h1>
+  <ul class="flex-wrap mhn1-ns pa3 pa2">
+  {{ range where .Pages.ByDate "Section" "important-dates" }}
+      {{ if ge .Date.Unix now.Unix }}
+          <li class="w-100-ns ph1-ns flex">
+          <!-- add span for event type -->
+            <h2> {{ .Title }} </h2>
+            <p>{{ .Date.Format "2 January at 3:04pm" }}</p>
+          </li>
+      {{ end }}
+  {{ end }}
+  </ul>
+</div>
+
