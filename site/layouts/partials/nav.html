@@ -8,7 +8,9 @@
 	>
 
 	<!-- Overall Header -->
-	<div class="flex-column pb3 pb4-ns pb6-l">
+	<div class="flex-column pb3 pb4-ns pb6-l"
+	style="text-shadow: 1px 1px 2px black;"
+	>
 
 		<!-- Title bar -->
 		<div class="flex-wrap flex-ns justify-between">
@@ -28,14 +30,18 @@
 
 			<!-- Social Media -->
 			<ul class="flex b grey-3 h-25 db">
-				{{ partial "social-icon" (dict "link" "https://www.facebook.com/HapticsSymposium" "svg" "icons-facebook") }}
-				{{ partial "social-icon" (dict "link" "http://twitter.com/ieeehaptics" "svg" "icons-twitter") }}
+				<div class="center">
+						{{ partial "social-icon" (dict "link" "https://www.facebook.com/HapticsSymposium" "svg" "icons-facebook") }}
+						{{ partial "social-icon" (dict "link" "http://twitter.com/ieeehaptics" "svg" "icons-twitter") }}		
+				</div>
 				<!-- {{ partial "social-icon" (dict "link" "#" "svg" "icons-instagram") }} -->
 			</ul>
 		</div>
 
 		<!-- Primary Nav -->
-		<ul class="flex-wrap flex-ns b grey-2 db center ph2-ns f6 f4-ns">
+		<ul class="flex-wrap flex-ns b grey-2 db center ph2-ns f6 f5-ns"
+			style="text-shadow: 1px 1px 2px black;"
+			>
 			<li><a href="/" class="ph1 ph2-ns pv1 pv2-ns no-underline db">Home</a></li>
 
 			<li><a href="/attending" class="ph1 ph2-ns pv1 pv2-ns no-underline db">Attending</a></li>
