@@ -1,6 +1,6 @@
 ---
 title: "Home"
-image: /img/bg01.jpg
+image: /img/bg07.jpg
 ---
 
 **Welcome to IEEE Haptics Symposium 2020!**
