@@ -1,4 +1,4 @@
 ---
 title: "Presenting"
-image: /img/dc/bg03.jpg
+image: /img/bg03.jpg
 ---
