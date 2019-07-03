@@ -1,16 +1,23 @@
-<nav class="overflow-x-scroll overflow-x-visible-ns flex justify-between items-center center bg-white divider-grey relative">
+<nav
+	class="overflow-x-scroll overflow-x-visible-ns flex-column justify-between items-center center bg-white divider-grey relative pv1 pv2-l ph3-ns bg-center cover"
+	{{ if .Params.Image }}
+		style="background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.33), rgba(0, 0, 0, 0) 75%), url('{{.Params.Image}}')"
+	{{ else if .Parent }}
+		style="background-image: url('{{.CurrentSection.Params.Image}}')"
+	{{ end }}
+	>
 
 	<!-- Overall Header -->
-	<div class="flex-column w-100">
+	<div class="flex-column pb3 pb6-ns">
 
 		<!-- Title bar -->
-		<div class="flex justify-between">
+		<div class="flex-wrap flex-ns justify-between">
 			<!-- Logo -->
-			<a href="/" class="flex ph3 pv1 db mr4 items-end tl no-underline">
-				<img src="/img/hs-logo.png" alt="Haptics Symposium Logo" class="br0 db mb0 h-100"/>
-				<div class="flex-column db tb h-100">
-					<h1 class="f3 lh-title"> {{ .Site.Title }} </h1>
-					<p class="f5 lh-copy ma0">
+			<a href="/" class="flex-wrap flex-ns ph3-ns pv1-ns db mr4-ns items-end tl no-underline">
+				<img src="/img/hs-logo.png" alt="Haptics Symposium Logo" class="br0 db center"/>
+				<div class="flex-column db tb h-100 grey-1 center">
+					<h1 class="f4 f3-ns lh-title tc tl-ns"> {{ .Site.Title }} </h1>
+					<p class="f6 f5-ns lh-copy tc tl-ns">
 						{{ .Site.Params.ConferenceDate }} |
 						{{ .Site.Params.ConferenceLocation }} 
 					</p>
@@ -18,34 +25,39 @@
 			</a>
 
 			<!-- Social Media -->
-			<ul class="flex b grey-3 db">
+			<ul class="flex b grey-3 h-25 db">
 				{{ partial "social-icon" (dict "link" "https://www.facebook.com/HapticsSymposium" "svg" "icons-facebook") }}
 				{{ partial "social-icon" (dict "link" "http://twitter.com/ieeehaptics" "svg" "icons-twitter") }}
 				<!-- {{ partial "social-icon" (dict "link" "#" "svg" "icons-instagram") }} -->
 			</ul>
-
 		</div>
 
 		<!-- Primary Nav -->
-		<ul class="flex b grey-3 db center ph5-l ph1">
-			<li><a href="/" class="ph4 pv2 no-underline db">Home</a></li>
+		<ul class="flex-wrap flex-ns b grey-2 db center ph2-ns f6 f4-ns">
+			<li><a href="/" class="ph1 ph2-ns pv1 pv2-ns no-underline db">Home</a></li>
 
-			<li><a href="/attending" class="ph4 pv2 no-underline db">Attending</a></li>
+			<li><a href="/attending" class="ph1 ph2-ns pv1 pv2-ns no-underline db">Attending</a></li>
 
-			<li><a href="/presenting" class="ph4 pv2 no-underline db">Presenting</a></li>
+			<li><a href="/presenting" class="ph1 ph2-ns pv1 pv2-ns no-underline db">Presenting</a></li>
 			
-			<li><a href="/organization" class="ph4 pv2 no-underline db">Organization</a></li>
+			<li><a href="/organization" class="ph1 ph2-ns pv1 pv2-ns no-underline db">Organization</a></li>
 
-			<li><a href="/sponsors" class="ph4 pv2 no-underline db">Sponsors</a></li>
+			<li><a href="/sponsors" class="ph1 ph2-ns pv1 pv2-ns no-underline db">Sponsors</a></li>
 	
-			<li><a href="http://about.hapticssymposium.org/" class="ph4 pv2 no-underline db">About</a></li>
+			<li><a href="http://about.hapticssymposium.org/" class="ph1 ph2-ns pv1 pv2-ns no-underline db">About</a></li>
 			
 		</ul>
 	</div>
 
-	
+	<!-- <div class="pt3 pb6-ns pb3-ns mw7 ph3">
+		<div class="db mb3">
+			<div class="mw7 relative bg-fix-primary mb3">
+			<h1 class="f3 f2-ns b di lh-title mb2 white mw6 bg-primary">
+				{{ .Title}}
+			</h1>
+			</div>
+		</div>
+	</div> -->
 
-	
-	
 
 </nav>
