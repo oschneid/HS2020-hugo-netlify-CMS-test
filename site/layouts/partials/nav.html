@@ -1,5 +1,5 @@
 <nav
-	class="overflow-x-scroll overflow-x-visible-ns flex-column justify-between items-center center bg-white divider-grey relative pv1 pv2-l ph3 bg-center cover"
+	class="overflow-x-scroll overflow-x-visible-ns flex-column justify-between items-center center bg-white divider-grey relative pv1 pv2-l ph3-ns bg-center cover"
 	{{ if .Params.Image }}
 		style="background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.33), rgba(0, 0, 0, 0) 75%), url('{{.Params.Image}}')"
 	{{ else if .Parent }}
@@ -13,11 +13,11 @@
 		<!-- Title bar -->
 		<div class="flex justify-between">
 			<!-- Logo -->
-			<a href="/" class="flex ph3 pv1 db mr4 items-end tl no-underline">
-				<img src="/img/hs-logo.png" alt="Haptics Symposium Logo" class="br0 db mb0 h-100"/>
+			<a href="/" class="flex-wrap flex-ns ph3-ns pv1-ns db mr4 items-end tl no-underline">
+				<img src="/img/hs-logo.png" alt="Haptics Symposium Logo" class="br0 db"/>
 				<div class="flex-column db tb h-100 grey-1">
-					<h1 class="f3 lh-title"> {{ .Site.Title }} </h1>
-					<p class="f5 lh-copy ma0">
+					<h1 class="f4 f3-ns lh-title"> {{ .Site.Title }} </h1>
+					<p class="f6 f5-ns lh-copy ma0">
 						{{ .Site.Params.ConferenceDate }} |
 						{{ .Site.Params.ConferenceLocation }} 
 					</p>
@@ -34,26 +34,26 @@
 		</div>
 
 		<!-- Primary Nav -->
-		<ul class="flex b grey-2 db center ph5-l ph1">
-			<li><a href="/" class="ph4 pv2 no-underline db">Home</a></li>
+		<ul class="flex-wrap flex-ns b grey-2 db center ph2-ns f6 f4-ns">
+			<li><a href="/" class="ph1 ph2-ns pv1 pv2-ns no-underline db">Home</a></li>
 
-			<li><a href="/attending" class="ph4 pv2 no-underline db">Attending</a></li>
+			<li><a href="/attending" class="ph1 ph2-ns pv1 pv2-ns no-underline db">Attending</a></li>
 
-			<li><a href="/presenting" class="ph4 pv2 no-underline db">Presenting</a></li>
+			<li><a href="/presenting" class="ph1 ph2-ns pv1 pv2-ns no-underline db">Presenting</a></li>
 			
-			<li><a href="/organization" class="ph4 pv2 no-underline db">Organization</a></li>
+			<li><a href="/organization" class="ph1 ph2-ns pv1 pv2-ns no-underline db">Organization</a></li>
 
-			<li><a href="/sponsors" class="ph4 pv2 no-underline db">Sponsors</a></li>
+			<li><a href="/sponsors" class="ph1 ph2-ns pv1 pv2-ns no-underline db">Sponsors</a></li>
 	
-			<li><a href="http://about.hapticssymposium.org/" class="ph4 pv2 no-underline db">About</a></li>
+			<li><a href="http://about.hapticssymposium.org/" class="ph1 ph2-ns pv1 pv2-ns no-underline db">About</a></li>
 			
 		</ul>
 	</div>
 
-	<div class="pt3 pb6 mw7 ph3">
+	<div class="pt3 pb6-ns pb4 mw7 ph3">
 		<div class="db mb3">
 			<div class="mw7 relative bg-fix-primary mb3">
-			<h1 class="f2 f1-l b di lh-title mb3 white mw6 bg-primary">
+			<h1 class="f3 f2-ns b di lh-title mb3 white mw6 bg-primary">
 				{{ .Title}}
 			</h1>
 			</div>
