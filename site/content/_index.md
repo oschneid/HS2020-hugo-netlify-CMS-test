@@ -5,8 +5,16 @@ image: /img/bg07.jpg
 
 **Welcome to IEEE Haptics Symposium 2020!**
 
-Held since 1992, the IEEE Haptics Symposium is a vibrant interdisciplinary forum where psychophysicists, engineers, and designers come together to share advances, spark new collaborations, and envision a future that benefits from rich physical interactions between humans and computers, generated through haptic (force and tactile) devices.  
+Held since 1992, the IEEE Haptics Symposium is a vibrant interdisciplinary forum of research in neuroscience, perception, engineering, and design, focused on sharing new advances in our understanding of the sense of touch, sparking new collaborations, and envisioning a future in which physical interactions are enriched through haptic technologies.  
 
-The 2018 conference included two cross-cutting challenge sessions, 57 oral presentations of technical papers, 37 poster presentations of recent IEEE Transactions on Haptics articles, 32 poster presentations of work-in-progress papers, 36 hands-on demonstrations, many industry exhibits, a delicious banquet, technical tours of haptics labs at Stanford University, and much more!  Learn more via the compact program overview, the detailed online program, the iOs Confero app, the Android Confero app, and the symposium proceedings.  Registered conference attendees can access the papers and proceedings using credentials shared by email.
+The 2020 conference will include cross-cutting challenge sessions, technical paper sessions presenting the latest advances in haptics, work-in-progress posters, and featured sessions presenting recent findings reported in IEEE Transactions on Haptics. An exciting social activities program will provide opportunities for socializing and networking.
+
+New for 2020, a conference journal papers track provides the opportunity for authors to present new findings at the conference for simultaneous publication in IEEE Transactions on Haptics.
 
 The 2020 conference has lots of information to come!
+
+### Upcoming deadlines:
+
+September 6, 2019: [Cross cutting challenge theme proposals](/presenting/cross-cutting-challenges/)
+September 27, 2019: Early submission, IEEE Transactions on Haptics journal papers track
+October 20, 2019: [Regular submission, Conference technical papers track](/presenting/technical-papers/)
