@@ -1,9 +1,7 @@
 <nav
 	class="overflow-x-scroll overflow-x-visible-ns flex-column justify-between items-center center bg-white divider-grey relative pv1 pv2-l ph3-ns bg-center cover"
-	{{ if .Params.Image }}
-		style="background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.33), rgba(0, 0, 0, 0) 75%), url('{{.Params.Image}}')"
-	{{ else if .Parent }}
-		style="background-image: url('{{.CurrentSection.Params.Image}}')"
+	{{ with .CurrentSection }}
+		style="background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.33), rgba(0, 0, 0, 0) 75%), url('{{ .Params.Image }}')"
 	{{ end }}
 	>
 
