@@ -6,4 +6,4 @@ We are excited to welcome the worldwide haptics community to Washington, DC for 
 
 ![Smiling student volunteers welcome attendees](/img/slide-image-6-crop.jpg)
 
-For now registration details are still being finalized. You can see previous registration information [here](http://2018.hapticssymposium.org/registration).
+Registration details are still being finalized. You can see previous registration information [here](http://2018.hapticssymposium.org/registration).
