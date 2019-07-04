@@ -99,4 +99,9 @@
       margin: 0;
     }
   }
+
+  /* Paragraph */
+  & p {
+	  max-width: 100%;
+  }
 }
