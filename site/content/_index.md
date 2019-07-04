@@ -13,8 +13,12 @@ New for 2020, a conference journal papers track provides the opportunity for aut
 
 The 2020 conference has lots of information to come!
 
+![Attendees having fun at Haptics Symposium](/img/slide-image-11-crop.jpg)
+
 ### Upcoming deadlines:
 
 September 6, 2019: [Cross cutting challenge theme proposals](/presenting/cross-cutting-challenges/)
-September 27, 2019: Early submission, IEEE Transactions on Haptics journal papers track
+
+September 27, 2019: [Early submission, IEEE Transactions on Haptics journal papers track](/presenting/early-toh)
+
 October 20, 2019: [Regular submission, Conference technical papers track](/presenting/technical-papers/)
