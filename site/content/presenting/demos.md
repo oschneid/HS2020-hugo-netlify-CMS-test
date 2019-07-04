@@ -12,10 +12,13 @@ description: >-
   apply for demonstration space to support their presentation. Demonstrations
   must be free of commercial content; companies wishing to showcase products
   should apply for exhibitor status.
+image: /img/slide-image-3.jpg
 ---
 Haptics Symposium strongly encourages demonstrations of all kinds - for example, of novel developments in haptics-related devices, software or experiments that are of interest to the conference audience.
 
 Submission of hands-on demonstrations is open to all members of the haptics research community. Authors of accepted papers are particularly welcome to apply for demonstration space to support their presentation. Demonstrations must be free of commercial content; companies wishing to showcase products should apply for exhibitor status.
+
+![](/img/slide-image-4.jpg)
 
 Paper Format
 
