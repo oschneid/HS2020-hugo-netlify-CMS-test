@@ -6,11 +6,11 @@ description: >
   community and particularly to this conference.
 image: /img/bg04.jpg
 ---
-IEEE Haptics Symposium depends on the service of several committees to handle planning, logistics, and diverse technical programs.
-
-![Previous chairs of Haptics Symposium](/img/slide-image-12-crop.jpg "Some of the General Chairs for IEEE Haptics Symposium over the years")
-
-In 2020, the General Chairs (<mailto:chairs@hapticssymposium.org>) are:
+IEEE Haptics Symposium depends on the service of several committees to handle planning, logistics, and diverse technical programs. In 2020, the General Chairs (<mailto:chairs@hapticssymposium.org>) are:
 
 * Greg Gerling   University of Virginia, USA
 * Yon Visell   University of California, Santa Barbara, USA
+
+![Previous chairs of Haptics Symposium](/img/slide-image-12-crop.jpg "Some of the General Chairs for IEEE Haptics Symposium over the years")
+
+Some of the General Chairs for IEEE Haptics Symposium from over the years.
