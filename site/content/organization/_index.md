@@ -4,10 +4,13 @@ description: >
   Members of the Organizing Committee handle all planning and logistics for the
   IEEE Haptics Symposium.  We deeply appreciate their service to the haptics
   community and particularly to this conference.
-image: '/img/bg04.jpg'
+image: /img/bg04.jpg
 ---
-General Chairs   <mailto:chairs@hapticssymposium.org>
+IEEE Haptics Symposium depends on the service of several committees to handle planning, logistics, and diverse technical programs.
 
-Greg Gerling   University of Virginia, USA
+![Previous chairs of Haptics Symposium](/img/slide-image-12-crop.jpg "Some of the General Chairs for IEEE Haptics Symposium over the years")
 
-Yon Visell   University of California, Santa Barbara, USA
+In 2020, the General Chairs (<mailto:chairs@hapticssymposium.org>) are:
+
+* Greg Gerling   University of Virginia, USA
+* Yon Visell   University of California, Santa Barbara, USA
