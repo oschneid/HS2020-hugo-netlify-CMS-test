@@ -3,6 +3,7 @@ title: Email List
 description: >-
   We have a dedicated email list to distribute infrequent but important
   information about the IEEE Haptics Symposium.
+weight: 10
 ---
 We have a dedicated email list to distribute infrequent but important information about the 2020 IEEE Haptics Symposium.
 

@@ -6,6 +6,7 @@ description: >-
   track will be presented at the conference and simultaneously published as
   short papers in IEEE Transactions on Haptics. These papers are up to 6 pages
   in length, including references.
+weight: 2
 ---
 We solicit technical papers that report original, novel, unpublished work relevant to all the scientific, technological, and application aspects of haptics.
 

@@ -7,6 +7,7 @@ description: >-
   application aspects of haptics. Papers are up to 6 pages in length, including
   references.
 image: ''
+weight: 3
 ---
 We solicit technical papers that report original, novel, unpublished work relevant to all the scientific, technological, and application aspects of haptics.
 

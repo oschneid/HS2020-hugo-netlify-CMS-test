@@ -1,6 +1,7 @@
 ---
 title: Registration
 description: Registration details will be announced soon.
+weight: 2
 ---
 We are excited to welcome the worldwide haptics community to Washington, DC for the 2020 Haptics Symposium. This page explains how conference registration will work this year, and will also include a link to the registration website when it opens.
 
