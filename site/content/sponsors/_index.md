@@ -6,8 +6,8 @@ We are delighted to invite you to support the 2020 IEEE Haptics Symposium as a s
 
 For sponsorship opportunities, please contact the sponsorship chairs: <mailto:sponsorship@hapticssymposium.org>
 
-Hong Tan, Purdue University
+The 2020 Sponsorship Chairs are:
 
-Tania Morimoto, University of California, San Diego
-
-Nick Colonnese, Facebook Reality Labs
+* Hong Tan, Purdue University
+* Tania Morimoto, University of California, San Diego
+* Nick Colonnese, Facebook Reality Labs
