@@ -18,76 +18,104 @@ Members of the Organizing Committee handle all planning and logistics for the IE
 
 [editors@hapticssymposium.org](editors@hapticssymposium.org)
 
-* Veronica J Santos
-* Fernando Bello
-* Ingvars Birznieks
+* Veronica J Santos, University of California, Los Angeles
+* Fernando Bello, Imperial College London
+* Ingvars Birznieks, UNSW Sydney
 
 ## Publications
 
-* Veronica J. Santos
+[publications@hapticssymposium.org](publications@hapticssymposium.org)
+
+* Veronica J. Santos, University of California, Los Angeles
 
 ## Program
 
-* Vincent Levesque
+[program@hapticssymposium.org](program@hapticssymposium.org)
+
+* Vincent Levesque, École de Technologie Supérieure
 
 ## WIP
 
-* Heather Culbertson
+[wip@hapticssymposium.org](wip@hapticssymposium.org)
+
+* Heather Culbertson, University of Southern California
 
 ## ToH Posters
 
-* Ilana Nisky
+[tohp@hapticssymposium.org](tohp@hapticssymposium.org)
+
+* Ilana Nisky, Ben Gurion University of the Negev
 
 ## Finance
 
-* Keyvan Hashtrudi-Zaad 
+[finance@hapticssymposium.org](finance@hapticssymposium.org)
+
+* Keyvan Hashtrudi-Zaad, Queen's University
 
 ## Sponsorship and Exhibits (Integrated Industry Involvement)
 
-* Nick Colonese
-* Hong Tan
-* Tania Morimoto
+[sponsorship@hapticssymposium.org](sponsorship@hapticssymposium.org)
+
+* Nick Colonese, Oculus VR Research
+* Hong Tan, Purdue University
+* Tania Morimoto, University of California San Diego
 
 ## Demos
 
-* Ad Spiers
-* Claudio Pacchierotti
+[de@hapticssymposium.org](de@hapticssymposium.org)
+
+* Ad Spiers, Max Planck Institute for Intelligent Systems
+* Claudio Pacchierotti, Centre national de la recherche scientifique
 
 ## Social Activities
 
-* Jeremy Brown
-* Jenna Gorlewicz
+[localarrangements@hapticssymposium.org](localarrangements@hapticssymposium.org)
+
+* Jeremy Brown, Johns Hopkins University
+* Jenna Gorlewicz, Saint Louis University
 
 ## Awards
 
-* Katherine Kuchenbecker
+[awards@hapticssymposium.org](awards@hapticssymposium.org)
+
+* Katherine Kuchenbecker, Max Planck Institute for Intelligent Systems
 
 ## Publicity
 
-* Rebecca Khurshid
+[publicity@hapticssymposium.org](publicity@hapticssymposium.org)
+
+* Rebecca Khurshid, Boston University
 
 ## Cross-Cutting Challenges
 
-* Manuel Cruz
-* Cagatay Basdogan
+[ccc@hapticssymposium.org](ccc@hapticssymposium.org)
+
+* Manuel Cruz, Immersion
+* Cagatay Basdogan, Koç University
 
 ## Registration
 
-* Caroline Cao
+[registration@hapticssymposium.org](registration@hapticssymposium.org)
+
+* Caroline Cao, Wright State University
 
 ## Student Volunteers
 
-* Fabrizio Sergi
-* Deborah Egloff
+[sv@hapticssymposium.org](sv@hapticssymposium.org)
+
+* Fabrizio Sergi, University of Delaware
+* Deborah Egloff, McGill University
 
 ## Videos
 
-* Ildar Farkhatdinov
+* Ildar Farkhatdinov, Queen Mary University of London
 
 ## Social media & Public relations
 
-* Pedro Lopes
+* Pedro Lopes, University of Chicago
 
 ## Webmaster
 
-* Oliver Schneider
+[webmaster@hapticssymposium.org](webmaster@hapticssymposium.org)
+
+* Oliver Schneider, University of Waterloo
