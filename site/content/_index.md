@@ -19,6 +19,6 @@ The 2020 conference has lots of information to come!
 
 September 6, 2019: [Cross cutting challenge theme proposals](/presenting/cross-cutting-challenges/)
 
-September 27, 2019: [Early submission, IEEE Transactions on Haptics journal papers track](/presenting/early-toh)
+September 27, 2019: [Early submission, IEEE Transactions on Haptics journal papers track](/presenting/transactions-on-haptics-early-submission)
 
 October 20, 2019: [Regular submission, Conference technical papers track](/presenting/technical-papers/)
