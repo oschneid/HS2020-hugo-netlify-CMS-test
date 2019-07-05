@@ -15,6 +15,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Deadline", name: "deadline", widget: "string", required: false}
       - {label: "Intro Blurb", name: "description", widget: "markdown", required: false}
       - {label: "Image", name: "image", widget: "image", required: false}
+      - {label: "Order", name: "weight", widget: "number", default: 1, valueType: "int", required: false}
       - {label: "Body", name: "body", widget: "markdown", required: false}
   - name: "organization" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Organization" # Used in the UI, ie.: "New Post"
@@ -24,6 +25,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Intro Blurb", name: "description", widget: "markdown", required: false}
       - {label: "Image", name: "image", widget: "image", required: false}
+      - {label: "Order", name: "weight", widget: "number", default: 1, valueType: "int", required: false}
       - {label: "Body", name: "body", widget: "markdown", required: false}
   - name: "attending" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Attending" # Used in the UI, ie.: "New Post"
@@ -33,6 +35,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Intro Blurb", name: "description", widget: "markdown", required: false}
       - {label: "Image", name: "image", widget: "image", required: false}
+      - {label: "Order", name: "weight", widget: "number", default: 1, valueType: "int", required: false}
       - {label: "Body", name: "body", widget: "markdown", required: false}
   - name: "sponsors" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Sponsors" # Used in the UI, ie.: "New Post"
