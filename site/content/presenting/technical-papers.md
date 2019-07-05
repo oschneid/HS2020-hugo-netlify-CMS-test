@@ -59,7 +59,7 @@ Videos will be submitted for publication to IEEE Xplore and may be used to promo
 
 Guidelines: format (mpeg 4, .mp4), length (up to 2 minutes), resolution (at least 480p progressive scan), and file size (up to 40 MB).  Final (but not initial) video submissions will need to include some simple additional files for IEEE Xplore compliance.
 
-IEEE Transactions on Haptics (ToH) Referral Program
+## IEEE Transactions on Haptics (ToH) Referral Program
 
 The top 10% of submissions selected by the Program Committee based on reviews will be referred to the IEEE Transactions on Haptics (ToH) for expedited review of an evolved, journal-length version.
 
