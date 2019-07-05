@@ -16,7 +16,7 @@ description: >-
 
 
   A dedicated website is now available for our attendees to book their hotel
-  rooms online. Reservations can be made starting Jun 21, 2019 at this web
+  rooms online. Reservations can be made starting June 21, 2019 at this web
   address: 
 
 
