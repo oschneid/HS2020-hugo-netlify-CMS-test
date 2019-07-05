@@ -54,7 +54,7 @@ The submitted title, author list, abstract, image, and video will be included in
 
 ## Demonstration Details
 
-Demonstrations will be assigned to specific sessions on Monday, March 29, and Tuesday, March 30, in which authors are required to be near their demo to engage in interactive discussions with other conference attendees.
+Demonstrations will be assigned to specific sessions in which authors are required to be near their demo to engage in interactive discussions with other conference attendees.
 
 Demonstration authors are encouraged to bring a poster to accompany their demo.
 
