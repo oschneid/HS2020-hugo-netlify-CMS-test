@@ -11,3 +11,11 @@ The 2020 Sponsorship Chairs are:
 * Hong Tan, Purdue University
 * Tania Morimoto, University of California, San Diego
 * Nick Colonnese, Facebook Reality Labs
+
+# Current Sponsors
+
+![IEEE Logo](/img/ieee_logo.png "IEEE")
+
+![IEEE Robotics and Automation Society Logo](/img/ieee_ras_logo.png "IEEE Robotics and Automation Society")
+
+![Technical Committee on Haptics Logo](/img/tch_logo.png "Technical Committee on Haptics")
