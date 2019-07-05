@@ -8,115 +8,115 @@ weight: 1
 ---
 Members of the Organizing Committee handle all planning and logistics for the IEEE Haptics Symposium. We deeply appreciate their service to the haptics community and particularly to this conference.  
 
-## General Chairs
+## General Co-Chairs
 
-[chairs@hapticssymposium.org](mailto:chairs@hapticssymposium.org)
+<mailto:chairs@hapticssymposium.org>
 
 * Greg Gerling, University of Virginia
 * Yon Visell, University of California, Santa Barbara
 
 ## Conference Editorial Board
 
-[editors@hapticssymposium.org](mailto:editors@hapticssymposium.org)
+<mailto:editors@hapticssymposium.org>
 
-* Veronica J Santos, University of California, Los Angeles
+* Veronica J. Santos (Editor in Chief), University of California, Los Angeles
 * Fernando Bello, Imperial College London
 * Ingvars Birznieks, UNSW Sydney
 
-## Publications
+## Publications Chair
 
-[publications@hapticssymposium.org](mailto:publications@hapticssymposium.org)
+<mailto:publications@hapticssymposium.org>
 
 * Veronica J. Santos, University of California, Los Angeles
 
-## Program
+## Program Chair
 
-[program@hapticssymposium.org](mailto:program@hapticssymposium.org)
+<mailto:program@hapticssymposium.org>
 
-* Vincent Levesque, École de Technologie Supérieure
+* Vincent Levesque, École de Technologie Supérieure, Montréal
 
-## WIP
+## Works-in-Progress Chair
 
-[wip@hapticssymposium.org](mailto:wip@hapticssymposium.org)
+<mailto:wip@hapticssymposium.org>
 
 * Heather Culbertson, University of Southern California
 
-## ToH Posters
+## Transactions on Haptics Posters Chair
 
-[tohp@hapticssymposium.org](mailto:tohp@hapticssymposium.org)
+<mailto:tohp@hapticssymposium.org>
 
 * Ilana Nisky, Ben Gurion University of the Negev
 
-## Finance
+## Finance Chair
 
-[finance@hapticssymposium.org](mailto:finance@hapticssymposium.org)
+<mailto:finance@hapticssymposium.org>
 
 * Keyvan Hashtrudi-Zaad, Queen's University
 
-## Sponsorship and Exhibits (Integrated Industry Involvement)
+## Sponsorship and Exhibits Chairs (Integrated Industry Involvement)
 
-[sponsorship@hapticssymposium.org](mailto:sponsorship@hapticssymposium.org)
+<mailto:sponsorship@hapticssymposium.org>
 
-* Nick Colonese, Oculus VR Research
+* Nick Colonese, Facebook
 * Hong Tan, Purdue University
-* Tania Morimoto, University of California San Diego
+* Tania Morimoto, University of California, San Diego
 
-## Demos
+## Demonstrations and Exhibits Chairs
 
-[de@hapticssymposium.org](mailto:de@hapticssymposium.org)
+<mailto:de@hapticssymposium.org>
 
-* Ad Spiers, Max Planck Institute for Intelligent Systems
-* Claudio Pacchierotti, Centre national de la recherche scientifique
+* Ad Spiers, Max Planck Institute for Intelligent Systems, Stuttgart
+* Claudio Pacchierotti, Centre national de la recherche scientifique (CNRS), Rennes
 
-## Social Activities
+## Social Activities Chairs
 
-[localarrangements@hapticssymposium.org](mailto:localarrangements@hapticssymposium.org)
+<mailto:localarrangements@hapticssymposium.org>
 
 * Jeremy Brown, Johns Hopkins University
 * Jenna Gorlewicz, Saint Louis University
 
-## Awards
+## Awards Chair
 
-[awards@hapticssymposium.org](mailto:awards@hapticssymposium.org)
+<mailto:awards@hapticssymposium.org>
 
-* Katherine Kuchenbecker, Max Planck Institute for Intelligent Systems
+* Katherine Kuchenbecker, Max Planck Institute for Intelligent Systems, Stuttgart
 
-## Publicity
+## Publicity Chair
 
-[publicity@hapticssymposium.org](mailto:publicity@hapticssymposium.org)
+<mailto:publicity@hapticssymposium.org>
 
 * Rebecca Khurshid, Boston University
 
-## Cross-Cutting Challenges
+## Cross-Cutting Challenges Chair
 
-[ccc@hapticssymposium.org](mailto:ccc@hapticssymposium.org)
+<mailto:ccc@hapticssymposium.org>
 
 * Manuel Cruz, Immersion
 * Cagatay Basdogan, Koç University
 
-## Registration
+## Registration Chair
 
-[registration@hapticssymposium.org](mailto:registration@hapticssymposium.org)
+<mailto:registration@hapticssymposium.org>
 
 * Caroline Cao, Wright State University
 
-## Student Volunteers
+## Student Volunteers Chairs
 
-[sv@hapticssymposium.org](mailto:sv@hapticssymposium.org)
+<mailto:sv@hapticssymposium.org>
 
 * Fabrizio Sergi, University of Delaware
 * Deborah Egloff, McGill University
 
-## Videos
+## Videos Chair
 
 * Ildar Farkhatdinov, Queen Mary University of London
 
-## Social media & Public relations
+## Social Media & Public Relations Chair
 
 * Pedro Lopes, University of Chicago
 
-## Webmaster
+## Web Chair
 
-[webmaster@hapticssymposium.org](mailto:webmaster@hapticssymposium.org)
+<mailto:webmaster@hapticssymposium.org>
 
 * Oliver Schneider, University of Waterloo
