@@ -10,7 +10,7 @@ The 2020 Sponsorship Chairs are:
 
 * Hong Tan, Purdue University
 * Tania Morimoto, University of California, San Diego
-* Nick Colonnese, Facebook Reality Labs
+* Nick Colonnese, Facebook
 
 # Current Sponsors
 
