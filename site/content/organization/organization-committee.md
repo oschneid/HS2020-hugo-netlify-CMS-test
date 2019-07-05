@@ -9,14 +9,14 @@ Members of the Organizing Committee handle all planning and logistics for the IE
 
 ## General Chairs
 
-[chairs@hapticssymposium.org](chairs@hapticssymposium.org)
+[chairs@hapticssymposium.org](mailto:chairs@hapticssymposium.org)
 
 * Greg Gerling, University of Virginia
 * Yon Visell, University of California, Santa Barbara
 
 ## Conference Editorial Board
 
-[editors@hapticssymposium.org](editors@hapticssymposium.org)
+[editors@hapticssymposium.org](mailto:editors@hapticssymposium.org)
 
 * Veronica J Santos, University of California, Los Angeles
 * Fernando Bello, Imperial College London
@@ -24,37 +24,37 @@ Members of the Organizing Committee handle all planning and logistics for the IE
 
 ## Publications
 
-[publications@hapticssymposium.org](publications@hapticssymposium.org)
+[publications@hapticssymposium.org](mailto:publications@hapticssymposium.org)
 
 * Veronica J. Santos, University of California, Los Angeles
 
 ## Program
 
-[program@hapticssymposium.org](program@hapticssymposium.org)
+[program@hapticssymposium.org](mailto:program@hapticssymposium.org)
 
 * Vincent Levesque, École de Technologie Supérieure
 
 ## WIP
 
-[wip@hapticssymposium.org](wip@hapticssymposium.org)
+[wip@hapticssymposium.org](mailto:wip@hapticssymposium.org)
 
 * Heather Culbertson, University of Southern California
 
 ## ToH Posters
 
-[tohp@hapticssymposium.org](tohp@hapticssymposium.org)
+[tohp@hapticssymposium.org](mailto:tohp@hapticssymposium.org)
 
 * Ilana Nisky, Ben Gurion University of the Negev
 
 ## Finance
 
-[finance@hapticssymposium.org](finance@hapticssymposium.org)
+[finance@hapticssymposium.org](mailto:finance@hapticssymposium.org)
 
 * Keyvan Hashtrudi-Zaad, Queen's University
 
 ## Sponsorship and Exhibits (Integrated Industry Involvement)
 
-[sponsorship@hapticssymposium.org](sponsorship@hapticssymposium.org)
+[sponsorship@hapticssymposium.org](mailto:sponsorship@hapticssymposium.org)
 
 * Nick Colonese, Oculus VR Research
 * Hong Tan, Purdue University
@@ -62,46 +62,46 @@ Members of the Organizing Committee handle all planning and logistics for the IE
 
 ## Demos
 
-[de@hapticssymposium.org](de@hapticssymposium.org)
+[de@hapticssymposium.org](mailto:de@hapticssymposium.org)
 
 * Ad Spiers, Max Planck Institute for Intelligent Systems
 * Claudio Pacchierotti, Centre national de la recherche scientifique
 
 ## Social Activities
 
-[localarrangements@hapticssymposium.org](localarrangements@hapticssymposium.org)
+[localarrangements@hapticssymposium.org](mailto:localarrangements@hapticssymposium.org)
 
 * Jeremy Brown, Johns Hopkins University
 * Jenna Gorlewicz, Saint Louis University
 
 ## Awards
 
-[awards@hapticssymposium.org](awards@hapticssymposium.org)
+[awards@hapticssymposium.org](mailto:awards@hapticssymposium.org)
 
 * Katherine Kuchenbecker, Max Planck Institute for Intelligent Systems
 
 ## Publicity
 
-[publicity@hapticssymposium.org](publicity@hapticssymposium.org)
+[publicity@hapticssymposium.org](mailto:publicity@hapticssymposium.org)
 
 * Rebecca Khurshid, Boston University
 
 ## Cross-Cutting Challenges
 
-[ccc@hapticssymposium.org](ccc@hapticssymposium.org)
+[ccc@hapticssymposium.org](mailto:ccc@hapticssymposium.org)
 
 * Manuel Cruz, Immersion
 * Cagatay Basdogan, Koç University
 
 ## Registration
 
-[registration@hapticssymposium.org](registration@hapticssymposium.org)
+[registration@hapticssymposium.org](mailto:registration@hapticssymposium.org)
 
 * Caroline Cao, Wright State University
 
 ## Student Volunteers
 
-[sv@hapticssymposium.org](sv@hapticssymposium.org)
+[sv@hapticssymposium.org](mailto:sv@hapticssymposium.org)
 
 * Fabrizio Sergi, University of Delaware
 * Deborah Egloff, McGill University
@@ -116,6 +116,6 @@ Members of the Organizing Committee handle all planning and logistics for the IE
 
 ## Webmaster
 
-[webmaster@hapticssymposium.org](webmaster@hapticssymposium.org)
+[webmaster@hapticssymposium.org](mailto:webmaster@hapticssymposium.org)
 
 * Oliver Schneider, University of Waterloo
