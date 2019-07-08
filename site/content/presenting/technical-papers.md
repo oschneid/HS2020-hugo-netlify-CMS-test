@@ -9,6 +9,8 @@ description: >-
 image: ''
 weight: 3
 ---
+# Technical Papers in Conference Proceedings
+
 We solicit technical papers that report original, novel, unpublished work relevant to all the scientific, technological, and application aspects of haptics.
 
 ## **Paper Format**
@@ -34,8 +36,6 @@ Author names and affiliations should be specified in all technical papers.
 20 October, 2019 (11:59 Pacific Time)
 
 ## **Submission Method**
-
-Technical paper submission is now open!
 
 All technical papers (with optional videos) should be submitted using PrecisionConference.  Select the "Haptics Symposium" Society, "Haptics 2020" Conference, and "Haptics 2020 Technical Papers" Track. 
 
@@ -63,7 +63,7 @@ Guidelines: format (mpeg 4, .mp4), length (up to 2 minutes), resolution (at leas
 
 The top 10% of submissions selected by the Program Committee based on reviews will be referred to the IEEE Transactions on Haptics (ToH) for expedited review of an evolved, journal-length version.
 
-HAPTICS reviews will be regarded as first-round reviews in order to accelerate the review process of ToH.
+IEEE Haptics Symposium reviews will be regarded as first-round reviews in order to accelerate the review process of ToH.
 
 Authors who want their papers to be considered for this program will need to indicate it and provide a brief description of the planned evolution of the paper during the submission process.
 
