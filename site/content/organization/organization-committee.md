@@ -109,9 +109,13 @@ Members of the Organizing Committee handle all planning and logistics for the IE
 
 ## Videos Chair
 
+<mailto:videos@hapticssymposium.org>
+
 * Ildar Farkhatdinov, Queen Mary University of London
 
 ## Social Media & Public Relations Chair
+
+<mailto:socialmedia@hapticssymposium.org>
 
 * Pedro Lopes, University of Chicago
 
