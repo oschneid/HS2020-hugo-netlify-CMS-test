@@ -9,7 +9,7 @@ The IEEE Haptics Symposium 2020 will be held at the Crystal Gateway Marriott in 
 
 For greatest convenience, and to secure all the meeting rooms needed for the conference, it is essential that all attendees book their hotel rooms at the conference hotel.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5535.8300228124945!2d-77.05576225178503!3d38.85811303216726!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7b72658ce8dc1%3A0x3e9fc216685da833!2sCrystal+Gateway+Marriott!5e0!3m2!1sen!2sca!4v1562340764056!5m2!1sen!2sca" width="100%" height="450" frameborder="0" style="border:0; margin:auto;" allowfullscreen></iframe>
+<iframe class="mv3" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5535.8300228124945!2d-77.05576225178503!3d38.85811303216726!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7b72658ce8dc1%3A0x3e9fc216685da833!2sCrystal+Gateway+Marriott!5e0!3m2!1sen!2sca!4v1562340764056!5m2!1sen!2sca" width="100%" height="450" frameborder="0" style="border:0; margin:auto;" allowfullscreen></iframe>
 
 ## **Making Hotel Reservations**
 
