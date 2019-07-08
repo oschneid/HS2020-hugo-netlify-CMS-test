@@ -63,7 +63,7 @@ Members of the Organizing Committee handle all planning and logistics for the IE
 
 ## Demonstrations and Exhibits Chairs
 
-<mailto:de@hapticssymposium.org>
+<mailto:demos@hapticssymposium.org>
 
 * Ad Spiers, Max Planck Institute for Intelligent Systems, Stuttgart
 * Claudio Pacchierotti, Centre national de la recherche scientifique (CNRS), Rennes
