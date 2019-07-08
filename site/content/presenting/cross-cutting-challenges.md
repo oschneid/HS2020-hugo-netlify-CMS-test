@@ -31,7 +31,7 @@ The goal of the set of CCC sessions is to come together to focus on interdiscipl
 
 ## Points of contact
 
-Manuel Cruz and Cagatay Basdogan (ccc@hapticssymposium.org)
+Manuel Cruz and Cagatay Basdogan (<mailto:ccc@hapticssymposium.org>)
 
 ## Timeline
 
@@ -49,7 +49,7 @@ We encourage discussions with the CCC chairs during the IEEE World Haptics Confe
 
 A theme is an interdisciplinary challenge calling for united solutions from the haptics community. The themes are solicited from the community of researchers in the field of haptics and beyond.  While the traditional three areas covered in haptics relate to science, technology and applications, the themes for the Cross-Cutting Challenges session will be selected such that researchers from each of the aforementioned areas can present in the same session. For example, a theme might relate to a next generation of mobile user interfaces, and include elements from those working on surface haptics and shape and surface conformable displays, those working on the measurement of finger pad skin properties to surface interaction, those working on new dielectric polymer technologies, and those working on human computer interaction concepts detailing how a consumer would utilize such capability.  Other themes might relate to soft and flexible touch interfaces, ubiquitous computing, medical user interfaces, gaming, and mixed, virtual, and/or augmented reality. Examples of themes from 2018 can be found at: http://2018.hapticssymposium.org/ccc1 and http://2018.hapticssymposium.org/ccc2.
 
-**Submission materials:** Specify (as a single PDF document) the theme title, the organizer(s) (from one to three), and up to 500 words regarding the details mentioned below of how that topic is important to society and involves multiple disciplines.  Email your submission to ccc@hapticssymposium.org
+**Submission materials:** Specify (as a single PDF document) the theme title, the organizer(s) (from one to three), and up to 500 words regarding the details mentioned below of how that topic is important to society and involves multiple disciplines.  Email your submission to <mailto:ccc@hapticssymposium.org>
 
 **Themes:** Two themes will be selected by a committee drawn from both academia and industry. Proposals should thus be written to have a broad reach.  In addition, a non-disciplinary title should be selected.  The text should describe:
 
@@ -85,4 +85,4 @@ Investigators apply to deliver keynote talks (4 to 5 per theme session) and inte
 
 **Submission materials:** Specify (as a single PDF document) the relevant theme, and then give a title, a description that is up to 500 words, and a list of recent publications that will be discussed in the presentation.  
 
-Email your submission to ccc@hapticssymposium.org
+Email your submission to <mailto:ccc@hapticssymposium.org>
