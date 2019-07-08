@@ -7,9 +7,9 @@ image: /img/bg07.jpg
 
 Held since 1992, the IEEE Haptics Symposium is a vibrant interdisciplinary forum of research in neuroscience, perception, engineering, and design, focused on sharing new advances in our understanding of the sense of touch, sparking new collaborations, and envisioning a future in which physical interactions are enriched through haptic technologies.  
 
-The 2020 conference will include cross-cutting challenge sessions, technical paper sessions presenting the latest advances in haptics, work-in-progress posters, and featured sessions presenting recent findings reported in IEEE Transactions on Haptics. An exciting social activities program will provide opportunities for socializing and networking.
+The 2020 conference will include [cross-cutting challenge](/presenting/cross-cutting-challenges/) sessions, [technical paper ](/presenting/technical-papers/) sessions presenting the latest advances in haptics, work-in-progress posters, and featured sessions presenting recent findings reported in [IEEE Transactions on Haptics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4543165). An exciting social activities program will provide opportunities for socializing and networking.
 
-New for 2020, a conference journal papers track provides the opportunity for authors to present new findings at the conference for simultaneous publication in IEEE Transactions on Haptics.
+New for 2020, a [conference journal papers track](/presenting/transactions-on-haptics-early-submission) provides the opportunity for authors to present new findings at the conference for simultaneous publication in IEEE Transactions on Haptics.
 
 ![Smiling student volunteers welcome attendees](/img/slide-image-6-crop.jpg)
 
