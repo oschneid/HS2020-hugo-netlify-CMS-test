@@ -1,6 +1,6 @@
 ---
 title: Attending
-image: /img/bg04B.jpg
+image: /img/bg06.jpg
 ---
 IEEE Haptics Symposium features a diverse technical and social program to present your latest research and engage with the haptics community. 
 
