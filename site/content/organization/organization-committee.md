@@ -70,7 +70,7 @@ Members of the Organizing Committee handle all planning and logistics for the IE
 
 ## Social Activities Chairs
 
-<mailto:localarrangements@hapticssymposium.org>
+<mailto:socialactivities@hapticssymposium.org>
 
 * Jeremy Brown, Johns Hopkins University
 * Jenna Gorlewicz, Saint Louis University
