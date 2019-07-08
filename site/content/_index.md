@@ -11,7 +11,7 @@ The 2020 conference will include cross-cutting challenge sessions, technical pap
 
 New for 2020, a conference journal papers track provides the opportunity for authors to present new findings at the conference for simultaneous publication in IEEE Transactions on Haptics.
 
-![Attendees having fun at Haptics Symposium](/img/slide-image-11-crop.jpg)
+![Smiling student volunteers welcome attendees](/img/slide-image-6-crop.jpg)
 
 ### Upcoming deadlines:
 
