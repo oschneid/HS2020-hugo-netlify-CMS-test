@@ -1,6 +1,6 @@
 ---
 title: Sponsorship
-image: /img/bg04B.jpg
+image: /img/bg07.jpg
 ---
 We are delighted to invite you to support the 2020 IEEE Haptics Symposium as a sponsor or exhibitor.
 
