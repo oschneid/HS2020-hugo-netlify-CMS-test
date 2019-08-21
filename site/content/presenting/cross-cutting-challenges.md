@@ -16,7 +16,7 @@ The goal of the set of CCC sessions is to come together to focus on interdiscipl
 
 ## The Concept
 
-**Structure:** AM and PM sessions, each focused on a single theme
+**Structure:** AM and PM sessions, each focused on a single theme.
 
 * Keynote talks (4 to 5 per session, presented sequentially)
 * Parallel interactive discussions (about 10 in parallel per session) where presenters stand with a poster and/or a laptop and spark new ideas, projects, and teams through personal conversations
