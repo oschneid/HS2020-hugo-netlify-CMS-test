@@ -47,7 +47,7 @@ All accepted papers will be included in the electronically distributed conferenc
 
 Paper copyright will be transferred to the IEEE as part of the publication process.
 
-Paper decisions will be announced on December 29, 2017, and will also be available in PrecisionConference.
+Paper decisions will be announced on December 23, 2019, and will also be available in PrecisionConference.
 
 ## **Videos**
 
