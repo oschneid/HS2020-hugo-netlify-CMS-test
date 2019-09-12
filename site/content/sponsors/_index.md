@@ -4,7 +4,7 @@ image: /img/bg07.jpg
 ---
 We are delighted to invite you to support the 2020 IEEE Haptics Symposium as a sponsor or exhibitor.
 
-For sponsorship opportunities, please contact the sponsorship chairs: <mailto:sponsorship@hapticssymposium.org>
+For sponsorship opportunities, please contact the sponsorship chairs: <mailto:sponsorship@hapticssymposium.org> or viewing our [prospectus](IEEEHS2020SponsorshipProspectus.pdf).
 
 The 2020 Sponsorship Chairs are:
 
