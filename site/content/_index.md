@@ -20,3 +20,6 @@ September 6, 2019: [Cross cutting challenge theme proposals](/presenting/cross-c
 September 27, 2019 (firm deadline): [Early submission, IEEE Transactions on Haptics journal papers track](/presenting/transactions-on-haptics-early-submission)
 
 October 20, 2019: [Regular submission, Conference technical papers track](/presenting/technical-papers/)
+
+
+<a class="twitter-timeline" href="https://twitter.com/ieeehaptics?ref_src=twsrc%5Etfw">Tweets by ieeehaptics</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
