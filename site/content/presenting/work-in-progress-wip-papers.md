@@ -2,9 +2,10 @@
 title: Work-in-Progress (WIP) Papers
 deadline: 'January 31, 2020'
 description: >-
-  Work-in-Progress papers enable authors to share late-breaking results with the
-  research community. The emphasis of WIP papers is on the novelty of the work,
-  not completeness. WIP papers should be 2 pages including references.
+  IEEE Haptics Symposium 2020 solicits Work-in-Progress papers to enable authors
+  to share late-breaking results with the research community. The emphasis of
+  WIP papers is on the novelty of the work, not completeness. WIP papers should
+  be 2 pages including references.
 weight: 4
 ---
 # **Work-in-Progress (WIP) Papers**
@@ -63,11 +64,11 @@ Guidelines: format (mpeg 4, .mp4), length (up to 60 seconds), resolution (at lea
 
 ## Presentation Instructions
 
-Works in Progress will be presented through a short oral “teaser” presentation and a poster.
+Work-in-Progress papers will be presented through a short oral “teaser” presentation and a poster.
 
 **WIP Teasers**
 
-One author from each Work in Progress is invited to give a short presentation to introduce their poster to the audience. Each teaser presentation can last no more than 40 seconds.
+One author from each Work-iniProgress is invited to give a short presentation to introduce their poster to the audience. Each teaser presentation can last no more than 40 seconds.
 
 The WIP teaser presentation should focus on the main ideas or results of the work. The purpose is to encourage the audience to visit the WIP poster, not to summarize the paper contents.
 
