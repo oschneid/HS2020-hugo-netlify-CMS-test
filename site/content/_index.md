@@ -22,4 +22,4 @@ September 27, 2019 (firm deadline): [Early submission, IEEE Transactions on Hapt
 October 20, 2019: [Regular submission, Conference technical papers track](/presenting/technical-papers/)
 
 
-<a class="twitter-timeline" href="https://twitter.com/ieeehaptics?ref_src=twsrc%5Etfw">Tweets by ieeehaptics</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<a class="twitter-timeline" data-width="400" data-height="600" data-link-color="#FAB81E" href="https://twitter.com/ieeehaptics?ref_src=twsrc%5Etfw">Tweets by ieeehaptics</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
