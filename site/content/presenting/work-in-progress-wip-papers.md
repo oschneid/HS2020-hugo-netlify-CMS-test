@@ -29,8 +29,6 @@ Submitted papers will be reviewed in single-blind manner.
 
 Author names and affiliations should be specified on all WIP papers.
 
-
-
 ## Important Dates
 
 January 31, 2020: 11:59 pm PST: WIP paper submission deadline
@@ -39,40 +37,46 @@ February 12, 2020: WIP acceptance notification
 
 February 21, 2020: WIP final paper submission
 
-
-
 ## Submission Method
 
 All WIP papers (including optional video) should be submitted using PrecisionConference.  Select the "Haptics Symposium" Society, "Haptics 2020" Conference, and "Haptics 2020 WIP Papers" Track.
 
+## Publication
 
-
-Publication
-
-All accepted WIP papers will be included in the electronically distributed conference proceedings, but they will not be published in IEEE Xplore.
+All accepted WIP papers will be included in the electronically distributed conference proceedings, but they will not be published in [IEEE Xplore](https://ieeexplore.ieee.org/Xplore/home.jsp).
 
 Authors retain the full copyright of WIP papers so that they can submit a more mature version of the paper at another time.
 
-Presentation
+## Videos
 
-
-
-All WIP papers will be presented in a single-track poster session that will take place in the evening on Monday, March 26.  Details about the WIP poster session are listed below.
-
-The WIP poster session will not be held in parallel with any podium or demo sessions, and only WIP posters will be presented during this time.
-
-Authors of accepted WIP papers will be invited to briefly introduce their work during the WIP teaser session on the same day of the conference. Details about the WIP teaser session are listed below.
-
-Presenters will need to design and print their own poster. 
-
-Videos
-
-
-
-Submission of a video is optional but encouraged to help readers understand the WIP paper.
+Submission of a video is optional but encouraged to help readers understand the WIP paper.
 
 Uploaded videos will be reviewed along with the paper.
 
 Videos associated with accepted WIP papers will be included in the electronically distributed conference proceedings and may be used to promote the conference.
 
 Guidelines: format (mpeg 4, .mp4), length (up to 60 seconds), resolution (at least 480p progressive scan), and file size (up to 20 MB).
+
+## Final Submission
+
+All accepted WIP Papers will appear in this year's Haptics Symposium proceedings, which will be electronically distributed at the conference but will not be submitted to IEEE Xplore. In addition, an online conference program that shows short abstracts and images will also be distributed.  The authors of accepted WIP Papers will be asked to prepare a final version of their contribution, a 100-word abstract, a square image, and an optional video with accompanying files.
+
+## Presentation Instructions
+
+Works in Progress will be presented through a short oral “teaser” presentation and a poster.
+
+**WIP Teasers**
+
+One author from each Work in Progress is invited to give a short presentation to introduce their poster to the audience. Each teaser presentation can last no more than 40 seconds.
+
+The WIP teaser presentation should focus on the main ideas or results of the work. The purpose is to encourage the audience to visit the WIP poster, not to summarize the paper contents.
+
+The presenters are asked to a prepare a single slide for their teaser presentation. The use of visual content, videos, and animations is encouraged. All animations and video playback should be programmed into the slide such that all event timing is automatic. Videos, if used, must be embedded in the slide. The poster location should be displayed in the upper right corner of the slide, and will soon be available in the conference program.
+
+**WIP Posters**
+
+The WIP posters will be presented during a WIP poster session. The posters must fit on a poster board with dimensions of 44” x 44” (111.76 cm x 111.76 cm). The posters can be designed using any size, orientation, or format, as long as they fit within this allocated space. You are encouraged to include the conference logo.
+
+Authors are responsible for printing their own poster and bringing it to the conference. Push pins will be provided to install the posters on the poster boards. 
+
+Any questions about WIP papers can be addressed to the WIP chair at wip@hapticssymposium.org.
