@@ -24,27 +24,27 @@ Authors choosing not to submit via the new journal track may still submit their 
 
 **Frequently Asked Questions (FAQ)** 
 
-_**What is the maximum number of pages?**_
+**_What is the maximum number of pages?_**
 
 Your paper cannot exceed 6 pages. It is not possible to pay for additional pages.
 
-_**Does the the 6-page limit include references?**_
+**_Does the the 6-page limit include references?_**
 
 Yes, the 6-page limit includes references.
 
-_**What template should I use?**_
+**_What template should I use?_**
 
-Your paper must be formatted using the templates provided by the Transactions on Haptics. See the formatting instructions under "Brief, Short, or Communications Articles" in the [Templates for Transactions](https://journals.ieeeauthorcenter.ieee.org/create-your-ieee-journal-article/authoring-tools-and-templates/ieee-article-templates/templates-for-transactions/).
+Your paper must be formatted using the templates provided by the Transactions on Haptics. See the formatting instructions under "Brief, Short, or Communications Articles" in the [Templates for Transactions](https://journals.ieeeauthorcenter.ieee.org/create-your-ieee-journal-article/authoring-tools-and-templates/ieee-article-templates/templates-for-transactions/). Please note that the template has changed this year.
 
-_**Is there a template for LaTeX?**_
+**_Is there a template for LaTeX?_**
 
 To use LaTeX, please use the style files found under "Transactions Articles" in the [Templates for Transactions](https://journals.ieeeauthorcenter.ieee.org/create-your-ieee-journal-article/authoring-tools-and-templates/ieee-article-templates/templates-for-transactions/). As explained in Section II (Class Options) of the included IEEEtran_HOWTO.pdf, you will need to use the following document class: \documentclass\[9pt,technote]{IEEEtran}. Also note that short papers do not include author biographies.
 
-_**Will I need to resubmit my paper to the conference if it is rejected by the journal?**_
+**_Will I need to resubmit my paper to the conference if it is rejected by the journal?_**
 
 All papers that are rejected by the journal after the first or second round of reviews will automatically be sent, along with their reviews, to the Conference Editorial Board (CEB) of the Haptics Symposium to be considered for publication in the conference proceedings and presentation at the conference.
 
-_**Will it be possible for me to submit an extended version of my paper to the Transactions on Haptics at a later date?**_
+**_Will it be possible for me to submit an extended version of my paper to the Transactions on Haptics at a later date?_**
 
 Short papers that are accepted by the journal will be published in the journal. It will therefore be impossible to publish an extended version of the work in the journal in the future.
 
