@@ -10,7 +10,7 @@ weight: 2
 ---
 **NEW INITIATIVE: IEEE TRANSACTIONS ON HAPTICS SHORT PAPERS**
 
-More information is available at <https://www.ieee-ras.org/publications/toh>
+_More information is available at_ [_https://www.ieee-ras.org/publications/toh_](https://www.ieee-ras.org/publications/toh)_. For any questions, please contact_ [_Vincent Levesque_](mailto:vincent.levesque@etsmtl.ca)_, Program Chair of the Haptics Symposium, or_ [_Lynette Jones_](mailto:ljones@mit.edu)_, Editor-in-Chief of the Transactions on Haptics. See below for Frequently Asked Questions._
 
 The 2020 conference has added a new, early submission option (**firm deadline: September 27, 2019**) for technical papers that authors wish to be considered for presentation at Haptics Symposium and simultaneous publication in IEEE Transactions on Haptics, as short journal papers. 
 
@@ -19,3 +19,33 @@ Authors may submit their 6-page paper to this new track via the Transactions on 
 Any papers that receive a decision of “reject” after review by Transactions on Haptics will be evaluated for inclusion by the Haptics Symposium Conference Editorial Board, which will have access to the reviews and Associate Editor’s report.  A paper may therefore be rejected from the journal but accepted for the conference. Such papers will be published in the conference proceedings rather than in the journal.  A paper may also be rejected for publication by both the journal and the conference.  Those papers that are accepted for publication in the journal will be included in the conference, where they will be presented by authors, and will be simultaneously published in the journal.
 
 Authors choosing not to submit via the new journal track may still submit their papers directly to the conference. Such papers will be reviewed following the established conference technical paper review procedure.  Accepted conference technical papers will be published in the conference proceedings and IEEE Xplore.
+
+- - -
+
+**Frequently Asked Questions (FAQ)** 
+
+_**What is the maximum number of pages?**_
+
+Your paper cannot exceed 6 pages. It is not possible to pay for additional pages.
+
+_**Does the the 6-page limit include references?**_
+
+Yes, the 6-page limit includes references.
+
+_**What template should I use?**_
+
+Your paper must be formatted using the templates provided by the Transactions on Haptics. See the formatting instructions under "Brief, Short, or Communications Articles" in the [Templates for Transactions](https://journals.ieeeauthorcenter.ieee.org/create-your-ieee-journal-article/authoring-tools-and-templates/ieee-article-templates/templates-for-transactions/).
+
+_**Is there a template for LaTeX?**_
+
+To use LaTeX, please use the style files found under "Transactions Articles" in the [Templates for Transactions](https://journals.ieeeauthorcenter.ieee.org/create-your-ieee-journal-article/authoring-tools-and-templates/ieee-article-templates/templates-for-transactions/). As explained in Section II (Class Options) of the included IEEEtran_HOWTO.pdf, you will need to use the following document class: \documentclass\[9pt,technote]{IEEEtran}. Also note that short papers do not include author biographies.
+
+_**Will I need to resubmit my paper to the conference if it is rejected by the journal?**_
+
+All papers that are rejected by the journal after the first or second round of reviews will automatically be sent, along with their reviews, to the Conference Editorial Board (CEB) of the Haptics Symposium to be considered for publication in the conference proceedings and presentation at the conference.
+
+_**Will it be possible for me to submit an extended version of my paper to the Transactions on Haptics at a later date?**_
+
+Short papers that are accepted by the journal will be published in the journal. It will therefore be impossible to publish an extended version of the work in the journal in the future.
+
+Short papers that are rejected by the journal but accepted by the conference will be published in the conference proceedings. It will be possible to extend this work and publish an extended version of the paper in the journal in the future.
