@@ -38,7 +38,7 @@ Your paper must be formatted using the templates provided by the Transactions on
 
 **_Is there a template for LaTeX?_**
 
-To use LaTeX, please use the style files found under "Transactions Articles" in the [Templates for Transactions](https://journals.ieeeauthorcenter.ieee.org/create-your-ieee-journal-article/authoring-tools-and-templates/ieee-article-templates/templates-for-transactions/). As explained in Section II (Class Options) of the included IEEEtran_HOWTO.pdf, you will need to use the following document class: \documentclass\[9pt,technote]{IEEEtran}. Also note that short papers do not include author biographies.
+To use LaTeX, please use the style files found under "Transactions Articles" in the [Templates for Transactions](https://journals.ieeeauthorcenter.ieee.org/create-your-ieee-journal-article/authoring-tools-and-templates/ieee-article-templates/templates-for-transactions/). ~~As explained in Section II (Class Options) of the included IEEEtran_HOWTO.pdf, you will need to use the following document class: \documentclass\[9pt,technote]{IEEEtran}. Also note that short papers do not include author biographies.~~ We are aware that using the "technote" document class does not result in the correct format and are working on a solution. Until this issue is resolved, we recommend using the following document class: \documentclass\[9pt,journal]{IEEEtran}.
 
 **_Will I need to resubmit my paper to the conference if it is rejected by the journal?_**
 
