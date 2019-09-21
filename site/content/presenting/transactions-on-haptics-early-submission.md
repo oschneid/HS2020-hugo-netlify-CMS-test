@@ -24,6 +24,10 @@ Authors choosing not to submit via the new journal track may still submit their 
 
 **Frequently Asked Questions (FAQ)** 
 
+**_What is the submission deadline? _**
+
+The submission deadline is September 27, 2019 at 11:59 Pacific Time. This deadline is firm.
+
 **_What is the maximum number of pages?_**
 
 Your paper cannot exceed 6 pages. It is not possible to pay for additional pages.
