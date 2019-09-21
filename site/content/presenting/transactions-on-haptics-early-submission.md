@@ -12,7 +12,7 @@ weight: 2
 
 _More information is available at_ [_https://www.ieee-ras.org/publications/toh_](https://www.ieee-ras.org/publications/toh)_. For any questions, please contact_ [_Vincent Levesque_](mailto:vincent.levesque@etsmtl.ca)_, Program Chair of the Haptics Symposium, or_ [_Lynette Jones_](mailto:ljones@mit.edu)_, Editor-in-Chief of the Transactions on Haptics. See below for Frequently Asked Questions._
 
-The 2020 conference has added a new, early submission option (**firm deadline: September 27, 2019 at 11:59 Pacific Time **) for technical papers that authors wish to be considered for presentation at Haptics Symposium and simultaneous publication in IEEE Transactions on Haptics, as short journal papers. 
+The 2020 conference has added a new, early submission option (**firm deadline: September 27, 2019 at 11:59 Pacific Time**) for technical papers that authors wish to be considered for presentation at Haptics Symposium and simultaneous publication in IEEE Transactions on Haptics, as short journal papers. 
 
 Authors may submit their 6-page paper to this new track via the Transactions on Haptics website.  Papers should be prepared using the Transactions on Haptics template (not the conference template).  Each paper will be reviewed by Transactions on Haptics reviewers and an Associate Editor.  The outcome of the first round of reviews will be "accept", "revision", or "reject". For papers receiving a decision of “revision” after the first review round, authors will need to submit a revision within 30 days for a second review, which may result in a decision of “accept” or “reject.”  If the decision after the Transactions on Haptics review is “accept,” the paper will be included in the conference and simultaneously published in the journal.
 
