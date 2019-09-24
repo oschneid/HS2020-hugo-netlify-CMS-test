@@ -33,7 +33,7 @@ Author names and affiliations should be specified in all technical papers.
 
 ## **Submission Due Date**
 
-20 October, 2019 (11:59 Pacific Time)
+20 October, 2019 (11:59 p.m. Pacific Time)
 
 ## **Submission Method**
 
@@ -58,22 +58,6 @@ Uploaded videos will be reviewed along with the paper.
 Videos will be submitted for publication to IEEE Xplore and may be used to promote the conference.
 
 Guidelines: format (mpeg 4, .mp4), length (up to 2 minutes), resolution (at least 480p progressive scan), and file size (up to 40 MB).  Final (but not initial) video submissions will need to include some simple additional files for IEEE Xplore compliance.
-
-## IEEE Transactions on Haptics (ToH) Referral Program
-
-The top 10% of submissions selected by the Program Committee based on reviews will be referred to the IEEE Transactions on Haptics (ToH) for expedited review of an evolved, journal-length version.
-
-IEEE Haptics Symposium reviews will be regarded as first-round reviews in order to accelerate the review process of ToH.
-
-Authors who want their papers to be considered for this program will need to indicate it and provide a brief description of the planned evolution of the paper during the submission process.
-
-Representatives of the ToH editorial board will be involved in selecting which of the top-rated accepted papers will be included in this program, based on the camera-ready paper that authors submit as well as the submitted description of the planned evolution.  
-
-Authors of selected papers will be directly contacted before the conference begins.  The due date for submitting the extended manuscript to ToH will be December 14, 2018. 
-
-Authors whose papers are not selected for this referral program are also encouraged to submit an extended version of their Haptics Symposium paper to the IEEE Transactions on Haptics; the only difference will be that the review process will start fresh, rather than building on the Haptics Symposium review process.
-
-Any questions about technical papers can be addressed to the conference co-chairs at chairs@hapticssymposium.org.
 
 ## **Final Submission**
 
