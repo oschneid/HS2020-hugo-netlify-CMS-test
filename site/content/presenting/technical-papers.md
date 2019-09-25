@@ -15,9 +15,9 @@ We solicit technical papers that report original, novel, unpublished work releva
 
 ## **Paper Format**
 
-Technical papers should be prepared according to the formatting instructions available here.
+Technical papers should be prepared according to the formatting instructions available [here](http://ras.papercept.net/conferences/support/support.php).
 
-For authors' convenience, the templates for technical papers can be downloaded in Word or Latex format. Note that only the US Letter template will be accepted, not the A4 template.
+For authors' convenience, the templates for technical papers can be downloaded in [Word](http://ras.papercept.net/conferences/support/word.php) or [Latex](http://ras.papercept.net/conferences/support/tex.php) format. Note that only the US Letter template will be accepted, not the A4 template.
 
 ## **Paper Length**
 
@@ -37,7 +37,7 @@ Author names and affiliations should be specified in all technical papers.
 
 ## **Submission Method**
 
-All technical papers (with optional videos) should be submitted using PrecisionConference.  Select the "Haptics Symposium" Society, "Haptics 2020" Conference, and "Haptics 2020 Technical Papers" Track. 
+All technical papers (with optional videos) should be submitted using [PrecisionConference](https://new.precisionconference.com/haptics) (submission system will be open on 28 September, 2019).  Select the "Haptics Symposium" Society, "Haptics 2020" Conference, and "Haptics 2020 Technical Papers" Track. 
 
 ## **Presentation and Publication**
 
@@ -47,7 +47,7 @@ All accepted papers will be included in the electronically distributed conferenc
 
 Paper copyright will be transferred to the IEEE as part of the publication process.
 
-Paper decisions will be announced on December 23, 2019, and will also be available in PrecisionConference.
+Paper decisions will be announced on December 23, 2019, and will also be available in [PrecisionConference](https://new.precisionconference.com/haptics).
 
 ## **Videos**
 
