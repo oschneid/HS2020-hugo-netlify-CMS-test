@@ -17,3 +17,5 @@ We are excited to welcome the worldwide haptics community to Washington, DC for 
 | **Student Non-Member** | 560 | 250 | 610 | 275 | 685 | 310 |
 | **Life Member**        | 465 | 210 | 510 | 230 | 570 | 260 |
 *All figures are in USD.*
+
+The early-bird deadline will be 
