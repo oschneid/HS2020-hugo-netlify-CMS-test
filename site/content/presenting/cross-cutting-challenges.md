@@ -1,6 +1,8 @@
 ---
 title: Cross-Cutting Challenges
-deadline: 'September 6, 2019 (themes), November 8, 2019 (individuals)'
+deadline: >-
+  September 6, 2019 (themes), November 26, 2019 (individuals, extended from
+  November 8)
 description: >-
   Following its successful launch at the 2018 Haptics Symposium, the
   Cross-Cutting Challenges (CCC) submission category will be held again at the
@@ -12,7 +14,7 @@ weight: 1
 
 Following its successful launch at the 2018 Haptics Symposium, the Cross-Cutting Challenges (CCC) submission category will be held again at the 2020 Haptics Symposium.
 
-The goal of the set of CCC sessions is to come together to focus on interdisciplinary challenges (“themes”) calling for united solutions from the haptics community. Drawn from an open solicitation, two themes will feature keynote talks and interactive discussions delivered by experts from science, engineering, and design. **Theme Proposals are due by September 6, 2019**, while Keynote and Interactive Discussion Proposals are due by November 8, 2019, after the two selected themes have been announced.  The organizers whose theme proposals are selected will champion their theme and work closely with the Cross-Cutting Challenges Chairs in organizing the session.  The theme organizer will also automatically be a keynote speaker, unless he or she chooses otherwise.  Each theme organizer will be invited to generate, after the conference, a peer-reviewed position paper for the IEEE Transactions on Haptics.
+The goal of the set of CCC sessions is to come together to focus on interdisciplinary challenges (“themes”) calling for united solutions from the haptics community. Drawn from an open solicitation, two themes will feature keynote talks and interactive discussions delivered by experts from science, engineering, and design. **Theme Proposals are due by September 6, 2019**, while Keynote and Interactive Discussion Proposals are due by November ~~8~~ 26, 2019, after the two selected themes have been announced.  The organizers whose theme proposals are selected will champion their theme and work closely with the Cross-Cutting Challenges Chairs in organizing the session.  The theme organizer will also automatically be a keynote speaker, unless he or she chooses otherwise.  Each theme organizer will be invited to generate, after the conference, a peer-reviewed position paper for the IEEE Transactions on Haptics.
 
 ## The Concept
 
@@ -38,7 +40,7 @@ Manuel Cruz and Cagatay Basdogan (<mailto:ccc@hapticssymposium.org>)
 * Open discussions with Cross-Cutting Challenge Chairs to discuss theme ideas during the IEEE World Haptics Conference in Tokyo (during July 9 – 12, 2019)  
 * Submit theme proposals (by September 6, 2019)
 * Two themes announced (October 11, 2019)
-* Submit individual keynote and interactive discussion proposals (by November 8, 2019)
+* Submit individual keynote and interactive discussion proposals (by November ~~8~~ 26, 2019)
 * Notifications for individual submissions (December 6, 2019)
 
 ## Open discussions with CCC Chairs
