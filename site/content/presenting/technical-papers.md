@@ -1,6 +1,6 @@
 ---
 title: Technical Papers
-deadline: 'October 20, 2019'
+deadline: 'October 25, 2019 (extended; previously October 20)'
 description: >-
   IEEE Haptics Symposium 2020 solicits technical papers that report original,
   novel, unpublished work relevant to all the scientific, technological, and
@@ -33,7 +33,8 @@ Author names and affiliations should be specified in all technical papers.
 
 ## **Submission Due Date**
 
-20 October, 2019 (11:59 p.m. Pacific Time)
+~~20~~ **25** October, 2019 (11:59 p.m. Pacific Time)
+
 
 ## **Submission Method**
 
