@@ -15,8 +15,16 @@ New for 2020, a [conference journal papers track](/presenting/transactions-on-ha
 
 ### Upcoming deadlines:
 
-September 6, 2019: [Cross cutting challenge theme proposals](/presenting/cross-cutting-challenges/)
+~~September 6, 2019~~: [Cross cutting challenge theme proposals](/presenting/cross-cutting-challenges/)
 
-September 27, 2019 (firm deadline): [Early submission, IEEE Transactions on Haptics journal papers track](/presenting/transactions-on-haptics-early-submission)
+~~September 27, 2019 (firm deadline)~~: [Early submission, IEEE Transactions on Haptics journal papers track](/presenting/transactions-on-haptics-early-submission)
 
-October 20, 2019: [Regular submission, Conference technical papers track](/presenting/technical-papers/)
+**October ~~20~~ 25, 2019**: [Regular submission, Conference technical papers track](/presenting/technical-papers/)
+
+**November ~~8~~ 26, 2019**: [Individual Submissions, Cross-Cutting Challenges](/presenting/cross-cutting-challenges/)
+
+**January 31, 2020**: [Demonstration Submissions](/presenting/demos/)
+
+**January 31, 2020**: [Work-in-Progress (WIP) Paper Submissions](/presenting/work-in-progress-wip-papers/)
+
+**February 10, 2020**: Exhibit Applications (information coming soon)
