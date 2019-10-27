@@ -78,7 +78,7 @@ Respond to the email you received or contact the publication chair at publicatio
 
 One author from each technical paper will give a twelve-minute talk and plan to answer questions for two minutes.  We have exactly fifteen minutes allocated for each talk, including one minute to change speakers, and we will keep strictly to this schedule.
 
-All presentations will be delivered from the speaker's own laptop computer to ensure the correct appearance of the slides. Please bring any required video adapters.  Both HDMI and VGA connections will be available, as well as audio output.  The projector native aspect ratio is 1.6:1.  The native resolution of the projector in the Georgian Room will be 1280x800, and that of the projector in the Colonial room is 1920x1200.  
+All presentations will be delivered from the speaker's own laptop computer to ensure the correct appearance of the slides. Please bring any required video adapters.  Both HDMI and VGA connections will be available, as well as audio output.
 
 Authors can determine their presentation room and time from the detailed conference program.  (We ask that authors check the schedule again once the conference has begun to ensure they have the most up-to-date information.)
 
