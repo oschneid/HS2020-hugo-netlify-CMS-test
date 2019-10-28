@@ -35,7 +35,6 @@ Author names and affiliations should be specified in all technical papers.
 
 ~~20~~ **25** October, 2019 (11:59 p.m. Pacific Time)
 
-
 ## **Submission Method**
 
 All technical papers (with optional videos) should be submitted using [PrecisionConference](https://new.precisionconference.com/haptics) (submission system will be open on 28 September, 2019).  Select the "Haptics Symposium" Society, "Haptics 2020" Conference, and "Haptics 2020 Technical Papers" Track. 
@@ -64,8 +63,6 @@ Guidelines: format (mpeg 4, .mp4), length (up to 2 minutes), resolution (at leas
 
 All accepted technical papers will appear in this year's Haptics Symposium proceedings, which will be distributed at the conference and submitted to IEEE Xplore.
 
-We selected a new publications vendor in mid-January 2018, so the way final papers are being submitted changed at that time. We apologize for this change in procedure.
-
 The contact author of each accepted technical paper will receive final paper submission instructions by email. Note that a 100-word abstract is not required.  We encourage optional submission of a high-resolution square image that represents the main contribution of the paper; this image will be used in the online proceedings.
 
 Please carefully follow the instructions provided in that email. Author teams who already submitted their final paper via PCS must resubmit following the instructions in the email; no final papers can be accepted via PCS this year.
@@ -76,7 +73,7 @@ Respond to the email you received or contact the publication chair at publicatio
 
 ## **Presentation Instructions**
 
-One author from each technical paper will give a twelve-minute talk and plan to answer questions for two minutes.  We have exactly fifteen minutes allocated for each talk, including one minute to change speakers, and we will keep strictly to this schedule.
+One author from each technical paper will deliver the oral presentation in the time permitted. Further details will be provided at a later time.
 
 All presentations will be delivered from the speaker's own laptop computer to ensure the correct appearance of the slides. Please bring any required video adapters.  Both HDMI and VGA connections will be available, as well as audio output.
 
