@@ -1,5 +1,5 @@
 ---
-title: Transactions on Haptics Early Submission
+title: IEEE Transactions on Haptics Short Papers Journal Track
 deadline: 'September 27, 2019 (firm)'
 description: >-
   New for 2020! Papers accepted to the new IEEE Transactions on Haptics journal
