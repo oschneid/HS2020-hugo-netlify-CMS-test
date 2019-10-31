@@ -1,6 +1,8 @@
 ---
 title: Cross-Cutting Challenges
-deadline: 'September 6, 2019 (themes), November 8, 2019 (individuals)'
+deadline: >-
+  Deadline: November 26, 2019 (individual presentations, extended from November
+  8)
 description: >-
   Following its successful launch at the 2018 Haptics Symposium, the
   Cross-Cutting Challenges (CCC) submission category will be held again at the
@@ -12,7 +14,17 @@ weight: 1
 
 Following its successful launch at the 2018 Haptics Symposium, the Cross-Cutting Challenges (CCC) submission category will be held again at the 2020 Haptics Symposium.
 
-The goal of the set of CCC sessions is to come together to focus on interdisciplinary challenges (“themes”) calling for united solutions from the haptics community. Drawn from an open solicitation, two themes will feature keynote talks and interactive discussions delivered by experts from science, engineering, and design. **Theme Proposals are due by September 6, 2019**, while Keynote and Interactive Discussion Proposals are due by November 8, 2019, after the two selected themes have been announced.  The organizers whose theme proposals are selected will champion their theme and work closely with the Cross-Cutting Challenges Chairs in organizing the session.  The theme organizer will also automatically be a keynote speaker, unless he or she chooses otherwise.  Each theme organizer will be invited to generate, after the conference, a peer-reviewed position paper for the IEEE Transactions on Haptics.
+The goal of the set of CCC sessions is to come together to focus on interdisciplinary challenges (“themes”) calling for united solutions from the haptics community. Drawn from an open solicitation, two themes will feature keynote talks and interactive discussions delivered by experts from science, engineering, and design. Two CCC Themes were selected for 2020 based on an open solicitation.  They are:
+
+**Theme 1: Oh What a Feeling!  Toward Haptic Deepening of Affective Connections - From Neuroscience To Design**\
+Organizers: Greg Gerling (University of Virginia) and Karon Maclean (University of British Columbia)
+
+**Theme 2: Using the Skin as a Medium for Communication**\
+Organizers: Lynette Jones (Massachusetts Institute of Technology), Hong Z. Tan (Purdue University), Charlotte M. Reed (Massachusetts Institute of Technology
+
+An outstanding set of keynote speakers have been selected for each CCC session.
+
+Interactive Discussion Proposals are due by November 26, 2019 (extended).  The organizers whose theme proposals are selected will champion their theme and work closely with the Cross-Cutting Challenges Chairs in organizing the session.  Theme organizers are  invited to generate, after the conference, peer-reviewed position papers for the IEEE Transactions on Haptics.
 
 ## The Concept
 
@@ -35,21 +47,20 @@ Manuel Cruz and Cagatay Basdogan (<mailto:ccc@hapticssymposium.org>)
 
 ## Timeline
 
-* Open discussions with Cross-Cutting Challenge Chairs to discuss theme ideas during the IEEE World Haptics Conference in Tokyo (during July 9 – 12, 2019)  
-* Submit theme proposals (by September 6, 2019)
-* Two themes announced (October 11, 2019)
-* Submit individual keynote and interactive discussion proposals (by November 8, 2019)
-* Notifications for individual submissions (December 6, 2019)
+* ~~Submit theme proposals (by September 6, 2019)~~
+* Themes announced (November 1, 2019)
+* Submit individual interactive discussion proposals (by November 26, 2019)
+* Notifications for individual submissions (December 20, 2019)
 
 ## Open discussions with CCC Chairs
 
-We encourage discussions with the CCC chairs during the IEEE World Haptics Conference in Tokyo from July 9 – 12, 2019.  We will arrange a 1-2 hour poster session with exact day and time yet to be determined. If you cannot make this event, or if you have follow-up questions afterward, feel free to reach out to the CCC chairs at any point.
+~~We encourage discussions with the CCC chairs during the IEEE World Haptics Conference in Tokyo from July 9 – 12, 2019.  We will arrange a 1-2 hour poster session with exact day and time yet to be determined. If you cannot make this event, or if you have follow-up questions afterward, feel free to reach out to the CCC chairs at any point.~~
 
-## Theme Submission Instructions
+## ~~Theme Submission Instructions~~
 
 A theme is an interdisciplinary challenge calling for united solutions from the haptics community. The themes are solicited from the community of researchers in the field of haptics and beyond.  While the traditional three areas covered in haptics relate to science, technology and applications, the themes for the Cross-Cutting Challenges session will be selected such that researchers from each of the aforementioned areas can present in the same session. For example, a theme might relate to a next generation of mobile user interfaces, and include elements from those working on surface haptics and shape and surface conformable displays, those working on the measurement of finger pad skin properties to surface interaction, those working on new dielectric polymer technologies, and those working on human computer interaction concepts detailing how a consumer would utilize such capability.  Other themes might relate to soft and flexible touch interfaces, ubiquitous computing, medical user interfaces, gaming, and mixed, virtual, and/or augmented reality. Examples of themes from 2018 can be found at: http://2018.hapticssymposium.org/ccc1 and http://2018.hapticssymposium.org/ccc2.
 
-**Submission materials:** Specify (as a single PDF document) the theme title, the organizer(s) (from one to three), and up to 500 words regarding the details mentioned below of how that topic is important to society and involves multiple disciplines.  Email your submission to <mailto:ccc@hapticssymposium.org>
+**~~Submission materials:~~** Specify (as a single PDF document) the theme title, the organizer(s) (from one to three), and up to 500 words regarding the details mentioned below of how that topic is important to society and involves multiple disciplines.  Email your submission to <mailto:ccc@hapticssymposium.org>
 
 **Themes:** Two themes will be selected by a committee drawn from both academia and industry. Proposals should thus be written to have a broad reach.  In addition, a non-disciplinary title should be selected.  The text should describe:
 
@@ -75,9 +86,9 @@ Keynote and Interactive Discussion Submission Instructions
 
 Once the themes are selected and announced, individual keynote and interactive discussion proposals will be accepted in each of the two chosen theme areas.  The theme organizer will automatically be a keynote speaker, unless he or she for some reason chooses otherwise.
 
-Investigators apply to deliver keynote talks (4 to 5 per theme session) and interactive discussions (about 10 per theme session).  Those submitting must be a faculty member and/or independent researcher, i.e., holding a Ph.D. degree or equivalent.  Note that while theme organizers may want to encourage particular individuals to submit, the selection of individuals within a theme will ultimately be based on finding a representative and coherent cohort of presenters that together create a powerful narrative and inspiring call to action.
+Investigators apply to deliver ~~keynote talks (4 to 5 per theme session)~~ and interactive discussions (about 10 per theme session).  Those submitting must be a faculty member and/or independent researcher, i.e., holding a Ph.D. degree or equivalent.  Note that while theme organizers may want to encourage particular individuals to submit, the selection of individuals within a theme will ultimately be based on finding a representative and coherent cohort of presenters that together create a powerful narrative and inspiring call to action.
 
-**Keynote talks:** Each keynote talk should synthesize research performed by the presenter (perhaps 3 journal articles and 2 conference papers published over the past few years), and it should be framed in light of the on-going grand challenge as well as the work of others in the field.  Specifically, talks should cover the following three components oriented around the cross-cutting challenge theme: 1) related prior work of this investigator done in the last 4-5 years, 2) present work that is in the process of being published in conferences and journals, and 3) forward-looking, emerging directions that the presenter sees as opportunities within this sub-domain.  Adequate time should be devoted to each.  Each talk will be sequenced appropriately by the organizers and Cross-Cutting Challenges Chairs, and the chosen presenters are expected to coordinate somewhat to craft a coherent message.  Speakers should not assume a lay audience, but should dive into the details in presenting work done in their lab.  
+**~~Keynote talks: (selection closed)~~** Each keynote talk should synthesize research performed by the presenter (perhaps 3 journal articles and 2 conference papers published over the past few years), and it should be framed in light of the on-going grand challenge as well as the work of others in the field.  Specifically, talks should cover the following three components oriented around the cross-cutting challenge theme: 1) related prior work of this investigator done in the last 4-5 years, 2) present work that is in the process of being published in conferences and journals, and 3) forward-looking, emerging directions that the presenter sees as opportunities within this sub-domain.  Adequate time should be devoted to each.  Each talk will be sequenced appropriately by the organizers and Cross-Cutting Challenges Chairs, and the chosen presenters are expected to coordinate somewhat to craft a coherent message.  Speakers should not assume a lay audience, but should dive into the details in presenting work done in their lab.  
 
 **Interactive discussions:** These contributions center around a poster and/or videos and may be led by an independent researcher with support from one or more other researchers from their team.  Interactive discussions should cover some of the same type of content as a keynote talk.  Proposers should aim to talk a large number of conference participants, so that personal and one-on-one discussions, idea generation and future team formation might be sparked during this session.  
 
