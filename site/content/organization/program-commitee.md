@@ -14,7 +14,11 @@ Members of the Program Committee coordinate the review of all conference technic
 The Conference Editorial Board ([editors@hapticssymposium.org](editors@hapticssymposium.org)) assemble and coordinate the Program Committee for Haptics Symposium 2020.
 
 Veronica Santos, _University of California, Los Angeles_
+
+
 Fernando Bello, _Imperial College London_
+
+
 Ingvars Birznieks, _UNSW Sydney, Australia_
 
 # Program Committee
