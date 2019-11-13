@@ -17,6 +17,8 @@ description: >-
   impaired?
 weight: 1
 ---
+## CCC Theme 1: Using the Skin as a Medium of Communication
+
 **Organizers:** Lynette Jones (Massachusetts Institute of Technology), Hong Z. Tan (Purdue University), Charlotte M. Reed (Massachusetts Institute of Technology)
 
 Tactile communication systems such as Tadoma and braille demonstrate that language can be conveyed effectively through the skin. In addition to these systems that were developed for individuals with hearing and/or visual impairments, over the years there have been a number of attempts to develop tactile vocabularies and displays for general use. Two major challenges in creating these systems have been to determine the most effective unit of communication (i.e., character, phoneme, word, concept, tacton) and the optimal strategies for training people in their use. Over the past decade with the growth in haptic technologies and devices we see a resurgence of interest in developing tactile communication systems that are easy to learn and retain. This is in part driven by advances in wearable technologies and the need to offload the overworked visual and auditory systems. Fundamental questions remain to be answered in developing these tactile communication systems and these will be the focus of the proposed Cross-cutting Challenge session.
