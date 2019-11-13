@@ -32,7 +32,7 @@ This session will include presentations by several **keynote speakers**:
 * Roger Cholewiak (Princeton University, retired) will give a historical overview of work in the area of tactile communication.
 * Charlotte Reed (MIT) will present on her recent work on a tactile speech communication system.
 
-* Lori Holt (CMU) will unveil the cognitive processes that underlie learning and categorization of sound and speech.
+* Lori Holt (Carnegie Mellon University) will unveil the cognitive processes that underlie learning and categorization of sound and speech.
 
 * Granit Luzhnica (Graz University of Technology) will share his work concerned with communication of text through tactile coding of the 26 letters of the English alphabet.
 
