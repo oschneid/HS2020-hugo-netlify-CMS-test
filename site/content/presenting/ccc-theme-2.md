@@ -11,6 +11,8 @@ description: >-
   challenges that must be overcome in order to realize major advances.
 weight: 1
 ---
+# Cross-Cutting Challenge Theme 2: Oh what a feeling! Toward haptic deepening of affective connections: From neuroscience to design
+
 **Organizers:** Greg Gerling (University of Virginia) and Karon MacLean (University of British Columbia)
 
 **Keynote Speakers:**
