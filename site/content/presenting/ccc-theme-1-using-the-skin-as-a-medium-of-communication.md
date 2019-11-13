@@ -25,16 +25,15 @@ The CCC session will cover the spectrum of issues related to using the skin as a
 
 Speakers from both within and outside the haptics community will provide an overview of previous work as well to present talks focusing on ongoing research on this topic. Different approaches toward conveying language through the skin will be covered, including systems designed to convey textual representations of written English and those that are based on speech communication. 
 
-# This session will include presentations by several keynote speakers:
+This session will include presentations by several **keynote speakers**:
 
-## Roger Cholewiak (Princeton University, retired) will give a historical overview of work in the area of tactile communication.
+* Roger Cholewiak (Princeton University, retired) will give a historical overview of work in the area of tactile communication.
+* Charlotte Reed (MIT) will present on her recent work on a tactile speech communication system.
 
-## Charlotte Reed (MIT) will present on her recent work on a tactile speech communication system.
+* Lori Holt (CMU) will unveil the cognitive processes that underlie learning and categorization of sound and speech.
 
-## Lori Holt (CMU) will unveil the cognitive processes that underlie learning and categorization of sound and speech.
+* Granit Luzhnica (Graz University of Technology) will share his work concerned with communication of text through tactile coding of the 26 letters of the English alphabet.
 
-## Granit Luzhnica (Graz University of Technology) will share his work concerned with communication of text through tactile coding of the 26 letters of the English alphabet.
-
-## Sile O’Modhrain (University of Michigan) will discuss the development of refreshable braille displays and the challenges associated with making these more widely available.
+* Sile O’Modhrain (University of Michigan) will discuss the development of refreshable braille displays and the challenges associated with making these more widely available.
 
 The interactive sessions will include presentations by researchers working on haptic devices for conveying gestural languages, novel approaches to tactile speech communication and multisensory interactions between hearing and touch.
