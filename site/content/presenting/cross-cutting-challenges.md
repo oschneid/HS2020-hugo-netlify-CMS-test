@@ -1,8 +1,6 @@
 ---
 title: Cross-Cutting Challenges
-deadline: >-
-  Deadline: November 26, 2019 (individual presentations, extended from November
-  8)
+deadline: 'November 26, 2019 (individual presentations, extended from November 8)'
 description: >-
   Following its successful launch at the 2018 Haptics Symposium, the
   Cross-Cutting Challenges (CCC) submission category will be held again at the
