@@ -5,7 +5,7 @@ description: >-
   language can be conveyed effectively through the skin. Over the years there
   have been a number of attempts to develop tactile vocabularies and displays
   for general use. This CCC will address a range of topics salient to this
-  interdisciplinary challenge. 
+  interdisciplinary area. 
 weight: 1
 ---
 ## Cross-Cutting Challenge Theme 1: Using the Skin as a Medium of Communication
