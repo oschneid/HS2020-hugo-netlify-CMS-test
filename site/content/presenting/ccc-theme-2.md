@@ -23,17 +23,16 @@ description: >-
   two main questions:
 weight: 1
 ---
-\*\*Organizers:\*\* Greg Gerling (University of Virginia) and Karon MacLean (University of British Columbia)
+## Cross-Cutting Challenge Theme 2: Oh what a feeling! Toward haptic deepening of affective connections: From neuroscience to design
 
-\*\*Keynote Speakers:\*\*
+**Organizers:** Greg Gerling (University of Virginia) and Karon MacLean (University of British Columbia)
 
-•	Håkan Olausson (Clinical and Experimental Medicine, Linköping University, Sweden)
+**Keynote Speakers:**
 
-•	Annett Schirmer (Psychology, The Chinese University of Hong Kong, Hong Kong)
-
-•	Carey Jewitt (Education, Learning and Technology, University College London, UK)
-
-•	Karon MacLean (Computer Science, University of British Columbia, Canada)
+* Håkan Olausson (Clinical and Experimental Medicine, Linköping University, Sweden)
+* Annett Schirmer (Psychology, The Chinese University of Hong Kong, Hong Kong)
+* Carey Jewitt (Education, Learning and Technology, University College London, UK)
+* Karon MacLean (Computer Science, University of British Columbia, Canada)
 
 Touch is personal and emotional. It provides the most intuitive and potent way we can express romantic or parental love, comfort a friend, calm a child’s jitters, and soothe or take comfort from a pet. Our first sense to develop, social touch is key to the well-being of the young, infirm or aged, as nurses well know; therapists rely on touch-based interventions in their interactions with children who are sensory-seeking or on the autism spectrum. When we ask people to describe how something feels, emotion words are highly represented: affect is a fundamental frame within which we understand what we feel.
 
@@ -44,17 +43,13 @@ Meanwhile, researchers are learning to use technological means to produce affect
 This Cross-Cutting Challenge will describe this emerging area, which may be key to unlocking a wide array of meaningful haptic applications. To pursue major advances, it is vital that researchers spanning this disparate space come together, especially to leverage advances in science with advances in engineered systems and technologies. A wide range of perspectives will address two main questions:
 
 1. What is affective touch; what is our current scientific basis for understanding it? Where are the gaps and how might we collaborate to advance them?
-
-•	Psychologists to describe the observation and study of emotion
-
-•	Biologists, physiologists, neuroscientists to understand how sensory afferents and regions of our brain respond and react to various stimuli over distinct time courses, and how these tie to pain
-
-•	Sensory practitioners and physical therapists who provide ways to aid sensory seeking individuals and others with sensory and emotional deficits
-
-•	Applications - domain experts such as clinicians, parents, and patients who can convey therapeutic and communication issues and constraints 
+   
+* Psychologists to describe the observation and study of emotion
+* Biologists, physiologists, neuroscientists to understand how sensory afferents and regions of our brain respond and react to various stimuli over distinct time courses, and how these tie to pain
+* Sensory practitioners and physical therapists who provide ways to aid sensory seeking individuals and others with sensory and emotional deficits
+* Applications - domain experts such as clinicians, parents, and patients who can convey therapeutic and communication issues and constraints 
 
 2. How do we build devices which display and measure affective touch? How can such technology address human interactions and therapeutic interventions?
 
-•	Designers and user interaction experts who work with haptic technology, application design, physical human robot interaction, and/or integrate it into real applications
-
-•	Engineers, computer scientists and technologists who create new and novel sensing and display equipment, algorithms and visualizations affect in various ways, including cutting edge touch sensing
+* Designers and user interaction experts who work with haptic technology, application design, physical human robot interaction, and/or integrate it into real applications
+* Engineers, computer scientists and technologists who create new and novel sensing and display equipment, algorithms and visualizations affect in various ways, including cutting edge touch sensing
