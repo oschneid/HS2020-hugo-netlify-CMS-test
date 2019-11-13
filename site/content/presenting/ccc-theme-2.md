@@ -4,25 +4,15 @@ title: >-
   connections: From neuroscience to design
 deadline: ''
 description: >-
-  Touch is personal and emotional. It provides the most intuitive and potent way
-  we can express romantic or parental love, comfort a friend, calm a child’s
-  jitters, and soothe or take comfort from a pet. Our first sense to develop,
-  social touch is key to the well-being of the young, infirm or aged, as nurses
-  well know; therapists rely on touch-based interventions in their interactions
-  with children who are sensory-seeking or on the autism spectrum. Over the last
-  decade, emerging academic and industry knowledge about affective touch has
-  spanned neuroscience, psychology, engineering, physical therapy, entertainment
-  and more. 
-
-
-  This Cross-Cutting Challenge will describe this emerging area, which may be
-  key to unlocking a wide array of meaningful haptic applications. To pursue
-  major advances, it is vital that researchers spanning this disparate space
-  come together, especially to leverage advances in science with advances in
-  engineered systems and technologies. A wide range of perspectives will address
-  two main questions:
+  Touch is personal and emotional. Over the last decade, emerging academic and
+  industry knowledge about affective touch has spanned neuroscience, psychology,
+  engineering, physical therapy, entertainment and more. This Cross-Cutting
+  Challenge will describe this emerging area, and the interdisciplinary
+  challenges that must be overcome in order to realize major advances.
 weight: 1
 ---
+# Cross-Cutting Challenge Theme 2: Oh what a feeling! Toward haptic deepening of affective connections: From neuroscience to design
+
 **Organizers:** Greg Gerling (University of Virginia) and Karon MacLean (University of British Columbia)
 
 **Keynote Speakers:**
