@@ -20,7 +20,7 @@ The goal of the set of CCC sessions is to come together to focus on interdiscipl
 Organizers: Greg Gerling (University of Virginia) and Karon Maclean (University of British Columbia)
 
 **Theme 2: Using the Skin as a Medium for Communication**\
-Organizers: Lynette Jones (Massachusetts Institute of Technology), Hong Z. Tan (Purdue University), Charlotte M. Reed (Massachusetts Institute of Technology
+Organizers: Lynette Jones (Massachusetts Institute of Technology), Hong Z. Tan (Purdue University), Charlotte M. Reed (Massachusetts Institute of Technology)
 
 An outstanding set of keynote speakers have been selected for each CCC session.
 
