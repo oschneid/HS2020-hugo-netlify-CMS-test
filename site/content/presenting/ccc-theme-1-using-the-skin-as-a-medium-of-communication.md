@@ -17,7 +17,7 @@ description: >-
   impaired?
 weight: 1
 ---
-## CCC Theme 1: Using the Skin as a Medium of Communication
+## Cross-Cutting Challenge Theme 1: Using the Skin as a Medium of Communication
 
 **Organizers:** Lynette Jones (Massachusetts Institute of Technology), Hong Z. Tan (Purdue University), Charlotte M. Reed (Massachusetts Institute of Technology)
 
