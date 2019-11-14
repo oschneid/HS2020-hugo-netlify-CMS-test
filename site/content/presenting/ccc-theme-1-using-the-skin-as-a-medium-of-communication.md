@@ -1,14 +1,14 @@
 ---
-title: 'CCC Theme 1: Using the Skin as a Medium of Communication'
+title: 'CCC Theme 2: Using the Skin as a Medium of Communication'
 description: >-
   Tactile communication systems such as Tadoma and braille demonstrate that
   language can be conveyed effectively through the skin. Over the years there
   have been a number of attempts to develop tactile vocabularies and displays
   for general use. This CCC will address a range of topics salient to this
   interdisciplinary area. 
-weight: 1
+weight: 2
 ---
-## Cross-Cutting Challenge Theme 1: Using the Skin as a Medium of Communication
+## Cross-Cutting Challenge Theme 2: Using the Skin as a Medium of Communication
 
 **Organizers:** Lynette Jones (Massachusetts Institute of Technology), Hong Z. Tan (Purdue University), Charlotte M. Reed (Massachusetts Institute of Technology)
 
@@ -22,11 +22,8 @@ This session will include presentations by several **keynote speakers**:
 
 * Roger Cholewiak (Princeton University, retired) will give a historical overview of work in the area of tactile communication.
 * Charlotte Reed (MIT) will present on her recent work on a tactile speech communication system.
-
 * Lori Holt (Carnegie Mellon University) will unveil the cognitive processes that underlie learning and categorization of sound and speech.
-
 * Granit Luzhnica (Graz University of Technology) will share his work concerned with communication of text through tactile coding of the 26 letters of the English alphabet.
-
 * Sile O’Modhrain (University of Michigan) will discuss the development of refreshable braille displays and the challenges associated with making these more widely available.
 
 The interactive sessions will include presentations by researchers working on haptic devices for conveying gestural languages, novel approaches to tactile speech communication and multisensory interactions between hearing and touch.
