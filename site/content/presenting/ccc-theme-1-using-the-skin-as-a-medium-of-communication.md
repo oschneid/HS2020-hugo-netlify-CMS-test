@@ -6,7 +6,7 @@ description: >-
   have been a number of attempts to develop tactile vocabularies and displays
   for general use. This CCC will address a range of topics salient to this
   interdisciplinary area. 
-weight: 2
+weight: 3
 ---
 ## Cross-Cutting Challenge Theme 2: Using the Skin as a Medium of Communication
 
