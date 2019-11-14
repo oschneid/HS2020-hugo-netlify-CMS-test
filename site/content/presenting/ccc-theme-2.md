@@ -1,6 +1,6 @@
 ---
 title: >-
-  CCC Theme 2: Oh what a feeling! Toward haptic deepening of affective
+  CCC Theme 1: Oh what a feeling! Toward haptic deepening of affective
   connections: From neuroscience to design
 deadline: ''
 description: >-
@@ -11,7 +11,7 @@ description: >-
   challenges that must be overcome in order to realize major advances.
 weight: 1
 ---
-# Cross-Cutting Challenge Theme 2: Oh what a feeling! Toward haptic deepening of affective connections: From neuroscience to design
+# Cross-Cutting Challenge Theme 1: Oh what a feeling! Toward haptic deepening of affective connections: From neuroscience to design
 
 **Organizers:** Greg Gerling (University of Virginia) and Karon MacLean (University of British Columbia)
 
@@ -33,15 +33,11 @@ This Cross-Cutting Challenge will describe this emerging area, which may be key 
 (1) What is affective touch; what is our current scientific basis for understanding it? Where are the gaps and how might we collaborate to advance them?
 
 * Psychologists to describe the observation and study of emotion
-
 * Biologists, physiologists, neuroscientists to understand how sensory afferents and regions of our brain respond and react to various stimuli over distinct time courses, and how these tie to pain
-
 * Sensory practitioners and physical therapists who provide ways to aid sensory seeking individuals and others with sensory and emotional deficits
-
 * Applications - domain experts such as clinicians, parents, and patients who can convey therapeutic and communication issues and constraints 
 
 (2) How do we build devices which display and measure affective touch? How can such technology address human interactions and therapeutic interventions?
 
 * Designers and user interaction experts who work with haptic technology, application design, physical human robot interaction, and/or integrate it into real applications
-
 * Engineers, computer scientists and technologists who create new and novel sensing and display equipment, algorithms and visualizations affect in various ways, including cutting edge touch sensing
