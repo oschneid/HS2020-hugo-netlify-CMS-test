@@ -9,7 +9,7 @@ description: >-
   engineering, physical therapy, entertainment and more. This Cross-Cutting
   Challenge will describe this emerging area, and the interdisciplinary
   challenges that must be overcome in order to realize major advances.
-weight: 1
+weight: 2
 ---
 # Cross-Cutting Challenge Theme 1: Oh what a feeling! Toward haptic deepening of affective connections: From neuroscience to design
 
