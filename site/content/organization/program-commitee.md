@@ -28,7 +28,6 @@ The Conference Editorial Board ([editors@hapticssymposium.org](editors@hapticssy
 * Massimiliano Di Luca, _University of Birmingham and Facebook Reality Labs_
 * Antonio Frisoli, _Scuola Superiore Sant'Anna_
 * Brent Gillespie, _University of Michigan_
-* Ki-Uk Kyung, _Korea Advanced Institute of Science & Technology (KAIST)_
 * Vincent Levesque _École de Technologie Supérieure_
 * Sile O'Modhrain, _University of Michigan_
 * Shogo Okamoto, _Nagoya University_
