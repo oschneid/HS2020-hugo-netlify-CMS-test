@@ -46,11 +46,11 @@ Manuel Cruz and Cagatay Basdogan (<mailto:ccc@hapticssymposium.org>)
 ## Timeline
 
 * ~~Submit theme proposals (by September 6, 2019)~~
-* Themes announced (November 1, 2019)
+* ~~Themes announced (November 1, 2019)~~
 * **Submit individual interactive discussion proposals (by November 26, 2019)**
 * Notifications for individual submissions (December 20, 2019)
 
-## ~~Open discussions with CCC Chairs~~
+## ~~Open discussions with CCC Chairs~~ (selection closed)
 
 ~~We encourage discussions with the CCC chairs during the IEEE World Haptics Conference in Tokyo from July 9 – 12, 2019.  We will arrange a 1-2 hour poster session with exact day and time yet to be determined. If you cannot make this event, or if you have follow-up questions afterward, feel free to reach out to the CCC chairs at any point.~~
 
@@ -84,11 +84,14 @@ Keynote and Interactive Discussion Submission Instructions
 
 Once the themes are selected and announced, individual keynote and interactive discussion proposals will be accepted in each of the two chosen theme areas.  The theme organizer will automatically be a keynote speaker, unless he or she for some reason chooses otherwise.
 
-~~Investigators apply to deliver keynote talks (4 to 5 per theme session)~~ and interactive discussions (about 10 per theme session).  Those submitting must be a faculty member and/or independent researcher, i.e., holding a Ph.D. degree or equivalent.  Note that while theme organizers may want to encourage particular individuals to submit, the selection of individuals within a theme will ultimately be based on finding a representative and coherent cohort of presenters that together create a powerful narrative and inspiring call to action.
+Investigators apply to deliver keynote talks (4 to 5 per theme session) and interactive discussions (about 10 per theme session).  Those submitting must be a faculty member and/or independent researcher, i.e., holding a Ph.D. degree or equivalent.  Note that while theme organizers may want to encourage particular individuals to submit, the selection of individuals within a theme will ultimately be based on finding a representative and coherent cohort of presenters that together create a powerful narrative and inspiring call to action.
 
-**Keynote talks: (selection closed)** Each keynote talk should synthesize research performed by the presenter (perhaps 3 journal articles and 2 conference papers published over the past few years), and it should be framed in light of the on-going grand challenge as well as the work of others in the field.  Specifically, talks should cover the following three components oriented around the cross-cutting challenge theme: 1) related prior work of this investigator done in the last 4-5 years, 2) present work that is in the process of being published in conferences and journals, and 3) forward-looking, emerging directions that the presenter sees as opportunities within this sub-domain.  Adequate time should be devoted to each.  Each talk will be sequenced appropriately by the organizers and Cross-Cutting Challenges Chairs, and the chosen presenters are expected to coordinate somewhat to craft a coherent message.  Speakers should not assume a lay audience, but should dive into the details in presenting work done in their lab.  
+**~~Keynote talks:~~ (selection closed)** Each keynote talk should synthesize research performed by the presenter (perhaps 3 journal articles and 2 conference papers published over the past few years), and it should be framed in light of the on-going grand challenge as well as the work of others in the field.  Specifically, talks should cover the following three components oriented around the cross-cutting challenge theme: 1) related prior work of this investigator done in the last 4-5 years, 2) present work that is in the process of being published in conferences and journals, and 3) forward-looking, emerging directions that the presenter sees as opportunities within this sub-domain.  Adequate time should be devoted to each.  Each talk will be sequenced appropriately by the organizers and Cross-Cutting Challenges Chairs, and the chosen presenters are expected to coordinate somewhat to craft a coherent message.  Speakers should not assume a lay audience, but should dive into the details in presenting work done in their lab.  
 
-**Interactive discussions:** These contributions center around a poster and/or videos and may be led by an independent researcher with support from one or more other researchers from their team.  Interactive discussions should cover some of the same type of content as a keynote talk.  Proposers should aim to talk a large number of conference participants, so that personal and one-on-one discussions, idea generation and future team formation might be sparked during this session.  
+**Interactive discussions:** These contributions center around a poster and/or videos and may be led by an independent researcher with support from one or more other researchers from their team.  Interactive discussions should cover some of the same type of content as a keynote talk.  Proposers should aim to talk a large number of conference participants, so that personal and one-on-one discussions, idea generation and future team formation might be sparked during this session. **To apply for interactive discussions, please submit your proposal to the organizers of the respective CCC:**
+
+ - CCC1: Haptic Deepening of Affective Connections: Gregory Gerling, <mailto:gregory-gerling@virginia.edu>
+ -  CCC2: Skin as a Medium for Communication: Lynette Jones, <mailto:ljones@mit.edu>
 
 **Selection Committee:** The selection committee for Keynote Talks and Interactive Discussions consists of three academic members, the Cross-Cutting Challenges Chairs, one conference chair, and that theme’s organizers.  The three academic members will be chosen by the Cross-Cutting Challenges Chairs to represent haptic science, applications, and technology.  
 
