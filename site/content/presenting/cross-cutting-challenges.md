@@ -17,7 +17,7 @@ The goal of the set of CCC sessions is to come together to focus on interdiscipl
 **Theme 1: Oh What a Feeling!  Toward Haptic Deepening of Affective Connections - From Neuroscience To Design**\
 Organizers: Greg Gerling (University of Virginia) and Karon Maclean (University of British Columbia)
 
-**Theme 2: Using the Skin as a Medium for Communication**\
+****[**Theme 2: Using the Skin as a Medium for Communication**](https://2020.hapticssymposium.org/admin/#/collections/presenting/entries/ccc-theme-1-using-the-skin-as-a-medium-of-communication)****\
 Organizers: Lynette Jones (Massachusetts Institute of Technology), Hong Z. Tan (Purdue University), Charlotte M. Reed (Massachusetts Institute of Technology)
 
 An outstanding set of keynote speakers have been selected for each CCC session.
@@ -90,9 +90,8 @@ Investigators apply to deliver keynote talks (4 to 5 per theme session) and inte
 
 **Interactive discussions:** These contributions center around a poster and/or videos and may be led by an independent researcher with support from one or more other researchers from their team.  Interactive discussions should cover some of the same type of content as a keynote talk.  Proposers should aim to talk a large number of conference participants, so that personal and one-on-one discussions, idea generation and future team formation might be sparked during this session. **To apply for interactive discussions, please submit your proposal to the organizers of the respective CCC:**
 
- - CCC1: Haptic Deepening of Affective Connections: Gregory Gerling, <mailto:gregory-gerling@virginia.edu>
- -  CCC2: Skin as a Medium for Communication: Lynette Jones, <mailto:ljones@mit.edu>
-
+* CCC1: Haptic Deepening of Affective Connections: Gregory Gerling, <mailto:gregory-gerling@virginia.edu>
+*  CCC2: Skin as a Medium for Communication: Lynette Jones, <mailto:ljones@mit.edu>
 
 **Selection Committee:** The selection committee for Keynote Talks and Interactive Discussions consists of three academic members, the Cross-Cutting Challenges Chairs, one conference chair, and that theme’s organizers.  The three academic members will be chosen by the Cross-Cutting Challenges Chairs to represent haptic science, applications, and technology.  
 
