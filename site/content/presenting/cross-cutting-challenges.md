@@ -14,10 +14,10 @@ Following its successful launch at the 2018 Haptics Symposium, the Cross-Cutting
 
 The goal of the set of CCC sessions is to come together to focus on interdisciplinary challenges (“themes”) calling for united solutions from the haptics community. Drawn from an open solicitation, two themes will feature keynote talks and interactive discussions delivered by experts from science, engineering, and design. Two CCC Themes were selected for 2020 based on an open solicitation.  They are:
 
-****[**Theme 1: Oh What a Feeling!  Toward Haptic Deepening of Affective Connections - From Neuroscience To Design**](https://2020.hapticssymposium.org/admin/#/collections/presenting/entries/ccc-theme-2)****\
+Theme 1: Oh What a Feeling!  Toward Haptic Deepening of Affective Connections - From Neuroscience To Design\
 Organizers: Greg Gerling (University of Virginia) and Karon Maclean (University of British Columbia)
 
-\***\*[**Theme 2: Using the Skin as a Medium for Communication**](https://2020.hapticssymposium.org/admin/#/collections/presenting/entries/ccc-theme-1-using-the-skin-as-a-medium-of-communication)\*\***\
+Theme 2: Using the Skin as a Medium for Communication \
 Organizers: Lynette Jones (Massachusetts Institute of Technology), Hong Z. Tan (Purdue University), Charlotte M. Reed (Massachusetts Institute of Technology)
 
 An outstanding set of keynote speakers have been selected for each CCC session.
