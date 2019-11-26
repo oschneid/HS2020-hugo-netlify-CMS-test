@@ -19,7 +19,7 @@ New for 2020, a [conference journal papers track](/presenting/transactions-on-ha
 
 ~~September 27, 2019 (firm deadline)~~: [Early submission, IEEE Transactions on Haptics journal papers track](/presenting/transactions-on-haptics-early-submission)
 
-~~October 20 25, 2019~~: [Regular submission, Conference technical papers track](/presenting/technical-papers/)
+~~October 25, 2019~~: [Regular submission, Conference technical papers track](/presenting/technical-papers/)
 
 **November ~~8~~ 26, 2019**: [Individual Submissions, Cross-Cutting Challenges](/presenting/cross-cutting-challenges/)
 
