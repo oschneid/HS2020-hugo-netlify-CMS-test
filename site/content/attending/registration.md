@@ -7,7 +7,7 @@ We are excited to welcome the worldwide haptics community to Washington, DC for 
 
 ![Smiling student volunteers welcome attendees](/img/slide-image-6-crop.jpg)
 
-# Conference Rates
+## Conference Rates
 
 | Participant/Registration | Early Bird Full | Early Bird 1-Day | Standard Full | Standard 1-Day | Onsite Full | Onsite 1-Day |
 | ------------------------ | --------------- | ---------------- | ------------- | -------------- | ----------- | ------------ |
