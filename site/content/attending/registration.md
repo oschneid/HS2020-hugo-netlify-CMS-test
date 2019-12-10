@@ -1,7 +1,7 @@
 ---
 title: Registration
 description: Register for Haptics Symposium 2020 now!
-weight: 2
+weight: 1
 ---
 We are excited to welcome the worldwide haptics community to Washington, DC for the 2020 Haptics Symposium! To register, [click here to visit the registration site](http://www.cvent.com/d/kyqc6d/1Q)!  Participants may register for the full conference or for a single day.  Note that this year there is an early bird deadline, in addition to standard and onsite deadlines.
 
