@@ -8,15 +8,82 @@ We are excited to welcome the worldwide haptics community to Washington, DC for 
 ![Smiling student volunteers welcome attendees](/img/slide-image-6-crop.jpg)
 
 ## **Conference Rates**
-<br>
 
-| **Participant**  | **Early Bird Full** | **Early Bird 1 Day** | **Standard Full** | **Standard 1 Day** | **Onsite Full** | **Onsite 1 Day** |
-|:----------------------|:--------------- |:----------------|:-------------|:--------------|:----------- |:------------|
-| **Member**             | 775             | 350              | 850           | 385            | 950         | 430          |
-| **Non-Member**         | 930             | 420              | 1020          | 460            | 1140        | 520          |
-| **Student Member**     | 465             | 210              | 510           | 230            | 570         | 260          |
-| **Student Non-Member** | 560             | 250              | 610           | 275            | 685         | 310          |
-| **Life Member**        | 465             | 210              | 510           | 230            | 570         | 260          |
+<table>
+<thead>
+<tr>
+<th align="left" bgcolor="#DDDDDD"><strong>Participant&nbsp;</strong></th>
+<th align="left" bgcolor="#DDDDDD"><strong>Early Bird&nbsp;&nbsp;</strong></th>
+<th align="left" bgcolor="#DDDDDD"><strong>Early Bird&nbsp;&nbsp;</strong></th>
+<th align="left" bgcolor="#DDDDDD"><strong>Standard&nbsp;&nbsp;</strong></th>
+<th align="left" bgcolor="#DDDDDD"><strong>Standard&nbsp;&nbsp;</strong></th>
+<th align="left" bgcolor="#DDDDDD"><strong>Onsite&nbsp;&nbsp;</strong></th>
+<th align="left" bgcolor="#DDDDDD"><strong>Onsite&nbsp;&nbsp;</strong></th>
+</tr>
+<tr>
+<th align="left" bgcolor="#DDDDDD"><strong></strong></th>
+<th align="left" bgcolor="#DDDDDD"><strong>Full</strong></th>
+<th align="left" bgcolor="#DDDDDD"><strong>1 Day</strong></th>
+<th align="left" bgcolor="#DDDDDD"><strong>Full</strong></th>
+<th align="left" bgcolor="#DDDDDD"><strong>1 Day</strong></th>
+<th align="left" bgcolor="#DDDDDD"><strong>Full</strong></th>
+<th align="left" bgcolor="#DDDDDD"><strong>1 Day</strong></th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td align="left"><strong>Member&nbsp;</strong></td>
+<td align="left">775</td>
+<td align="left">350</td>
+<td align="left">850</td>
+<td align="left">385</td>
+<td align="left">950</td>
+<td align="left">430</td>
+</tr>
+
+<tr>
+<td align="left"><strong>Non-Member&nbsp;</strong></td>
+<td align="left">930</td>
+<td align="left">420</td>
+<td align="left">1020</td>
+<td align="left">460</td>
+<td align="left">1140</td>
+<td align="left">520</td>
+</tr>
+
+<tr>
+<td align="left"><strong>Student Member&nbsp;&nbsp;</strong></td>
+<td align="left">465</td>
+<td align="left">210</td>
+<td align="left">510</td>
+<td align="left">230</td>
+<td align="left">570</td>
+<td align="left">260</td>
+</tr>
+
+<tr>
+<td align="left"><strong>Student Non-Member&nbsp;&nbsp;</strong></td>
+<td align="left">560</td>
+<td align="left">250</td>
+<td align="left">610</td>
+<td align="left">275</td>
+<td align="left">685</td>
+<td align="left">310</td>
+</tr>
+
+<tr>
+<td align="left"><strong>Life Member&nbsp;</strong></td>
+<td align="left">465</td>
+<td align="left">210</td>
+<td align="left">510</td>
+<td align="left">230</td>
+<td align="left">570</td>
+<td align="left">260</td>
+</tr>
+</tbody>
+</table>
+
 
 _All figures are in USD._\
 Member: Regular Member of IEEE or TCH\
