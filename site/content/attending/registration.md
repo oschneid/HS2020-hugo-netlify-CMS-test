@@ -18,8 +18,8 @@ We are excited to welcome the worldwide haptics community to Washington, DC for 
 | **Student Non-Member** | 560             | 250              | 610           | 275            | 685         | 310          |
 | **Life Member**        | 465             | 210              | 510           | 230            | 570         | 260          |
 
-_All figures are in USD._
-Member: Regular Member of IEEE or TCH
+_All figures are in USD._   
+Member: Regular Member of IEEE or TCH   
 Life Member: IEEE Life Member
 
 **Visa Letter Requests:** Formal invitation letters will not be issued to all attendees, but we will provide visa support letters upon request. For visa support letters, send the information requested below to registration@hapticssymposium.org with the subject HAPTICS Visa Letter Request. All visa support letters will be issued via email.
