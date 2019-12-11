@@ -12,7 +12,7 @@ We are excited to welcome the worldwide haptics community to Washington, DC for 
 <table>
 <thead>
 <tr>
-<th align="left" bgcolor="#DDDDDD"><strong>Participant&nbsp;</strong></th>
+<th align="left" bgcolor="#DDDDDD"><strong>Participant&nbsp;</strong></th> 
 <th align="left" bgcolor="#DDDDDD"><strong>Early Bird&nbsp;&nbsp;</strong></th>
 <th align="left" bgcolor="#DDDDDD"><strong>Early Bird&nbsp;&nbsp;</strong></th>
 <th align="left" bgcolor="#DDDDDD"><strong>Standard&nbsp;&nbsp;</strong></th>
