@@ -1,12 +1,5 @@
 ---
-title: 'CCC Theme 2: Using the Skin as a Medium of Communication'
-description: >-
-  Tactile communication systems such as Tadoma and braille demonstrate that
-  language can be conveyed effectively through the skin. Over the years there
-  have been a number of attempts to develop tactile vocabularies and displays
-  for general use. This CCC will address a range of topics salient to this
-  interdisciplinary area. 
-weight: 3
+title: 'Cross-Cutting Challenge Theme 2: Using the Skin as a Medium of Communication'
 ---
 ## Cross-Cutting Challenge Theme 2: Using the Skin as a Medium of Communication
 
