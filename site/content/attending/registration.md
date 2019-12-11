@@ -22,7 +22,7 @@ _All figures are in USD._
 Member: Regular Member of IEEE or TCH
 Life Member: IEEE Life Member
 
-\*Visa Letter Requests:* Formal invitation letters will not be issued to all attendees, but we will provide visa support letters upon request. For visa support letters, send the information requested below to registration@hapticssymposium.org with the subject HAPTICS Visa Letter Request. All visa support letters will be issued via email.
+**Visa Letter Requests:** Formal invitation letters will not be issued to all attendees, but we will provide visa support letters upon request. For visa support letters, send the information requested below to registration@hapticssymposium.org with the subject HAPTICS Visa Letter Request. All visa support letters will be issued via email.
 
 Full name as it appears on your passport
 Email address
