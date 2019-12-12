@@ -17,6 +17,12 @@ Getting the conference presentation venue is only possible if the attendees stay
 
 <https://book.passkey.com/e/49945382>
 
+## **Roommate finder**
+
+If you would like to find one or more people to share a hotel room with, please fill out the roommate finder form. The information you enter will be shared with other attendees who are looking for a roommate so that you can find suitable matches.
+
+<https://forms.gle/LE7PxipdDSQSmHYn7>
+
 ![Interior terrace of the venue](/img/wasgw-terrace-0125-hor-wide.jpg "Interior terrace of the venue")
 
 ![Conference room at the venue](/img/wasgw-ballroom-4897-hor-wide.jpg "Conference room at the venue")
