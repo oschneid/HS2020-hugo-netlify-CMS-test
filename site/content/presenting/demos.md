@@ -33,7 +33,7 @@ Early February, 2020 – Demo acceptance notification
 
 ## Submission Method
 
-Proposals for hands-on demonstrations will be submitted electronically via our PrecisionConference system. Select the "Haptics Symposium" Society, "Haptics 2020" Conference, and "Haptics 2020 Demonstrations" Track.
+Proposals for hands-on demonstrations will be submitted electronically via our submission system at a link that will be provided here. 
 
 Each submission will include the following items:
 
