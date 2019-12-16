@@ -2,14 +2,7 @@
 title: >-
   CCC Theme 1: Oh what a feeling! Toward haptic deepening of affective
   connections: From neuroscience to design
-deadline: ''
-description: >-
-  Touch is personal and emotional. Over the last decade, emerging academic and
-  industry knowledge about affective touch has spanned neuroscience, psychology,
-  engineering, physical therapy, entertainment and more. This Cross-Cutting
-  Challenge will describe this emerging area, and the interdisciplinary
-  challenges that must be overcome in order to realize major advances.
-weight: 2
+image: /img/ccc1.jpg
 ---
 # Cross-Cutting Challenge Theme 1: Oh what a feeling! Toward haptic deepening of affective connections: From neuroscience to design
 
