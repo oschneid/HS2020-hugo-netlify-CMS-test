@@ -10,10 +10,10 @@ image: ''
 
 **Keynote Speakers:**
 
-* Håkan Olausson (Clinical and Experimental Medicine, Linköping University, Sweden)
-* Annett Schirmer (Psychology, The Chinese University of Hong Kong, Hong Kong)
-* Carey Jewitt (Education, Learning and Technology, University College London, UK)
-* Karon MacLean (Computer Science, University of British Columbia, Canada)
+* Håkan Olausson (Clinical and Experimental Medicine, Linköping University, Sweden), A privileged pathway for pleasant touch
+* Annett Schirmer (Psychology, The Chinese University of Hong Kong, Hong Kong), Human gentle caress and its relevance for the social brain
+* Carey Jewitt (Education, Learning and Technology, University College London, UK), The challenges of designing the social and sensorial aspects of touch
+* Karon MacLean (Computer Science, University of British Columbia, Canada), Emotional robots and magical objects: What part of our internal experience is readable by a touch-sensitive machine?
 
 ![](/img/ccc1.jpg "CCC1 Speakers")
 
