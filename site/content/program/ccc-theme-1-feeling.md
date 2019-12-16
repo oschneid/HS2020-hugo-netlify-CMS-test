@@ -2,7 +2,7 @@
 title: >-
   CCC Theme 1: Oh what a feeling! Toward haptic deepening of affective
   connections: From neuroscience to design
-image: /img/ccc1.jpg
+image: ''
 ---
 # Cross-Cutting Challenge Theme 1: Oh what a feeling! Toward haptic deepening of affective connections: From neuroscience to design
 
@@ -14,6 +14,8 @@ image: /img/ccc1.jpg
 * Annett Schirmer (Psychology, The Chinese University of Hong Kong, Hong Kong)
 * Carey Jewitt (Education, Learning and Technology, University College London, UK)
 * Karon MacLean (Computer Science, University of British Columbia, Canada)
+
+![](/img/ccc1.jpg "CCC1 Speakers")
 
 Touch is personal and emotional. It provides the most intuitive and potent way we can express romantic or parental love, comfort a friend, calm a child’s jitters, and soothe or take comfort from a pet. Our first sense to develop, social touch is key to the well-being of the young, infirm or aged, as nurses well know; therapists rely on touch-based interventions in their interactions with children who are sensory-seeking or on the autism spectrum. When we ask people to describe how something feels, emotion words are highly represented: affect is a fundamental frame within which we understand what we feel.
 
