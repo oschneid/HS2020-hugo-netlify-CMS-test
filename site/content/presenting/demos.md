@@ -42,8 +42,9 @@ Each submission will include the following items:
 * A 100-word abstract describing the hands-on demonstration in more detail.
 * An image that can be used in the conference digest. The image should have a square aspect ratio and contain at least 900 pixels by 900 pixels, in JPEG or PNG format, with a file size less than 2 MB.
 * Any special considerations that the conference organizers should be aware of.
+* **A video is required**:
 
-It is also highly recommended that authors submit a supplemental video. Videos will be used for promotional purposes at the conference, and all videos will be compiled in a single one that will be posted on the conference website to showcase current research in haptics. When submitting a video, please follow these guidelines: format (mpeg, 4m, mp4), length (up to 2 minutes), resolution (at least 480p progressive scan), and file size (up to 40 MB).
+Authors should submit a supplemental video. Videos will be used for promotional purposes at the conference, and all videos will be compiled in a single one that will be posted on the conference website to showcase current research in haptics. When submitting a video, please follow these guidelines: format (mpeg, 4m, mp4), length (up to 2 minutes), resolution (at least 480p progressive scan), and file size (up to 40 MB).
 
 ## Review Process
 
