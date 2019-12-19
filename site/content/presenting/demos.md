@@ -25,7 +25,7 @@ Submission of hands-on demonstrations is open to all members of the haptics rese
 
 ## Timeline
 
-Late November, 2019 – Demo submissions open
+Late December, 2019 – Demo submissions open
 
 January 31, 2020 – Demo submission deadline
 
@@ -39,10 +39,10 @@ Each submission will include the following items:
 
 * A title that succinctly describes the demonstration.
 * An ordered list of authors (including first and last names), with an indication of who is the corresponding author.
-* A 150-word abstract describing the hands-on demonstration in more detail. This should be submitted as a PDF using the [ieeeconf format](http://ras.papercept.net/conferences/support/support.php). 
+* A 1 page PDF describing the hands on demonstration. This should use the [ieeeconf format](http://ras.papercept.net/conferences/support/support.php) and include a 150 word abstract and a representative picture. 
 * An image that can be used in the conference digest. The image should have a square aspect ratio and contain at least 900 pixels by 900 pixels, in JPEG or PNG format, with a file size less than 2 MB.
 * Any special considerations that the conference organizers should be aware of.
-* **A video is required**:
+* A video (required), see guidelines below.
 
 Authors should submit a supplemental video that describes their demonstration, preferably with motivation for the work. 
 
@@ -62,7 +62,7 @@ Submissions will be reviewed by the Demos & Exhibits Co-Chairs to ensure all dem
 
 ## Publication
 
-The submitted title, author list, abstract and image will be included in the electronic proceedings distributed to conference attendees but not archived on IEEExplore.
+The submitted title, author list, 1 page PDF and image will be included in the electronic proceedings distributed to conference attendees, but not archived on IEEExplore.
 
 ## Demonstration Details
 
