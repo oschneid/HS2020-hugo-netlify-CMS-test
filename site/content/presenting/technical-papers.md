@@ -47,7 +47,7 @@ All accepted papers will be included in the electronically distributed conferenc
 
 Paper copyright will be transferred to the IEEE as part of the publication process.
 
-Paper decisions will be announced on December 23, 2019, and will also be available in [PrecisionConference](https://new.precisionconference.com/haptics).
+Paper decisions will be announced on December 30, 2019, and will also be available in [PrecisionConference](https://new.precisionconference.com/haptics).
 
 ## **Videos**
 
@@ -63,13 +63,13 @@ Guidelines: format (mpeg 4, .mp4), length (up to 2 minutes), resolution (at leas
 
 All accepted technical papers will appear in this year's Haptics Symposium proceedings, which will be distributed at the conference and submitted to IEEE Xplore.
 
-The contact author of each accepted technical paper will receive final paper submission instructions by email. Note that a 100-word abstract is not required.  We encourage optional submission of a high-resolution square image that represents the main contribution of the paper; this image will be used in the online proceedings.
+The contact author of each accepted technical paper will receive final paper submission instructions by email. An additional 100-word abstract will be required.  
 
 Please carefully follow the instructions provided in that email. Author teams who already submitted their final paper via PCS must resubmit following the instructions in the email; no final papers can be accepted via PCS this year.
 
-Due date for all items: January, 2020
+Due date for all items: late January, 2020
 
-Respond to the email you received or contact the publication chair at publications@hapticssymposium.org with questions about final submission of technical papers.
+Respond to the email you received or contact the publication chair (Veronica Santos) at publications@hapticssymposium.org with questions about final submission of technical papers.
 
 ## **Presentation Instructions**
 
