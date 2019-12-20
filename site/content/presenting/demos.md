@@ -46,15 +46,13 @@ Each submission will include the following items:
 
 Authors should submit a supplemental video that describes their demonstration, preferably with motivation for the work. 
 
-Videos will be used for promotional purposes at the conference, and all videos will be compiled in a single one that will be posted on the conference website and uploaded to YouTube to showcase current research in haptics. In light of this, please do not submit any material that you consider to be confidential.
+Videos will be used for promotional purposes at the conference, and all videos will be compiled into a digest video that will be posted on the conference website and uploaded to YouTube to showcase current research in haptics. In consideration of this, please do not include any material in your video that you consider confidential.
 
 When submitting a video, please follow these guidelines: 
 
 Length: Up to 1 minute\
 Size: up to 40 MB\
 Format: This should be a common format (e.g. MP4). Authors should confirm that their video will play on a recent version of [VLC media player](https://www.videolan.org/vlc/index.html) (cross platform) without the need to download additional codecs. 
-
-Videos will be used for promotional purposes at the conference, and all videos will be compiled into a digest video that will be posted on the conference website and uploaded to YouTube to showcase current research in haptics. In consideration of this, please do not include any material in your video that you consider confidential.
 
 ## Review Process
 
@@ -76,4 +74,4 @@ Each demonstration will be assigned a space at the conference. The space will in
 
 ## Logistics
 
-Each demo will be allocated a space that includes a 72" by 30" (183 cm by 76 cm) table, two chairs, one six-outlet power strip (120 V, 60 Hz, type B North America plugs), and a 8' by 4' (2.4 m by 1.2 m) board for mounting a poster. Demo presenters are invited to set up their demos on Sunday, March 28 after 7:00 p.m. Demos should be removed by 1:00 p.m. on Wednesday, March 31 (the last day of the conference).
+Each demo will be allocated a space that includes a 72" by 30" (183 cm by 76 cm) table, two chairs, one six-outlet power strip (120 V, 60 Hz, type B North America plugs), and a 8' by 4' (2.4 m by 1.2 m) board for mounting a poster. Demo presenters are invited to set up their demos on Sunday, March 28 after 7:00 p.m. Demos should be removed by 3:00 p.m. on Wednesday, March 31 (the last day of the conference).
