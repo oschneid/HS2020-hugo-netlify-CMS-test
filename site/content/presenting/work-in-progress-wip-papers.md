@@ -56,11 +56,11 @@ Uploaded videos will be reviewed along with the paper.
 
 Videos associated with accepted WIP papers will be included in the electronically distributed conference proceedings and may be used to promote the conference.
 
-Guidelines: format (mpeg 4, .mp4), length (up to 60 seconds), resolution (at least 480p progressive scan), and file size (up to 20 MB).
+Guidelines: format (mpeg 4, .mp4), length (up to 60 seconds), resolution (at least 480p progressive scan), and file size (up to 40 MB).
 
 ## Final Submission
 
-All accepted WIP Papers will appear in this year's Haptics Symposium proceedings, which will be electronically distributed at the conference but will not be submitted to IEEE Xplore. In addition, an online conference program that shows short abstracts and images will also be distributed.  The authors of accepted WIP Papers will be asked to prepare a final version of their contribution, a 100-word abstract, a square image, and an optional video with accompanying files.
+All accepted WIP Papers will appear in this year's Haptics Symposium proceedings, which will be electronically distributed at the conference, but will not be submitted to IEEE Xplore. The authors of accepted WIP Papers will be asked to prepare a final version of their contribution, a 100-word abstract,  and the final version of the optional video.
 
 ## Presentation Instructions
 
@@ -80,4 +80,4 @@ The WIP posters will be presented during a WIP poster session. The posters must 
 
 Authors are responsible for printing their own poster and bringing it to the conference. Push pins will be provided to install the posters on the poster boards. 
 
-Any questions about WIP papers can be addressed to the WIP chair at <mailto:wip@hapticssymposium.org>.
+Any questions about WIP papers can be addressed to the WIP chair (Heather Culbertson) at <mailto:wip@hapticssymposium.org>.
