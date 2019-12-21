@@ -3,15 +3,21 @@ title: 'Cross-Cutting Challenge Theme 2: Using the Skin as a Medium of Communica
 ---
 ## Cross-Cutting Challenge Theme 2: Using the Skin as a Medium of Communication
 
-**Organizers:** Lynette Jones (Massachusetts Institute of Technology), Hong Z. Tan (Purdue University), Charlotte M. Reed (Massachusetts Institute of Technology)
+<hr style="height:2px; visibility:hidden;" />
+
+**Organizers:**
+
+* **Lynette Jones** (Massachusetts Institute of Technology)
+* **Hong Z. Tan** (Purdue University)
+* **Charlotte M. Reed** (Massachusetts Institute of Technology)
 
 **Keynote speakers**:
 
-* Roger Cholewiak (Princeton University, retired), Historical Perspectives on Cutaneous Communication... From a Wide Mantel
-* Charlotte Reed (MIT), Speech Communication through the Sense of Touch
-* Lori Holt (Carnegie Mellon University), Incidental Auditory Category Learning and Its Implications for Language Acquisition
-* Granit Luzhnica (Graz University of Technology), Optimizing Patterns and Encoding for Vibrotactile Skin Reading
-* Sile O’Modhrain (University of Michigan), Malleable Media
+* **Roger Cholewiak** (Princeton University, retired), Historical Perspectives on Cutaneous Communication ... From a Wide Mantel
+* **Charlotte Reed** (Massachusetts Institute of Technology), Speech Communication through the Sense of Touch
+* **Lori Holt** (Carnegie Mellon University), Incidental Auditory Category Learning and Its Implications for Language Acquisition
+* **Granit Luzhnica** (Graz University of Technology), Optimizing Patterns and Encoding for Vibrotactile Skin Reading
+* **Sile O’Modhrain** (University of Michigan), Malleable Media
 
 ![](/img/ccc2-copy.jpg "CCC2 Keynote Speakers")
 
@@ -19,6 +25,6 @@ Tactile communication systems such as Tadoma and braille demonstrate that langua
 
 The CCC session will cover the spectrum of issues related to using the skin as a medium of communication. Topics addressed by the speakers will include: how should language be encoded on the skin, should such encoding be the same for speech and text, how does the location of the display influence the parameters available for use in communication, do multisensory cutaneous displays enhance learning and lead to better outcomes, what are the challenges in creating refreshable braille displays and other display technology for individuals who are visually impaired?
 
-Speakers from both within and outside the haptics community will provide an overview of previous work as well to present talks focusing on ongoing research on this topic. Different approaches toward conveying language through the skin will be covered, including systems designed to convey textual representations of written English and those that are based on speech communication. 
+Speakers from both within and outside the haptics community will provide an overview of previous work as well to present talks focusing on ongoing research on this topic. Different approaches toward conveying language through the skin will be covered, including systems designed to convey textual representations of written English and those that are based on speech communication.
 
 The interactive sessions will include presentations by researchers working on haptic devices for conveying gestural languages, novel approaches to tactile speech communication and multisensory interactions between hearing and touch.

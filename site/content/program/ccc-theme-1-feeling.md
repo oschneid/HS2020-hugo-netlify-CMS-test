@@ -4,7 +4,9 @@ title: >-
   connections: From neuroscience to design
 image: ''
 ---
-# Cross-Cutting Challenge Theme 1: Oh what a feeling! Toward haptic deepening of affective connections: From neuroscience to design
+## Cross-Cutting Challenge Theme 1: Oh what a feeling! Toward haptic deepening of affective connections: From neuroscience to design
+
+<hr style="height:2px; visibility:hidden;" />
 
 **Organizers:**
 
