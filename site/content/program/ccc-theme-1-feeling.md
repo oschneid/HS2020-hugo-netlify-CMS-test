@@ -1,19 +1,22 @@
 ---
 title: >-
-  CCC Theme 1: Oh what a feeling! Toward haptic deepening of affective
+  Cross-Cutting Challenge Theme 1: Oh what a feeling! Toward haptic deepening of affective
   connections: From neuroscience to design
 image: ''
 ---
 # Cross-Cutting Challenge Theme 1: Oh what a feeling! Toward haptic deepening of affective connections: From neuroscience to design
 
-**Organizers:** Greg Gerling (University of Virginia) and Karon MacLean (University of British Columbia)
+**Organizers:**
+
+* **Greg Gerling** (University of Virginia)
+* **Karon MacLean** (University of British Columbia)
 
 **Keynote Speakers:**
 
-* Håkan Olausson (Clinical and Experimental Medicine, Linköping University, Sweden), A privileged pathway for pleasant touch
-* Annett Schirmer (Psychology, The Chinese University of Hong Kong, Hong Kong), Human gentle caress and its relevance for the social brain
-* Carey Jewitt (Education, Learning and Technology, University College London, UK), The challenges of designing the social and sensorial aspects of touch
-* Karon MacLean (Computer Science, University of British Columbia, Canada), Emotional robots and magical objects: What part of our internal experience is readable by a touch-sensitive machine?
+* **Håkan Olausson** (Clinical and Experimental Medicine, Linköping University, Sweden), A privileged pathway for pleasant touch
+* **Annett Schirmer** (Psychology, The Chinese University of Hong Kong, Hong Kong), Human gentle caress and its relevance for the social brain
+* **Carey Jewitt** (Education, Learning and Technology, University College London, UK), The challenges of designing the social and sensorial aspects of touch
+* **Karon MacLean** (Computer Science, University of British Columbia, Canada), Emotional robots and magical objects: What part of our internal experience is readable by a touch-sensitive machine?
 
 ![](/img/ccc1.jpg "CCC1 Speakers")
 

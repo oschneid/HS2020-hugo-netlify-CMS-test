@@ -13,18 +13,34 @@ New for 2020, a [conference journal papers track](/presenting/transactions-on-ha
 
 ![Smiling student volunteers welcome attendees](/img/slide-image-6-crop.jpg)
 
-### Upcoming deadlines:
+<hr style="height:12px; visibility:hidden;" />
 
-~~September 6, 2019~~: [Cross cutting challenge theme proposals](/presenting/cross-cutting-challenges/)
+#### Upcoming Deadlines
 
-~~September 27, 2019 (firm deadline)~~: [Early submission, IEEE Transactions on Haptics journal papers track](/presenting/transactions-on-haptics-early-submission)
+<hr style="height:2px; visibility:hidden;" />
 
-~~October 25, 2019~~: [Regular submission, Conference technical papers track](/presenting/technical-papers/)
+* January 31, 2020: [Early Bird Registration](/attending/registration/)
 
-**November ~~8~~ 26, 2019**: [Individual Submissions, Cross-Cutting Challenges](/presenting/cross-cutting-challenges/)
+* January 31, 2020: [Demonstration Submissions](/presenting/demos/)
 
-**January 31, 2020**: [Demonstration Submissions](/presenting/demos/)
+* January 31, 2020: [Work-in-Progress (WIP) Paper Submissions](/presenting/work-in-progress-wip-papers/)
 
-**January 31, 2020**: [Work-in-Progress (WIP) Paper Submissions](/presenting/work-in-progress-wip-papers/)
+* February 10, 2020: [Exhibit Applications - Sponsorship Prospectus](/sponsors/)
 
-**February 10, 2020**: Exhibit Applications (information coming soon)
+* February 21, 2020: [Standard Registration](/attending/registration/)
+
+<hr style="height:6px; visibility:hidden;" />
+
+#### Past Deadlines
+
+<hr style="height:2px; visibility:hidden;" />
+
+* ~~September 6, 2019~~: [Cross cutting challenge theme proposals](/presenting/cross-cutting-challenges/)
+
+* ~~September 27, 2019~~: [IEEE Transactions on Haptics journal papers track](/presenting/transactions-on-haptics-early-submission)
+
+* ~~October 25, 2019~~: [Conference technical papers track](/presenting/technical-papers/)
+
+* ~~November 26, 2019~~: [Individual Submissions, Cross-Cutting Challenges](/presenting/cross-cutting-challenges/)
+
+<br>
