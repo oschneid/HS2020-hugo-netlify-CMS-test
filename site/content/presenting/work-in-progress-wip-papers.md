@@ -6,11 +6,11 @@ description: >-
   to share late-breaking results with the research community. The emphasis of
   WIP papers is on the novelty of the work, not completeness. WIP papers should
   be 2 pages including references.
-weight: 5
+weight: 4
 ---
 # **Work-in-Progress (WIP) Papers**
 
-Work-in-Progress papers enable authors to share late-breaking results with the research community. The emphasis of WIP papers is on the novelty of the work, not completeness. 
+Work-in-Progress papers enable authors to share late-breaking results with the research community. The emphasis of WIP papers is on the novelty of the work, not completeness.
 
 ## Paper Format
 
@@ -78,6 +78,6 @@ The presenters are asked to a prepare a single slide for their teaser presentati
 
 The WIP posters will be presented during a WIP poster session. The posters must fit on a poster board with dimensions of 44” x 44” (111.76 cm x 111.76 cm). The posters can be designed using any size, orientation, or format, as long as they fit within this allocated space. You are encouraged to include the conference logo.
 
-Authors are responsible for printing their own poster and bringing it to the conference. Push pins will be provided to install the posters on the poster boards. 
+Authors are responsible for printing their own poster and bringing it to the conference. Push pins will be provided to install the posters on the poster boards.
 
 Any questions about WIP papers can be addressed to the WIP chair (Heather Culbertson) at <mailto:wip@hapticssymposium.org>.

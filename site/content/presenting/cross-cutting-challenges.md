@@ -6,7 +6,7 @@ description: >-
   Cross-Cutting Challenges (CCC) submission category will be held again at the
   2020 Haptics Symposium.
 image: /img/slide-image-5-crop.jpg
-weight: 1
+weight: 5
 ---
 # Cross-Cutting Challenges Themes
 
@@ -32,9 +32,9 @@ Interactive Discussion Proposals are due by November 26, 2019 (extended).  The o
 * Parallel interactive discussions (about 10 in parallel per session) where presenters stand with a poster and/or a laptop and spark new ideas, projects, and teams through personal conversations
 * Ample unstructured discussion time to follow up and expand
   **Scope:** So that participants may develop a holistic understanding of the theme topic, the set of presentations is expected to cover:
-* Recent prior work: synthesize developments in the theme area over a period of years, multiple research teams, and multiple technical disciplines 
-* Current work: relate ongoing work to the arc of research in the theme area 
-* Future ideas: envision forward-looking, emerging directions requiring interdisciplinary teams 
+* Recent prior work: synthesize developments in the theme area over a period of years, multiple research teams, and multiple technical disciplines
+* Current work: relate ongoing work to the arc of research in the theme area
+* Future ideas: envision forward-looking, emerging directions requiring interdisciplinary teams
   **Participation:**
 * Principal Investigators propose themes, organize sessions with the aid of the Cross-Cutting Challenges Chairs, deliver keynote presentations, host interactive discussions, and/or attend
 * Students and Postdocs attend sessions and actively participate!
@@ -62,9 +62,9 @@ A theme is an interdisciplinary challenge calling for united solutions from the 
 
 **Themes:** Two themes will be selected by a committee drawn from both academia and industry. Proposals should thus be written to have a broad reach.  In addition, a non-disciplinary title should be selected.  The text should describe:
 
-* Recent prior work: synthesize developments in the theme area over a period of years, multiple research teams, and multiple technical disciplines 
-* Current work: relate ongoing work to the arc of research in the theme area 
-* Future ideas: envision forward-looking, emerging directions requiring interdisciplinary teams 
+* Recent prior work: synthesize developments in the theme area over a period of years, multiple research teams, and multiple technical disciplines
+* Current work: relate ongoing work to the arc of research in the theme area
+* Future ideas: envision forward-looking, emerging directions requiring interdisciplinary teams
 
 There is no need to form a team. That said, the proposal should provide the names of possible presenters, though it is not certain that these will be the final presenters, and you may not have even spoken to them about presenting.  The idea is to show that people exist who could contribute to the proposed theme.  It is also highly desired that topics span countries and even continents.  
 
