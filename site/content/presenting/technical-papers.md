@@ -65,7 +65,7 @@ All accepted technical papers will appear in this year's Haptics Symposium proce
 
 The contact author of each accepted technical paper will receive final paper submission instructions by email. An additional 100-word abstract will be required.  
 
-Please carefully follow the instructions provided in that email. Author teams who already submitted their final paper via PCS must resubmit following the instructions in the email; no final papers can be accepted via PCS this year.
+Please carefully follow the instructions provided in that email. Author teams who already submitted their final paper via PCS must resubmit following the instructions in the email; no final papers can be accepted via PCS this year.  Instead, these papers will be submitted through [PaperPlaza](http://ras.papercept.net/conferences/scripts/start.pl).
 
 Due date for all items: late January, 2020
 
