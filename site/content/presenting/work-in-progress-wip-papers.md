@@ -40,7 +40,7 @@ Author names and affiliations should be specified on all WIP papers.
 
 ## Submission Method
 
-All WIP papers (including optional video) should be submitted using Precision Conference.  Select the "Haptics Symposium" Society, "Haptics 2020" Conference, and "Haptics 2020 WIP Papers" Track.
+All WIP papers (including optional video) should be submitted using [PaperPlaza](https://ras.papercept.net/conferences/scripts/start.pl).  
 
 ## Publication
 
