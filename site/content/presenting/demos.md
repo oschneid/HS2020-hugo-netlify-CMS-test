@@ -33,7 +33,7 @@ Early February, 2020 – Demo acceptance notification
 
 ## Submission Method
 
-Proposals for hands-on demonstrations will be submitted electronically via our submission system (Papercept) via a link that will be provided here. 
+Proposals for hands-on demonstrations should be submitted using [PaperPlaza](https://ras.papercept.net/conferences/scripts/start.pl).  
 
 Each submission will include the following items:
 
