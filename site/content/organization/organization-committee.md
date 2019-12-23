@@ -100,11 +100,10 @@ Members of the Organizing Committee handle all planning and logistics for the IE
 
 * Caroline Cao, Wright State University
 
-## Student Volunteers Chairs
+## Student Volunteers Chair
 
 <mailto:sv@hapticssymposium.org>
 
-* Fabrizio Sergi, University of Delaware
 * Deborah Egloff, McGill University
 
 ## Videos Chair
