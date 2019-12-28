@@ -59,17 +59,37 @@ Videos will be submitted for publication to IEEE Xplore and may be used to promo
 
 Guidelines: format (mpeg 4, .mp4), length (up to 2 minutes), resolution (at least 480p progressive scan), and file size (up to 40 MB).  Final (but not initial) video submissions will need to include some simple additional files for IEEE Xplore compliance.
 
-## **Final Submission**
+## **Final Submission: Deadline January 22, 2020**
 
 All accepted technical papers will appear in this year's Haptics Symposium proceedings, which will be distributed at the conference and submitted to IEEE Xplore.
 
-The contact author of each accepted technical paper will receive final paper submission instructions by email. An additional 100-word abstract will be required.  
+We will be using the Conference Paper Management System of the Robotics and Automation Society (PaperPlaza) for the creation of the electronic conference program and the archival IEEE proceedings.  As such, authors will work within the established infrastructure of the PaperPlaza system.  To minimize confusion, we have provided details below on how to submit your accepted conference technical paper content to PaperPlaza before the deadline of January 22, 2020.
 
-Please carefully follow the instructions provided in that email. Author teams who already submitted their final paper via PCS must resubmit following the instructions in the email; no final papers can be accepted via PCS this year.  Instead, these papers will be submitted through [PaperPlaza](http://ras.papercept.net/conferences/scripts/start.pl).
+**Step 1)**  The submitting author must submit an “initial” conference technical paper to the “Contributed Papers” track.  
 
-Due date for all items: late January, 2020
+* The submitting author will need the title and author list, along with the PaperPlaza PIN numbers of all authors.  
+* At this time an abstract limited to 750 characters (~100 words) will be required for use in the conference program.  The final abstract within the pdf manuscript file is allowed to exceed 750 characters. 
+* A PDF manuscript will not be required at this stage, although authors may wish to upload their original manuscript as a placeholder.  The pdf file size is limited to 6MB.
 
-Respond to the email you received or contact the publication chair (Veronica Santos) at publications@hapticssymposium.org with questions about final submission of technical papers.
+**Step 2)**  The corresponding author will receive a confirmation email that acknowledges receipt of the initial submission.
+
+**Step 3)**  The corresponding author will receive a confirmation email that acknowledges acceptance of the technical paper for oral presentation.
+
+**Step 4)**  The submitting author must submit the final camera-ready conference technical paper content **before January 22, 2020**.
+
+* The title and author list should be finalized.  
+* The abstract (limited to 750 characters or ~100 words) should be finalized.  The final abstract within the pdf manuscript file is allowed to exceed 750 characters. 
+* Author affiliations, required ethical statements for experiments with human subjects, and funding acknowledgements should be checked.
+* The final camera-ready pdf manuscript file of up to 6MB must be uploaded.  Authors are requested to revise their manuscripts according to reviewer guidance.
+* One optional, final camera-ready video file of up to 40MB may also be uploaded in one of the following formats: mpeg, mpg, avi, mp4, wmv.  
+* IEEE requires a plain text Readme file of up to 10KB for multimedia content. The Readme file must contain (1) An overall description of the video file, (2) Multimedia player information, and (3) Author contact information.
+* IEEE requires a plain text Summary file of up to 10KB for multimedia content.  The Summary file must describe in 5 sentences or less the contents of the video. This file helps IEEE Xplore users to make downloading decisions.
+
+**Step 5)**  The corresponding author will receive a confirmation email that acknowledges receipt of the final submission.  If there are any issues, PaperPlaza staff will contact the corresponding author.
+
+Specific questions regarding PaperPlaza should be sent to ras.101@papercept.net.  General questions about the final submission of conference technical papers should be sent to the Publications Chair at publications@hapticssymposium.org.  Urgent general questions should be sent to the Program Chair at  program@hapticssymposium.org or the General Co-chairs at chairs@hapticssymposium.org.
+
+
 
 ## **Presentation Instructions**
 
