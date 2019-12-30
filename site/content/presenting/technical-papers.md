@@ -63,9 +63,9 @@ Guidelines: format (mpeg 4, .mp4), length (up to 2 minutes), resolution (at leas
 
 All accepted technical papers will appear in this year's Haptics Symposium proceedings, which will be distributed at the conference and submitted to IEEE Xplore.
 
-We will be using the Conference Paper Management System of the Robotics and Automation Society (PaperPlaza) for the creation of the electronic conference program and the archival IEEE proceedings.  As such, authors will work within the established infrastructure of the PaperPlaza system.  To minimize confusion, we have provided details below on how to submit your accepted conference technical paper content to PaperPlaza.
+We will be using the Conference Paper Management System of the Robotics and Automation Society (PaperPlaza) for the creation of the electronic conference program and the archival IEEE proceedings.  As such, authors will work within the established infrastructure of the PaperPlaza system.  PaperPlaza can be accessed at [ras.papercept.net](ras.papercept.net).  To minimize confusion, we have provided details below on how to submit your accepted conference technical paper content to PaperPlaza.
 
-**Step 1)**  _**Before January 15**_ – The submitting author must submit an “initial” conference technical paper placeholder to the “Contributed Papers” track.  
+**Step 1)**  **_Before January 15_** – The submitting author must submit an “initial” conference technical paper placeholder to the “Contributed Papers” track.  
 
 * The submitting author will need the title, author list, PaperPlaza PIN numbers of _all_ authors, and keywords.  
 * At this time an abstract is not required, but authors may wish to upload an abstract since it will be required before final submission. The abstract must be limited to 750 characters (~100 words) and will be required for use in the conference program.  The final abstract within the pdf manuscript file is allowed to exceed 750 characters. 
@@ -75,12 +75,12 @@ We will be using the Conference Paper Management System of the Robotics and Auto
 
 **Step 3)**  Shortly after the January 15 deadline for initial submission, the corresponding author will receive a confirmation email that acknowledges acceptance of the technical paper for oral presentation. At this time, PaperPlaza will be open for the submission of final camera-ready conference technical papers via what is labelled as the “Contributed Papers” track in PaperPlaza.
 
-**Step 4)**  _**Before January 22**_ _–_ The corresponding author must submit the final camera-ready conference technical paper content to the "Contributed Papers" track.
+**Step 4)**  **_Before January 22_** _–_ The corresponding author must submit the final camera-ready conference technical paper content to the "Contributed Papers" track.
 
 * The title, author list, and keywords should be correct and final.  
 * The abstract for use in the conference program (limited to 750 characters or ~100 words) should be finalized.  Note that the final abstract within the paper itself (pdf manuscript file) is allowed to exceed 750 characters. 
 * Author affiliations, required ethical statements for experiments with human subjects, and funding acknowledgements should be checked.
-* The final camera-ready pdf manuscript file of up to 10 MB must be uploaded.  Authors are requested to revise their manuscripts according to reviewer guidance.
+* The final camera-ready pdf manuscript file of up to 10 MB must be uploaded.  Authors are requested to revise their manuscripts according to reviewer guidance. 
 * Authors may optionally upload a final camera-ready video file of up to 40 MB in one of the following formats: mpeg, mpg, avi, mp4, wmv.  
   * IEEE requires a plain text Readme file of up to 10 kB for any accompanying multimedia content, such as video. The Readme file must contain (1) An overall description of the video file, (2) Multimedia player information, and (3) Author contact information.
   * IEEE requires a plain text Summary file of up to 10 kB for multimedia content.  The Summary file must describe in 5 sentences or less the contents of the video. This file helps IEEE Xplore users to make downloading decisions.
