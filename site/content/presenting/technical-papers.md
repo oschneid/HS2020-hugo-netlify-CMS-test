@@ -63,9 +63,9 @@ Guidelines: format (mpeg 4, .mp4), length (up to 2 minutes), resolution (at leas
 
 All accepted technical papers will appear in this year's Haptics Symposium proceedings, which will be distributed at the conference and submitted to IEEE Xplore.
 
-We will be using the Conference Paper Management System of the Robotics and Automation Society (PaperPlaza) for the creation of the electronic conference program and the archival IEEE proceedings.  As such, authors will work within the established infrastructure of the [PaperPlaza system](ras.papercept.net).  To minimize confusion, we have provided details below on how to submit your accepted conference technical paper content to PaperPlaza.
+We will be using the Conference Paper Management System of the Robotics and Automation Society (PaperPlaza) for the creation of the electronic conference program and the archival IEEE proceedings.  As such, authors will work within the established infrastructure of the [PaperPlaza system](https://ras.papercept.net).  To minimize confusion, we have provided details below on how to submit your accepted conference technical paper content to PaperPlaza.
 
-**Step 1)**  **_Before January 15_** – The submitting author must submit an “initial” conference technical paper placeholder to the “Contributed Papers” track.  
+**Step 1)**  _**Before January 15**_ – The submitting author must submit an “initial” conference technical paper placeholder to the “Contributed Papers” track.  
 
 * The submitting author will need the title, author list, PaperPlaza PIN numbers of _all_ authors, and keywords.  
 * At this time an abstract is not required, but authors may wish to upload an abstract since it will be required before final submission. The abstract must be limited to 750 characters (~100 words) and will be required for use in the conference program.  The final abstract within the pdf manuscript file is allowed to exceed 750 characters. 
@@ -75,7 +75,7 @@ We will be using the Conference Paper Management System of the Robotics and Auto
 
 **Step 3)**  Shortly after the January 15 deadline for initial submission, the corresponding author will receive a confirmation email that acknowledges acceptance of the technical paper for oral presentation. At this time, PaperPlaza will be open for the submission of final camera-ready conference technical papers via what is labelled as the “Contributed Papers” track in PaperPlaza.
 
-**Step 4)**  **_Before January 22_** _–_ The corresponding author must submit the final camera-ready conference technical paper content to the "Contributed Papers" track.
+**Step 4)**  _**Before January 22**_ _–_ The corresponding author must submit the final camera-ready conference technical paper content to the "Contributed Papers" track.
 
 * The title, author list, and keywords should be correct and final.  
 * The abstract for use in the conference program (limited to 750 characters or ~100 words) should be finalized.  Note that the final abstract within the paper itself (pdf manuscript file) is allowed to exceed 750 characters. 
