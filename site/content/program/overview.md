@@ -11,7 +11,7 @@ weight: 1
     .ritz .waffle a {
         color: inherit;
     }
-    
+
     .ritz .waffle .s36 {
         border-left: none;
         border-bottom: 1px SOLID transparent;
@@ -25,7 +25,7 @@ weight: 1
         direction: ltr;
         padding: 0px 3px 0px 3px;
     }
-    
+
     .ritz .waffle .s37 {
         border-bottom: 1px SOLID transparent;
         background-color: #d9d2e9;
@@ -39,7 +39,7 @@ weight: 1
         direction: ltr;
         padding: 0px 3px 0px 3px;
     }
-    
+
     .ritz .waffle .s40 {
         border-bottom: 1px SOLID transparent;
         border-right: 1px SOLID transparent;
@@ -53,7 +53,7 @@ weight: 1
         direction: ltr;
         padding: 0px 3px 0px 3px;
     }
-    
+
     .ritz .waffle .s45 {
         border-right: none;
         border-bottom: 1px SOLID transparent;
@@ -67,7 +67,7 @@ weight: 1
         direction: ltr;
         padding: 0px 3px 0px 3px;
     }
-    
+
     .ritz .waffle .s28 {
         border-left: none;
         border-right: none;
@@ -82,7 +82,7 @@ weight: 1
         direction: ltr;
         padding: 0px 3px 0px 3px;
     }
-    
+
     .ritz .waffle .s20 {
         border-right: none;
         border-bottom: 1px SOLID transparent;
@@ -97,7 +97,7 @@ weight: 1
         direction: ltr;
         padding: 0px 3px 0px 3px;
     }
-    
+
     .ritz .waffle .s23 {
         border-left: none;
         border-bottom: 1px SOLID transparent;
@@ -111,7 +111,7 @@ weight: 1
         direction: ltr;
         padding: 0px 3px 0px 3px;
     }
-    
+
     .ritz .waffle .s21 {
         border-left: none;
         border-right: none;
@@ -126,7 +126,7 @@ weight: 1
         direction: ltr;
         padding: 0px 3px 0px 3px;
     }
-    
+
     .ritz .waffle .s25 {
         border-bottom: 1px SOLID transparent;
         border-right: 1px SOLID transparent;
@@ -141,7 +141,7 @@ weight: 1
         direction: ltr;
         padding: 0px 3px 0px 3px;
     }
-    
+
     .ritz .waffle .s19 {
         border-bottom: 1px SOLID transparent;
         border-right: 1px SOLID transparent;
@@ -155,7 +155,7 @@ weight: 1
         direction: ltr;
         padding: 0px 3px 0px 3px;
     }
-    
+
     .ritz .waffle .s2 {
         background-color: #ffffff;
         text-align: right;
@@ -168,7 +168,7 @@ weight: 1
         direction: ltr;
         padding: 0px 3px 0px 3px;
     }
-    
+
     .ritz .waffle .s30 {
         border-bottom: 1px SOLID transparent;
         border-right: 1px SOLID transparent;
@@ -183,7 +183,7 @@ weight: 1
         direction: ltr;
         padding: 0px 3px 0px 3px;
     }
-    
+
     .ritz .waffle .s12 {
         border-right: none;
         border-bottom: 1px SOLID transparent;
@@ -198,7 +198,7 @@ weight: 1
         direction: ltr;
         padding: 0px 3px 0px 3px;
     }
-    
+
     .ritz .waffle .s41 {
         border-right: none;
         border-bottom: 1px SOLID transparent;
@@ -212,7 +212,7 @@ weight: 1
         direction: ltr;
         padding: 0px 3px 0px 3px;
     }
-    
+
     .ritz .waffle .s14 {
         border-left: none;
         border-bottom: 1px SOLID transparent;
@@ -226,7 +226,7 @@ weight: 1
         direction: ltr;
         padding: 0px 3px 0px 3px;
     }
-    
+
     .ritz .waffle .s8 {
         border-right: 1px SOLID transparent;
         background-color: #ffffff;
@@ -239,7 +239,7 @@ weight: 1
         direction: ltr;
         padding: 0px 3px 0px 3px;
     }
-    
+
     .ritz .waffle .s9 {
         border-right: none;
         border-bottom: 1px SOLID transparent;
@@ -253,7 +253,7 @@ weight: 1
         direction: ltr;
         padding: 0px 3px 0px 3px;
     }
-    
+
     .ritz .waffle .s17 {
         border-left: none;
         border-bottom: 1px SOLID transparent;
@@ -267,7 +267,7 @@ weight: 1
         direction: ltr;
         padding: 0px 3px 0px 3px;
     }
-    
+
     .ritz .waffle .s7 {
         border-bottom: 1px SOLID transparent;
         border-right: 1px SOLID transparent;
@@ -281,7 +281,7 @@ weight: 1
         direction: ltr;
         padding: 0px 3px 0px 3px;
     }
-    
+
     .ritz .waffle .s15 {
         border-bottom: 1px SOLID transparent;
         border-right: 1px SOLID transparent;
@@ -295,7 +295,7 @@ weight: 1
         direction: ltr;
         padding: 0px 3px 0px 3px;
     }
-    
+
     .ritz .waffle .s0 {
         background-color: #ffffff;
         text-align: left;
@@ -308,7 +308,7 @@ weight: 1
         direction: ltr;
         padding: 0px 3px 0px 3px;
     }
-    
+
     .ritz .waffle .s34 {
         border-bottom: 1px SOLID transparent;
         background-color: #ffffff;
@@ -321,7 +321,7 @@ weight: 1
         direction: ltr;
         padding: 0px 3px 0px 3px;
     }
-    
+
     .ritz .waffle .s13 {
         border-left: none;
         border-right: none;
@@ -337,7 +337,7 @@ weight: 1
         direction: ltr;
         padding: 0px 3px 0px 3px;
     }
-    
+
     .ritz .waffle .s42 {
         border-left: none;
         border-bottom: 1px SOLID transparent;
@@ -351,7 +351,7 @@ weight: 1
         direction: ltr;
         padding: 0px 3px 0px 3px;
     }
-    
+
     .ritz .waffle .s24 {
         border-bottom: 1px SOLID transparent;
         border-right: 1px SOLID transparent;
@@ -365,7 +365,7 @@ weight: 1
         direction: ltr;
         padding: 0px 3px 0px 3px;
     }
-    
+
     .ritz .waffle .s32 {
         border-right: none;
         border-bottom: 1px SOLID transparent;
@@ -380,7 +380,7 @@ weight: 1
         direction: ltr;
         padding: 0px 3px 0px 3px;
     }
-    
+
     .ritz .waffle .s33 {
         border-left: none;
         border-right: none;
@@ -394,7 +394,7 @@ weight: 1
         direction: ltr;
         padding: 0px 3px 0px 3px;
     }
-    
+
     .ritz .waffle .s4 {
         border-bottom: 1px SOLID transparent;
         background-color: #ffffff;
@@ -408,7 +408,7 @@ weight: 1
         direction: ltr;
         padding: 0px 3px 0px 3px;
     }
-    
+
     .ritz .waffle .s18 {
         border-bottom: 1px SOLID transparent;
         background-color: #cfe2f3;
@@ -421,7 +421,7 @@ weight: 1
         direction: ltr;
         padding: 0px 3px 0px 3px;
     }
-    
+
     .ritz .waffle .s31 {
         border-bottom: 1px SOLID transparent;
         border-right: 1px SOLID transparent;
@@ -435,7 +435,7 @@ weight: 1
         direction: ltr;
         padding: 0px 3px 0px 3px;
     }
-    
+
     .ritz .waffle .s27 {
         border-bottom: 1px SOLID transparent;
         border-right: 1px SOLID transparent;
@@ -449,7 +449,7 @@ weight: 1
         direction: ltr;
         padding: 0px 3px 0px 3px;
     }
-    
+
     .ritz .waffle .s29 {
         border-left: none;
         border-bottom: 1px SOLID transparent;
@@ -464,7 +464,7 @@ weight: 1
         direction: ltr;
         padding: 0px 3px 0px 3px;
     }
-    
+
     .ritz .waffle .s46 {
         background-color: #ffffff;
         text-align: right;
@@ -476,7 +476,7 @@ weight: 1
         direction: ltr;
         padding: 0px 3px 0px 3px;
     }
-    
+
     .ritz .waffle .s35 {
         border-right: none;
         border-bottom: 1px SOLID transparent;
@@ -490,7 +490,7 @@ weight: 1
         direction: ltr;
         padding: 0px 3px 0px 3px;
     }
-    
+
     .ritz .waffle .s38 {
         border-bottom: 1px SOLID transparent;
         border-right: 1px SOLID transparent;
@@ -504,7 +504,7 @@ weight: 1
         direction: ltr;
         padding: 0px 3px 0px 3px;
     }
-    
+
     .ritz .waffle .s39 {
         border-bottom: 1px SOLID transparent;
         border-right: 1px SOLID transparent;
@@ -519,7 +519,7 @@ weight: 1
         direction: ltr;
         padding: 0px 3px 0px 3px;
     }
-    
+
     .ritz .waffle .s43 {
         border-right: none;
         border-bottom: 1px SOLID transparent;
@@ -533,7 +533,7 @@ weight: 1
         direction: ltr;
         padding: 0px 3px 0px 3px;
     }
-    
+
     .ritz .waffle .s44 {
         border-bottom: 1px SOLID transparent;
         background-color: #fff2cc;
@@ -547,7 +547,7 @@ weight: 1
         direction: ltr;
         padding: 0px 3px 0px 3px;
     }
-    
+
     .ritz .waffle .s5 {
         border-bottom: 1px SOLID transparent;
         background-color: #ffffff;
@@ -561,7 +561,7 @@ weight: 1
         direction: ltr;
         padding: 0px 3px 0px 3px;
     }
-    
+
     .ritz .waffle .s26 {
         border-bottom: 1px SOLID transparent;
         background-color: #d9d9d9;
@@ -574,7 +574,7 @@ weight: 1
         direction: ltr;
         padding: 0px 3px 0px 3px;
     }
-    
+
     .ritz .waffle .s1 {
         background-color: #ffffff;
         text-align: left;
@@ -586,7 +586,7 @@ weight: 1
         direction: ltr;
         padding: 0px 3px 0px 3px;
     }
-    
+
     .ritz .waffle .s3 {
         background-color: #ffffff;
         text-align: left;
@@ -599,7 +599,7 @@ weight: 1
         direction: ltr;
         padding: 0px 3px 0px 3px;
     }
-    
+
     .ritz .waffle .s10 {
         border-left: none;
         border-bottom: 1px SOLID transparent;
@@ -613,7 +613,7 @@ weight: 1
         direction: ltr;
         padding: 0px 3px 0px 3px;
     }
-    
+
     .ritz .waffle .s6 {
         border-right: 1px SOLID transparent;
         background-color: #ffffff;
@@ -626,7 +626,7 @@ weight: 1
         direction: ltr;
         padding: 0px 3px 0px 3px;
     }
-    
+
     .ritz .waffle .s11 {
         border-left: none;
         background-color: #ffffff;
@@ -639,7 +639,7 @@ weight: 1
         direction: ltr;
         padding: 0px 3px 0px 3px;
     }
-    
+
     .ritz .waffle .s22 {
         border-right: none;
         border-bottom: 1px SOLID transparent;
@@ -653,7 +653,7 @@ weight: 1
         direction: ltr;
         padding: 0px 3px 0px 3px;
     }
-    
+
     .ritz .waffle .s16 {
         border-right: none;
         border-bottom: 1px SOLID transparent;
@@ -1294,7 +1294,9 @@ weight: 1
                 <td class="s24"></td>
                 <td class="s24"></td>
                 <td class="s8"></td>
-                <td class="s15"></td>
+                <td class="s15">
+                  <div class="softmerge-inner" style="width: 320px; left: -100px;">Journal papers from 2019.  (Not 2020 papers.)</div>
+                </td>
                 <td class="s15"></td>
                 <td class="s8"></td>
                 <td class="s19"></td>
