@@ -43,4 +43,20 @@ The Conference Editorial Board ([editors@hapticssymposium.org](editors@hapticssy
 * Johan Wessberg, _University of Gothenburg_
 * Michaël Wiertlewski, _TU Delft_
 
+## WIP Editorial Board
+
+* Marco Aggravi, _IRISA_
+* Matteo Bianchi, _University of Pisa_
+* Benoit Delhaye, _University of Chicago_
+* Thomas Howard, _IRISA_
+* Irene Kuling, _l'Université Catholique de Louvain_ 
+* Troy McDaniel, _Arizona State University_
+* Sarah McIntyre, _Linkoping University_
+* Hikaru Nagano, _Tohoku University_
+* Melisa Orta Martinez, _Stanford University_
+* Gunhyuk Park, _Gwangju Institute of Science and Technology_
+* Jussi Rantala, _University of Tampere_
+* Hasti Seifi, _Max Planck Institute for Intelligent Systems_
+* Femke van Beek, _California State University, Los Angeles_
+
 ![A leading haptics expert is presenting their latest research](/img/slide-image-5-crop.jpg "A leading haptics expert is presenting their latest research")
