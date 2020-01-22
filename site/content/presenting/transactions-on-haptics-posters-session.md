@@ -11,11 +11,11 @@ Authors of articles recently published in the IEEE Transactions on Haptics are i
 
 ## Important Dates
 
-ToH poster submission deadline:       January 29, 2020
+ToH poster submission deadline:       **January 29, 2020**
 
-ToH poster acceptance notification:      January 31, 2020
+ToH poster acceptance notification:      **January 31, 2020**
 
-# Participation Criteria
+## Participation Criteria
 
 The invitation is open for all articles that have been published in the IEEE Transactions on Haptics in 2019 (Volume 12, issues 1-4), plus all ToH articles that are available on IEEE Xplore via Early Access before the application deadline.
 
@@ -25,7 +25,7 @@ At least one of the article’s authors must register for the conference.
 
 ## Submission Instructions
 
-To participate, one author should send an email with the full citation of their Transactions on Haptics article to the ToH Posters Chair (Ilana Nisky) at [tohp [at] hapticssymposium.org](tohp@hapticssymposium.org)  by **11:59 p.m. (PST) on January 29, 2020**.
+To participate, one author should send an email with the full citation of their Transactions on Haptics article to the ToH Posters Chair (Ilana Nisky) at [tohp [at] hapticssymposium.org](mailto:tohp@hapticssymposium.org)  by **11:59 p.m. (PST) on January 29, 2020**.
 
 In the unlikely event that there is insufficient space, articles published in 2019 will be given priority over Early Access articles, since Early Access articles may be eligible to participate in similar events at future haptics conferences.
 
@@ -40,5 +40,5 @@ More specific instructions will be posted closer to the event.
 
 ## Contact
 
-Any questions and suggestions about this presentation opportunity can be addressed to the ToH Posters Chair (Ilana Nisky) at [tohp [at] hapticssymposium.org](tohp@hapticssymposium.org).
+Any questions and suggestions about this presentation opportunity can be addressed to the ToH Posters Chair (Ilana Nisky) at [tohp [at] hapticssymposium.org](mailto:tohp@hapticssymposium.org).
 
