@@ -1034,7 +1034,7 @@ weight: 1
                 <td class="s8"></td>
                 <td class="s26" colspan="2">Lunch (on your own)</td>
                 <td class="s8"></td>
-                <td class="s26" colspan="2">Lunch (on your own)</td>
+                <td class="s30" colspan="2">Awards</td>
                 <td class="s1">12:30 PM</td>
             </tr>
             <tr style='height:20px;'>
@@ -1048,8 +1048,8 @@ weight: 1
                 <td class="s27"></td>
                 <td class="s27"></td>
                 <td class="s8"></td>
-                <td class="s27"></td>
-                <td class="s27"></td>
+                <td class="s30">Closing Ceremony</td>
+                <td class="s32"></td>
                 <td class="s1"></td>
             </tr>
             <tr style='height:20px;'>
@@ -1061,8 +1061,8 @@ weight: 1
                 <td class="s8"></td>
                 <td class="s26" colspan="2"></td>
                 <td class="s8"></td>
-                <td class="s27"></td>
-                <td class="s27"></td>
+                <td class="s32"></td>
+                <td class="s32"></td>
                 <td class="s1"></td>
             </tr>
             <tr style='height:20px;'>
@@ -1074,23 +1074,8 @@ weight: 1
                 <td class="s8"></td>
                 <td class="s26" colspan="2"></td>
                 <td class="s8"></td>
-                <td class="s27"></td>
-                <td class="s27"></td>
-                <td class="s1"></td>
-            </tr>
-            <tr style='height:20px;'>
-                <td class="s8"></td>
-                <td class="s27"></td>
-                <td class="s27"></td>
-                <td class="s8"></td>
-                <td class="s27"></td>
-                <td class="s27"></td>
-                <td class="s8"></td>
-                <td class="s27"></td>
-                <td class="s27"></td>
-                <td class="s8"></td>
-                <td class="s27"></td>
-                <td class="s27"></td>
+                <td class="s32"></td>
+                <td class="s32"></td>
                 <td class="s1"></td>
             </tr>
             <tr style='height:20px;'>
@@ -1104,8 +1089,23 @@ weight: 1
                 <td class="s27"></td>
                 <td class="s27"></td>
                 <td class="s8"></td>
+                <td class="s3">Conference End</td>
+                <td class="s8"></td>
+                <td class="s1">1:30 PM</td>
+            </tr>
+            <tr style='height:20px;'>
+                <td class="s8"></td>
                 <td class="s27"></td>
                 <td class="s27"></td>
+                <td class="s8"></td>
+                <td class="s27"></td>
+                <td class="s27"></td>
+                <td class="s8"></td>
+                <td class="s27"></td>
+                <td class="s27"></td>
+                <td class="s8"></td>
+                <td class="s8"></td>
+                <td class="s8"></td>
                 <td class="s1"></td>
             </tr>
             <tr style='height:20px;'>
@@ -1122,10 +1122,9 @@ weight: 1
                 </td>
                 <td class="s14"></td>
                 <td class="s11"></td>
-                <td class="s12 softmerge" dir="ltr">
-                    <div class="softmerge-inner" style="width: 165px; left: -1px;">Oral Session 7</div>
+                <td class="s8">
                 </td>
-                <td class="s14"></td>
+                <td class="s8"></td>
                 <td class="s11">2:00 PM</td>
             </tr>
             <tr style='height:20px;'>
@@ -1139,8 +1138,8 @@ weight: 1
                 <td class="s15"></td>
                 <td class="s15"></td>
                 <td class="s8"></td>
-                <td class="s15"></td>
-                <td class="s15"></td>
+                <td class="s8"></td>
+                <td class="s8"></td>
                 <td class="s1"></td>
             </tr>
             <tr style='height:20px;'>
@@ -1156,8 +1155,8 @@ weight: 1
                 <td class="s15"></td>
                 <td class="s15"></td>
                 <td class="s8"></td>
-                <td class="s15"></td>
-                <td class="s15"></td>
+                <td class="s8"></td>
+                <td class="s8"></td>
                 <td class="s1"></td>
             </tr>
             <tr style='height:20px;'>
@@ -1171,8 +1170,8 @@ weight: 1
                 <td class="s15"></td>
                 <td class="s15"></td>
                 <td class="s8"></td>
-                <td class="s15"></td>
-                <td class="s15"></td>
+                <td class="s8"></td>
+                <td class="s8"></td>
                 <td class="s1"></td>
             </tr>
             <tr style='height:20px;'>
@@ -1188,8 +1187,8 @@ weight: 1
                 </td>
                 <td class="s17"></td>
                 <td class="s11"></td>
-                <td class="s7">Coffee Break</td>
-                <td class="s7"></td>
+                <td class="s8"></td>
+                <td class="s8"></td>
                 <td class="s1">3:00 PM</td>
             </tr>
             <tr style='height:20px;'>
@@ -1203,7 +1202,7 @@ weight: 1
                 <td class="s19"></td>
                 <td class="s19"></td>
                 <td class="s8"></td>
-                <td class="s18" colspan="2"></td>
+                <td class="s8" colspan="2"></td>
                 <td class="s1"></td>
             </tr>
             <tr style='height:20px;'>
@@ -1217,9 +1216,9 @@ weight: 1
                 <td class="s19"></td>
                 <td class="s19"></td>
                 <td class="s8"></td>
-                <td class="s30" dir="ltr">Awards </td>
-                <td class="s31"></td>
-                <td class="s1">3:30 PM</td>
+                <td class="s8" dir="ltr"></td>
+                <td class="s8"></td>
+                <td class="s1"></td>
             </tr>
             <tr style='height:20px;'>
                 <td class="s8"></td>
@@ -1232,10 +1231,9 @@ weight: 1
                 <td class="s19"></td>
                 <td class="s19"></td>
                 <td class="s1"></td>
-                <td class="s32 softmerge" dir="ltr">
-                    <div class="softmerge-inner" style="width: 165px; left: -1px;">Closing Ceremony</div>
+                <td class="s8">
                 </td>
-                <td class="s10"></td>
+                <td class="s8"></td>
                 <td class="s11"></td>
             </tr>
             <tr style='height:20px;'>
@@ -1249,8 +1247,8 @@ weight: 1
                 <td class="s19"></td>
                 <td class="s19"></td>
                 <td class="s8"></td>
-                <td class="s31"></td>
-                <td class="s31"></td>
+                <td class="s8"></td>
+                <td class="s8"></td>
                 <td class="s1"></td>
             </tr>
             <tr style='height:20px;'>
@@ -1266,8 +1264,8 @@ weight: 1
                 <td class="s19"></td>
                 <td class="s19"></td>
                 <td class="s8"></td>
-                <td class="s31"></td>
-                <td class="s31"></td>
+                <td class="s8"></td>
+                <td class="s8"></td>
                 <td class="s1" dir="ltr">4:00 PM</td>
             </tr>
             <tr style='height:20px;'>
@@ -1345,7 +1343,7 @@ weight: 1
                 <td class="s35 softmerge" dir="ltr">
                     <div class="softmerge-inner" style="width: 168px; left: -1px;">Transit to Banquet</div>
                 </td>
-                <td class="s36"></td>
+                <td class="s35"></td>
                 <td class="s11" dir="ltr" colspan="2">5:30 PM</td>
                 <td class="s1"></td>
                 <td class="s1" dir="ltr"></td>
