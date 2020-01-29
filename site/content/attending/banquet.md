@@ -2,7 +2,7 @@
 title: Banquet
 description: Check out the banquet location for the 2020 IEEE Haptics Symposium!
 image: ''
-weight: 1
+weight: 3
 ---
 The 2020 IEEE Haptics Symposium banquet and dinner cruise will take place on the Potomac aboard the glass enclosed Odyssey DC.  This cruise drifts past landmarks of Washington D.C. such as the Jefferson Memorial, Georgetown waterfront, Old Town Alexandria, and National Harbor.
 
