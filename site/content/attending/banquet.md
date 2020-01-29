@@ -9,6 +9,6 @@ The banquet will take place in the evening on Monday, March 30th from 7 to 10 p.
 
 Please remember to bring your banquet ticket, which is in your registration envelope.
 
-The banquet will begin with cocktails, followed by a full dinner.
+The banquet will begin with cocktails, followed by a full dinner.  
 
 Further information on the cruise can be found [here](https://www.odysseycruises.com/washington-dc/cruises/dinner-cruises).
