@@ -40,7 +40,6 @@ Each submission will include the following items:
 * A title that succinctly describes the demonstration.
 * An ordered list of authors (including first and last names), with an indication of who is the corresponding author.
 * A 1 page PDF describing the hands on demonstration. This should use the [ieeeconf format](http://ras.papercept.net/conferences/support/support.php).
-* A shortened 100 word abstract (separate from PDF above) to be included as an additional part of the conference proceedings.
 * Any special considerations that the conference organizers should be aware of. For example, extra space requirements in the demo area. 
 * A video (required), see guidelines below.
 
