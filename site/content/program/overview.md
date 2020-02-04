@@ -1,7 +1,7 @@
 ---
 title: Program Overview
 ---
-<h3>Program Overview</h3>
+
 <h4>Saturday, March 28</h4>
 
 <table cellpadding="0" cellspacing="0" style="border-collapse:separate; border-spacing:2px; width:100%"><tbody><tr><td style="background-color:rgb(239, 108, 0); text-align:center; vertical-align:middle"><span style="color:rgb(255, 255, 255)">Time</span></td>
@@ -36,7 +36,7 @@ title: Program Overview
 	<h4>Sunday, March 29</h4>
 <table cellpadding="0" cellspacing="0" style="border-collapse:separate; border-spacing:2px; width:100%"><tbody><tr><td style="background-color:rgb(239, 108, 0); text-align:center; vertical-align:middle"><span style="color:rgb(255, 255, 255)">Time</span></td>
 <td colspan="2" rowspan="1" style="background-color:rgb(239, 108, 0); text-align:center; vertical-align:middle"><span style="color:rgb(255, 255, 255)">Schedule</span></td>
-</tr><tr><td style="height:32px; text-align:center; vertical-align:middle; white-space:nowrap; width:20%">7:30 - 8:45 a.m.</td>
+</tr><tr><td style="height:32px; text-align:center; vertical-align:middle; white-space:nowrap; width:20%">8:00 - 8:45 a.m.</td>
 <td colspan="2" rowspan="1" style="background-color:rgb(223, 236, 254); height:32px; text-align:center; vertical-align:middle"><span class="my-blacknormal">Registration</span><br><span class="my-italic">Front Desk and Skyview</span><br><span class="my-italic">Coffee will be served from 8:00 - 8:45 a.m.</span></td>
 </tr><tr><td style="height:32px; text-align:center; vertical-align:middle; white-space:nowrap; width:20%">8:45 - 9:00 a.m.</td>
 <td colspan="2" style="background-color:rgb(255, 235, 219); height:32px; text-align:center; vertical-align:middle"><span class="my-blacknormal" style="background-color:rgb(255, 235, 219)">Welcome and Introduction to the Technical Program</span><br><span class="my-italic" style="background-color:rgb(255, 235, 219)">Grand Ballroom</span></td>
