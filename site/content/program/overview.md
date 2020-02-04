@@ -1,12 +1,11 @@
 ---
 title: Program Overview
 ---
-	
 <h3>Program Overview</h3>
 
 <h4>Saturday, March 28</h4>
 
-<table cellpadding="0" cellspacing="0" style="border-collapse:separate; border-spacing:2px; width:105%"><tbody><tr><td style="background-color:rgb(239, 108, 0); text-align:center; vertical-align:middle"><span style="color:rgb(255, 255, 255)">Time</span></td>
+<table cellpadding="0" cellspacing="0" style="border-collapse:separate; border-spacing:2px; width:100%"><tbody><tr><td style="background-color:rgb(239, 108, 0); text-align:center; vertical-align:middle"><span style="color:rgb(255, 255, 255)">Time</span></td>
 <td colspan="2" rowspan="1" style="background-color:rgb(239, 108, 0); text-align:center; vertical-align:middle"><span style="color:rgb(255, 255, 255)">Schedule</span></td>
 </tr><tr>
   <td style="height:32px; text-align:center; vertical-align:middle; white-space:nowrap; width:20%">8:00 - 8:45 a.m.</td>
@@ -47,15 +46,15 @@ title: Program Overview
 </tr><tr><td style="height:32px; text-align:center; vertical-align:middle; white-space:nowrap; width:20%">10:30 - 11:00 a.m.</td>
 <td colspan="2" rowspan="1" style="background-color:rgb(223, 236, 254); height:32px; text-align:center; vertical-align:middle"><span class="my-blacknormal">Coffee and Snack Break</span><span class="my-italic"><span style="background-color:rgb(223, 236, 254)">&nbsp;</span><a href="https://www.disneyresearch.com" style="text-align: center;" target="_blank">&nbsp;</a></span><br><span class="my-italic">Skyview and Hallway</span></td>
 </tr><tr><td style="height:32px; text-align:center; vertical-align:middle; white-space:nowrap; width:20%">11:00 a.m. - 12:30 p.m.</td>
-<td style="background-color:rgb(255, 235, 219); height:32px; text-align:center; vertical-align:middle">Oral Session 2A<a> </a><br>  <span class="my-italic">Grand Ballroom, Salons C-E</span></td>
-<td style="background-color:rgb(255, 235, 219); height:32px; text-align:center; vertical-align:middle">Oral Session 2B <br>  <span class="my-italic">Grand Ballroom, Salons F-H</span></td>
+<td style="background-color:rgb(255, 235, 219); height:32px; text-align:center; vertical-align:middle">Oral Session 2A<a> </a><br>  <span class="my-italic">Grand Ballroom, Salons JK</span></td>
+<td style="background-color:rgb(255, 235, 219); height:32px; text-align:center; vertical-align:middle">Oral Session 2B <br>  <span class="my-italic">Grand Ballroom, Salons AB</span></td>
 </tr><tr><td style="height:32px; text-align:center; vertical-align:middle; white-space:nowrap; width:20%">12:30 - 2:00 p.m.</td>
 <td colspan="2" rowspan="1" style="height:32px; text-align:center; vertical-align:middle"><span class="my-blacknormal">Lunch Break (on your own)</span></td>
 </tr><tr>
 <td style="height:32px; text-align:center; vertical-align:middle; white-space:nowrap; width:20%">2:00 - 2:30 p.m.</td>
 <td colspan="2" rowspan="1" style="background-color:rgb(255, 235, 219); height:32px; text-align:center; vertical-align:middle"><span class="my-blacknormal" style="background-color:rgb(255, 235, 219)">Work-in-Progress Poster Teasers</span><br><span class="my-italic" style="background-color:rgb(255, 235, 219)">Grand Ballroom</span></td>
 </tr><tr><td style="height:32px; text-align:center; vertical-align:middle; white-space:nowrap; width:20%">2:30 - 4:30 p.m.</td>
-<td colspan="2" rowspan="1" style="background-color:rgb(255, 224, 199); height:32px; text-align:center; vertical-align:middle">Demonstrations Session 1 and Exhibits<br><span class="my-italic" style="background-color:rgb(255, 224, 199)">Grand Ballroom, Salons A-K</span><br><span class="my-italic"></td>
+<td colspan="2" rowspan="1" style="background-color:rgb(255, 224, 199); height:32px; text-align:center; vertical-align:middle">Demonstrations Session 1 and Exhibits<br><span class="my-italic" style="background-color:rgb(255, 224, 199)">Grand Ballroom, Salons C-H</span><br><span class="my-italic"></td>
 </tr><tr><td style="height:32px; text-align:center; vertical-align:middle; white-space:nowrap; width:20%">4:30 - 6:00 p.m.</td>
 <td colspan="2" rowspan="1" style="background-color:rgb(255, 224, 199); height:32px; text-align:center; vertical-align:middle">IEEE Transactions on Haptics Poster Session&nbsp;<br>  <span class="my-italic">Grand Ballroom, Salons C-H</span><span class="my-italic">&nbsp;</span></td>
 </tr><tr><td style="height:32px; text-align:center; vertical-align:middle; white-space:nowrap; width:20%">6:00 - 8:00 p.m.</td>
@@ -73,8 +72,8 @@ title: Program Overview
 </tr><tr><td style="height:32px; text-align:center; vertical-align:middle; white-space:nowrap; width:20%">10:30 - 11:00&nbsp;a.m.</td>
 <td colspan="2" rowspan="1" style="background-color:rgb(223, 236, 254); height:32px; text-align:center; vertical-align:middle"><span class="my-blacknormal">Coffee and Snack Break</span><br><span class="my-italic">Skyview and Hallway</span></td>
 </tr><tr><td style="height:32px; text-align:center; vertical-align:middle; white-space:nowrap; width:20%">11:00&nbsp;a.m. - 12:00&nbsp;p.m.</td>
-<td style="background-color:rgb(255, 235, 219); height:32px; text-align:center; vertical-align:middle">Oral Session 4A<br>  <span class="my-italic">Grand Ballroom, Salons C-E</span></td>
-<td style="background-color:rgb(255, 235, 219); height:32px; text-align:center; vertical-align:middle">Oral Session 4B<br>  <span class="my-italic">Grand Ballroom, Salons F-H</span></td>
+<td style="background-color:rgb(255, 235, 219); height:32px; text-align:center; vertical-align:middle">Oral Session 4A<br>  <span class="my-italic">Grand Ballroom, Salons JK</span></td>
+<td style="background-color:rgb(255, 235, 219); height:32px; text-align:center; vertical-align:middle">Oral Session 4B<br>  <span class="my-italic">Grand Ballroom, Salons AB</span></td>
 </tr><tr><td style="height:32px; text-align:center; vertical-align:middle; white-space:nowrap; width:20%">12:30 - 2:00&nbsp;p.m.</td>
 <td colspan="2" rowspan="1" style="height:32px; text-align:center; vertical-align:middle"><span class="my-blacknormal">Lunch Break (on your own)</span></td>
 </tr><tr><td style="height:32px; text-align:center; vertical-align:middle; white-space:nowrap; width:20%">2:00 - 4:00 p.m.</td>
@@ -95,8 +94,8 @@ title: Program Overview
 </tr><tr><td style="height:32px; text-align:center; vertical-align:middle; white-space:nowrap; width:20%">8:00 - 9:00 a.m.</td>
 <td colspan="2" rowspan="1" style="background-color:rgb(223, 236, 254); height:32px; text-align:center; vertical-align:middle"><span class="my-blacknormal">Registration</span><br><span class="my-italic">Front Desk and Skyview</span><br><span class="my-italic">Breakfast will be served from 8:00 - 8:45 a.m.</span></td>
 </tr><tr><td style="height:32px; text-align:center; vertical-align:middle; white-space:nowrap; width:20%">9:00 - 10:30&nbsp;a.m.</td>
-<td rowspan="1" style="background-color:rgb(255, 235, 219); height:32px; text-align:center; vertical-align:middle">Oral Session 6A<br>  <span class="my-italic">Grand Ballroom, Salons C-E</span></td>
-<td rowspan="1" style="background-color:rgb(255, 235, 219); height:32px; text-align:center; vertical-align:middle">Oral Session 6B<br>  <span class="my-italic" style="background-color:rgb(255, 235, 219)">Grand Ballroom, Salons F-H&nbsp;&nbsp;</span></td>
+<td rowspan="1" style="background-color:rgb(255, 235, 219); height:32px; text-align:center; vertical-align:middle">Oral Session 6A<br>  <span class="my-italic">Grand Ballroom, Salons JK</span></td>
+<td rowspan="1" style="background-color:rgb(255, 235, 219); height:32px; text-align:center; vertical-align:middle">Oral Session 6B<br>  <span class="my-italic" style="background-color:rgb(255, 235, 219)">Grand Ballroom, Salons AB&nbsp;&nbsp;</span></td>
 </tr><tr><td style="height:32px; text-align:center; vertical-align:middle; white-space:nowrap; width:20%">10:30 - 11:00 a.m.</td>
 <td colspan="2" style="background-color:rgb(223, 236, 254); height:32px; text-align:center; vertical-align:middle"><span class="my-blacknormal">Coffee and Snack Break</span><br><span class="my-italic">Skyview</span></td>
 </tr><tr><td style="height:32px; text-align:center; vertical-align:middle; white-space:nowrap; width:20%">11:00 a.m. - 12:15 p.m.</td>
