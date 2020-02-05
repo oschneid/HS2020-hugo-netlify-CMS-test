@@ -1,11 +1,13 @@
 ---
 title: Program Overview
+description: Program Overview for the 2020 IEEE Haptics Symposium!
+weight: 1
 ---
 <h3>Program Overview</h3>
 
 <h4>Saturday, March 28</h4>
 
-<table cellpadding="0" cellspacing="0" style="border-collapse:separate; border-spacing:2px; width:100%"><tbody><tr><td style="background-color:rgb(239, 108, 0); text-align:center; vertical-align:middle"><span style="color:rgb(255, 255, 255)">Time</span></td>
+<table cellpadding="0" cellspacing="0" style="border-collapse:separate; border-spacing:2px; width:105%"><tbody><tr><td style="background-color:rgb(239, 108, 0); text-align:center; vertical-align:middle"><span style="color:rgb(255, 255, 255)">Time</span></td>
 <td colspan="2" rowspan="1" style="background-color:rgb(239, 108, 0); text-align:center; vertical-align:middle"><span style="color:rgb(255, 255, 255)">Schedule</span></td>
 </tr><tr>
   <td style="height:32px; text-align:center; vertical-align:middle; white-space:nowrap; width:20%">8:00 - 8:45 a.m.</td>
@@ -61,8 +63,8 @@ title: Program Overview
 <td colspan="2" style="height:32px; text-align:center; vertical-align:middle"><span class="my-blacknormal">Dinner Break (on your own)</span></td>
 </tr><tr><td style="height:32px; text-align:center; vertical-align:middle; white-space:nowrap; width:20%">8:00 - 9:30 p.m.</td>
 <td colspan="2" style="background-color:rgb(255, 224, 199); height:32px; text-align:center; vertical-align:middle">Work in Progress Poster Session&nbsp;<br><span class="my-italic">Grand Ballroom, Salons C-H<br><span style="background-color:rgb(255, 224, 199)">Drinks will be served</span></span></td>
-</tr></tbody></table><p>&nbsp;</p> 
-		<h4>Monday, March 30</h4> 
+</tr></tbody></table><p>&nbsp;</p>
+		<h4>Monday, March 30</h4>
 <table cellpadding="0" cellspacing="0" style="border-collapse:separate; border-spacing:2px; width:100%"><tbody><tr><td style="background-color:rgb(239, 108, 0); text-align:center; vertical-align:middle"><span style="color:rgb(255, 255, 255)">Time</span></td>
 <td colspan="2" rowspan="1" style="background-color:rgb(239, 108, 0); text-align:center; vertical-align:middle"><span style="color:rgb(255, 255, 255)">Schedule</span></td>
 </tr><tr><td style="height:32px; text-align:center; vertical-align:middle; white-space:nowrap; width:20%">8:00 - 9:00 a.m.</td>
@@ -82,7 +84,7 @@ title: Program Overview
 <td colspan="2" rowspan="1" style="background-color:rgb(255, 235, 219); height:32px; text-align:center; vertical-align:middle">Oral Session 5&nbsp;<br>  <span class="my-italic">Grand Ballroom</span></td>
 </tr><tr><td style="height:32px; text-align:center; vertical-align:middle; white-space:nowrap; width:20%">5:00 - 5:30 p.m.</td>
 <td colspan="2" style="background-color:rgb(255, 255, 255); height:32px; text-align:center; vertical-align:middle"><span class="my-blacknormal">Break (on your own)</span></td>
-</tr><tr><td style="height:32px; text-align:center; vertical-align:middle; white-space:nowrap; width:20%">5:30 - 9:30&nbsp;p.m.</td>
+</tr><tr><td style="height:32px; text-align:center; vertical-align:middle; white-space:nowrap; width:20%">5:30 - 10:00&nbsp;p.m.</td>
   <td colspan="2" rowspan="1" style="background-color:rgb(192, 220, 251); height:32px; text-align:center; vertical-align:middle"><span class="my-blacknormal">Board Buses for Banquet<br>
     </span>Banquet Cruise<a>&nbsp;</a><br>
     <span class="my-italic">Dinner and drinks will be served</span></td>
@@ -103,11 +105,11 @@ title: Program Overview
 </tr><tr><td style="height:32px; text-align:center; vertical-align:middle; white-space:nowrap; width:20%">12:15 &nbsp;- 1:30 p.m.</td>
   <td colspan="2" style="background-color:rgb(255, 224, 199); height:32px; text-align:center; vertical-align:middle">Closing Ceremony<br>
     Grand Ballroom, Salons ABJK<br>
-    <br>
     Awards<br>
     Future Conferences<br>
   <span class="my-italic"><span style="background-color:rgb(255, 224, 199)"> Adjourn until 2022 <br>
-  <br>
-</span></span></td>
+  </span></span></td>
 </tr>
 </tbody></table>
+<br>
+<br>
