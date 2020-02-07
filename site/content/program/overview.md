@@ -26,7 +26,7 @@ title: Program Overview
 </tr><tr><td style="height:32px; text-align:center; vertical-align:middle; white-space:nowrap; width:20%">4:00 - 4:15 p.m</td>
 <td colspan="2" style="background-color:rgb(255, 235, 219); height:32px; text-align:center; vertical-align:middle">Cross-cutting Challenges - Theme 2: Interactive Discussions,&nbsp; Introductions<br>  <span class="my-italic" style="background-color:rgb(255, 235, 219)">Grand Ballroom</span></td>
 </tr><tr><td style="height:32px; text-align:center; vertical-align:middle; white-space:nowrap; width:20%">4:15 - 5:30 p.m.</td>
-<td colspan="2" rowspan="1" style="background-color:rgb(255, 224, 199); height:32px; text-align:center; vertical-align:middle">Cross-cutting Challenges: - Theme 2 Interactive Discussions<br>  <span class="my-italic">Grand Ballroom</span><br><span class="my-italic">Coffee will be served from 4:15 - 4:45 p.m.</span></td>
+<td colspan="2" rowspan="1" style="background-color:rgb(255, 224, 199); height:32px; text-align:center; vertical-align:middle">Cross-cutting Challenges - Theme 2 Interactive Discussions<br>  <span class="my-italic">Grand Ballroom</span><br><span class="my-italic">Coffee will be served from 4:15 - 4:45 p.m.</span></td>
 </tr><tr><td style="height:32px; text-align:center; vertical-align:middle; white-space:nowrap; width:20%">5:30 - 6:00 p.m.</td>
 <td colspan="2" style="background-color:rgb(255, 255, 255); height:32px; text-align:center; vertical-align:middle"><span class="my-blacknormal">Break (on your own)</span></td>
 </tr><tr><td style="height:32px; text-align:center; vertical-align:middle; white-space:nowrap; width:20%">6:00 - 7:30 p.m.</td>
@@ -56,7 +56,7 @@ title: Program Overview
 </tr><tr><td style="height:32px; text-align:center; vertical-align:middle; white-space:nowrap; width:20%">2:30 - 4:30 p.m.</td>
 <td colspan="2" rowspan="1" style="background-color:rgb(255, 224, 199); height:32px; text-align:center; vertical-align:middle">Demonstrations Session 1 and Exhibits<br><span class="my-italic" style="background-color:rgb(255, 224, 199)">Grand Ballroom, Salons C-H</span><br><span class="my-italic"></td>
 </tr><tr><td style="height:32px; text-align:center; vertical-align:middle; white-space:nowrap; width:20%">4:30 - 6:00 p.m.</td>
-<td colspan="2" rowspan="1" style="background-color:rgb(255, 224, 199); height:32px; text-align:center; vertical-align:middle">IEEE Transactions on Haptics Poster Session&nbsp;<br>  <span class="my-italic">Grand Ballroom, Salons ABJK</span><span class="my-italic">&nbsp;</span></td>
+<td colspan="2" rowspan="1" style="background-color:rgb(255, 224, 199); height:32px; text-align:center; vertical-align:middle">IEEE Transactions on Haptics Poster Session&nbsp;<br>  <span class="my-italic">Grand Ballroom, Salons ABJK</span><span class="my-italic">&nbsp;</span><br><span class="my-italic">Coffee will be served from 4:15 - 4:45 p.m.</span></td>
 </tr><tr><td style="height:32px; text-align:center; vertical-align:middle; white-space:nowrap; width:20%">6:00 - 8:00 p.m.</td>
 <td colspan="2" style="height:32px; text-align:center; vertical-align:middle"><span class="my-blacknormal">Dinner Break (on your own)</span></td>
 </tr><tr><td style="height:32px; text-align:center; vertical-align:middle; white-space:nowrap; width:20%">8:00 - 9:30 p.m.</td>
