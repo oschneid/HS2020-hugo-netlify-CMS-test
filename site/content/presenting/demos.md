@@ -73,4 +73,4 @@ Each demonstration will be assigned a space at the conference. The space will in
 
 ## Logistics
 
-Each demo will be allocated a space that includes a 72" by 30" (183 cm by 76 cm) table, two chairs, one six-outlet power strip (120 V, 60 Hz, type B North America plugs), and a 8' by 4' (2.4 m by 1.2 m) board for mounting a poster. Demo presenters are invited to set up their demos on Sunday, March 28 after 7:00 p.m. Demos should be removed by 3:00 p.m. on Wednesday, March 31 (the last day of the conference).
+Each demo will be allocated a space that includes a 72" by 30" (183 cm by 76 cm) table, two chairs, one six-outlet power strip (120 V, 60 Hz, type B North America plugs), and a 8' by 4' (2.4 m by 1.2 m) board for mounting a poster. Demo presenters are invited to set up their demos on Saturday, March 28 after 7:00 p.m. Demos should be removed by 3:00 p.m. on Tuesday, March 31 (the last day of the conference).
