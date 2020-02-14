@@ -17,16 +17,16 @@ New for 2020, a [conference journal papers track](/presenting/transactions-on-ha
 
 #### Upcoming Deadlines
 
-* January 31, 2020: [Early Bird Registration](/attending/registration/)
-* January 31, 2020: [Demonstration Submissions](/presenting/demos/)
-* January 31, 2020: [Work-in-Progress (WIP) Paper Submissions](/presenting/work-in-progress-wip-papers/)
-* February 10, 2020: [Exhibit Applications - Sponsorship Prospectus](/sponsors/)
-* February 21, 2020: [Standard Registration](/attending/registration/)
+* **February 21, 2020: [Standard Registration Deadline](/attending/registration/)**
+* Ongoing: [Exhibit Applications - Sponsorship Prospectus](/sponsors/)
 
 <hr style="height:6px; visibility:hidden;" />
 
 #### Past Deadlines
 
+* ~~January 31, 2020~~: [Early Bird Registration](/attending/registration/)
+* ~~January 31, 2020~~: [Demonstration Submissions](/presenting/demos/)
+* ~~January 31, 2020~~: [Work-in-Progress (WIP) Paper Submissions](/presenting/work-in-progress-wip-papers/)
 * ~~September 6, 2019~~: [Cross cutting challenge theme proposals](/presenting/cross-cutting-challenges/)
 * ~~September 27, 2019~~: [IEEE Transactions on Haptics journal papers track](/presenting/transactions-on-haptics-early-submission)
 * ~~October 25, 2019~~: [Conference technical papers track](/presenting/technical-papers/)
