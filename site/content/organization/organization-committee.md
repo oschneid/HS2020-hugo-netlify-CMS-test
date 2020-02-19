@@ -86,6 +86,7 @@ Members of the Organizing Committee handle all planning and logistics for the IE
 <mailto:publicity@hapticssymposium.org>
 
 * Rebecca Khurshid, Boston University
+* Naomi Fitter, Oregon State University 
 
 ## Cross-Cutting Challenges Chair
 
