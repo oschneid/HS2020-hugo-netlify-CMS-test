@@ -3,16 +3,10 @@ title: Social Events
 description: >-
   Haptics Symposium offers several social events, including the Grad Student
   Social and Early Career Lunch.
-image: /img/img_20190712_125929.jpg
+image: ''
 weight: 4
 ---
 Haptics Symposium offers several social events this year.
-
-
-
-
-
-![](/img/img_20190712_125929.jpg)
 
 ## Grad Student Social
 
@@ -22,6 +16,9 @@ We are looking for graduate students to help lead the activities of this fun eve
 We look forward to seeing you at the 2020 Haptics Symposium!
 
 \--> [RSVP for the Grad Student Social](https://forms.gle/JHd5nAecsjPZGvFV8)
+
+
+![](/img/img_20190712_125929-cropped.jpg)
 
 ## Early-Career Lunch
 
