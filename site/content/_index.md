@@ -17,13 +17,15 @@ New for 2020, a [conference journal papers track](/presenting/transactions-on-ha
 
 #### Upcoming Deadlines
 
-* **February 21, 2020: [Standard Registration Deadline](/attending/registration/)**
-* Ongoing: [Exhibit Applications - Sponsorship Prospectus](/sponsors/)
+* **March 9, 2020**: [Grad Student Social RSVP Deadline](/attending/social-events/)
+* **March 9, 2020**: [Early-Career Lunch RSVP Deadline](/attending/social-events/)
+* **Ongoing**: [Exhibit Applications - Sponsorship Prospectus](/sponsors/)
 
 <hr style="height:6px; visibility:hidden;" />
 
 #### Past Deadlines
 
+* ~~February 21, 2020~~: [Standard Registration Deadline](/attending/registration/)
 * ~~January 31, 2020~~: [Early Bird Registration](/attending/registration/)
 * ~~January 31, 2020~~: [Demonstration Submissions](/presenting/demos/)
 * ~~January 31, 2020~~: [Work-in-Progress (WIP) Paper Submissions](/presenting/work-in-progress-wip-papers/)
