@@ -37,7 +37,7 @@ The Conference Editorial Board ([editors@hapticssymposium.org](editors@hapticssy
 * Hannes Saal, _University of Sheffield_
 * Evren Samur, _Bogazici University_
 * Oliver Schneider, _University of Waterloo_
-* Femke van Beek, _Oculus Research_
+* Femke van Beek, _Facebook Reality Labs_
 * Yasemin Vardar, _Max Plank Institute for Intelligent Systems_
 * Yon	Visell, _University of California, Santa Barbara_
 * Johan Wessberg, _University of Gothenburg_
