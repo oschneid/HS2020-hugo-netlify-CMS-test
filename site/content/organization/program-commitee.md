@@ -57,6 +57,6 @@ The Conference Editorial Board ([editors@hapticssymposium.org](editors@hapticssy
 * Gunhyuk Park, _Gwangju Institute of Science and Technology_
 * Jussi Rantala, _University of Tampere_
 * Hasti Seifi, _Max Planck Institute for Intelligent Systems_
-* Femke van Beek, _California State University, Los Angeles_
+* Femke van Beek, _Facebook Reality Labs_
 
 ![A leading haptics expert is presenting their latest research](/img/slide-image-5-crop.jpg "A leading haptics expert is presenting their latest research")
