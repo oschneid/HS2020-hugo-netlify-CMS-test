@@ -68,15 +68,19 @@ Work-in-Progress papers will be presented through a short oral “teaser” pres
 
 **WIP Teasers**
 
-One author from each Work-in-Progress is invited to give a short presentation to introduce their poster to the audience. Each teaser presentation can last no more than 40 seconds.
+The WIP teasers will be presented on Sunday, March 29, between 2:00 and 2:30 pm in the session titled “Work-in-Progress Poster Teasers”. One author from each Work-in-Progress is invited to give a short presentation to introduce their poster to the audience. Each teaser presentation can last no more than 40 seconds.
 
 The WIP teaser presentation should focus on the main ideas or results of the work. The purpose is to encourage the audience to visit the WIP poster, not to summarize the paper contents.
 
-The presenters are asked to a prepare a single slide for their teaser presentation. The use of visual content, videos, and animations is encouraged. All animations and video playback should be programmed into the slide such that all event timing is automatic. Videos, if used, must be embedded in the slide. The poster location should be displayed in the upper right corner of the slide, and will soon be available in the conference program.
+The presenters are asked to a prepare a single slide for their teaser presentation. The use of visual content, videos, and animations is encouraged. All animations and video playback should be programmed into the slide such that all event timing is automatic. Videos, if used, must be embedded in the slide. We recommend using [this slide template](https://drive.google.com/file/d/1EoGA4D_ClGZ9hQrqp2pnD-YYu4jdWW46/view?usp=sharing), which also contains additional formatting instructions. The poster location should be displayed in the upper right corner of the slide, and will soon be available in the conference program.
+
+The teaser slide must be sent by email to the WIP Chair at wip@hapticssymposium.org no later than March 21, 2020. The file can be attached to the email or included as a link. Please inquire if you do not receive confirmation of receipt within 24 hours.
+
+The presenters should arrive for the WIP teaser session at least ten minutes before it begins. The session chair and student volunteers will help the presenters line up. The order of the WIP teasers will correspond to the location of the posters.
 
 **WIP Posters**
 
-The WIP posters will be presented during a WIP poster session. The posters must fit on a poster board with dimensions of 44” x 44” (111.76 cm x 111.76 cm). The posters can be designed using any size, orientation, or format, as long as they fit within this allocated space. You are encouraged to include the conference logo.
+The WIP posters will be presented during a WIP poster session 8:00 to 9:30 pm on Sunday, March 29. The posters must fit on a poster board with dimensions of 44” x 44” (111.76 cm x 111.76 cm). The posters can be designed using any size, orientation, or format, as long as they fit within this allocated space. You are encouraged to include the conference logo.
 
 Authors are responsible for printing their own poster and bringing it to the conference. Push pins will be provided to install the posters on the poster boards.
 
