@@ -82,6 +82,6 @@ The presenters should arrive for the WIP teaser session at least ten minutes bef
 
 The WIP posters will be presented during a WIP poster session 8:00 to 9:30 pm on Sunday, March 29. The posters must fit on a poster board with dimensions of 44” x 44” (111.76 cm x 111.76 cm). The posters can be designed using any size, orientation, or format, as long as they fit within this allocated space. You are encouraged to include the conference logo.
 
-Authors are responsible for printing their own poster and bringing it to the conference. Push pins will be provided to install the posters on the poster boards.
+Authors are responsible for printing their own poster and bringing it to the conference. Push pins will be provided to install the posters on the poster boards. The posters must be installed during the hour preceding the WIP poster session, between 7:00 and 8:00 pm on Sunday, March 29. The posters must be taken down after the WIP Poster session, between 9:30 and 10:00 pm. A storage space will be available for authors who wish to leave their poster in storage during the day on Sunday, March 29.
 
 Any questions about WIP papers can be addressed to the WIP chair (Heather Culbertson) at <mailto:wip@hapticssymposium.org>.
