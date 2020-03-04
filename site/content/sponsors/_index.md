@@ -18,7 +18,7 @@ Apple, Inc.
 
 ## Silver Sponsors
 
-![Immersion](/img/immersion_h_90k.png "Immersion")
+![Immersion](/img/immersion_h_90k.png "Immersion" =250x)
 
 ## Award Sponsor
 
