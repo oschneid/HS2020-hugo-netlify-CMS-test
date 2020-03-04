@@ -57,7 +57,7 @@ Members of the Organizing Committee handle all planning and logistics for the IE
 
 <mailto:sponsorship@hapticssymposium.org>
 
-* Nick Colonese, Facebook
+* Nick Colonnese, Facebook
 * Hong Tan, Purdue University
 * Tania Morimoto, University of California, San Diego
 
