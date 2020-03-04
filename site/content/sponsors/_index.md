@@ -2,7 +2,7 @@
 title: Sponsorship
 image: /img/bg07.jpg
 ---
-The Haptcs Symposium would like to tsincerely thank the following organizations for their support: 
+The Haptcs Symposium would like to sincerely thank the following organizations for their support: 
 
 ## Technical Sponsors
 
