@@ -6,7 +6,7 @@ The Haptcs Symposium would like to tsincerely thank the following organizations 
 
 ## Technical Sponsors
 
-![IEEE Logo](/img/ieee_logo.png "IEEE") ![IEEE Robotics and Automation Society Logo](/img/ieee_ras_logo.png "IEEE Robotics and Automation Society") ![Technical Committee on Haptics Logo](/img/tch_logo.png "Technical Committee on Haptics")
+![IEEE Logo](/img/ieee_logo.png "IEEE")![IEEE Robotics and Automation Society Logo](/img/ieee_ras_logo.png "IEEE Robotics and Automation Society")![Technical Committee on Haptics Logo](/img/tch_logo.png "Technical Committee on Haptics")
 
 ## Platinum Sponsors
 
