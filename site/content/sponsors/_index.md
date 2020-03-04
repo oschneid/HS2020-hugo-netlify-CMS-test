@@ -26,9 +26,11 @@ Apple, Inc.
 
 ## CCC Sponsor
 
-
+![Designing for People, The University of British Columbia](/img/05.dfp_logo_ubc_lg_bkg_rgb_3x.png "Designing for People, The University of British Columbia")
 
 ## Exhibitor
+
+
 
 # Sponsorship opportunities
 
