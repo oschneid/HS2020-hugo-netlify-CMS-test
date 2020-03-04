@@ -18,9 +18,15 @@ Apple, Inc.
 
 ## Silver Sponsors
 
-## Bronze Sponsors
+![Immersion](/img/immersion_h_90k.png "Immersion")
 
-## CCC Sponsors
+## Award Sponsor
+
+![Force Dimension](/img/02.forcedimension_logo-fd-300-dpi-.png "Force Dimension")
+
+## CCC Sponsor
+
+
 
 ## Exhibitor
 
