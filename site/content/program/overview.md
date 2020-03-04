@@ -85,7 +85,7 @@ weight: 1
 </tr><tr><td style="height:32px; text-align:center; vertical-align:top; white-space:nowrap; width:20%">5:00 - 5:30 p.m.</td>
 <td colspan="2" style="background-color:rgb(255, 255, 255); height:32px; text-align:center; vertical-align:middle"><span class="my-blacknormal">Break (on your own)</span></td>
 </tr><tr><td style="height:32px; text-align:center; vertical-align:top; white-space:nowrap; width:20%">5:30 - 10:00&nbsp;p.m.</td>
-  <td colspan="2" rowspan="1" style="background-color:rgb(192, 220, 251); height:32px; text-align:center; vertical-align:middle"><span class="my-blacknormal"><strong>Board Buses for Banquet</strong><br>
+  <td colspan="2" rowspan="1" style="background-color:rgb(192, 220, 251); height:32px; text-align:center; vertical-align:middle"><span class="my-blacknormal"><strong>Board Buses for Banquet</strong><br> 
     </span><strong>Banquet Cruise</strong><a>&nbsp;</a><br>
     <span class="my-italic">Dinner will be served</span></td>
 </tr>
