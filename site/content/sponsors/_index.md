@@ -30,7 +30,11 @@ Apple, Inc.
 
 ## Exhibitor
 
+![Boréas Technologies](/img/01.boréas-logo.jpg "Boréas Technologies")
 
+![Polytec](/img/03.polytec_logo_2008_25m100y.jpg "Polytec")
+
+![HaptikFabriken Swedish Haptics Factory](/img/10.haptikfabriken-logo-300x75-png-transparent.png "HaptikFabriken Swedish Haptics Factory")
 
 # Sponsorship opportunities
 
