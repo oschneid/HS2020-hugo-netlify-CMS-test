@@ -10,8 +10,11 @@ The Haptcs Symposium would like to sincerely thank the following organizations f
 
 ## Platinum Sponsors
 
+Apple, Inc.
 
 ## Gold Sponsors
+
+![Facebook Reality Labs](/img/09.frl-blue-stacked-600dpi-01.png "Facebook Reality Labs")
 
 ## Silver Sponsors
 
@@ -20,8 +23,6 @@ The Haptcs Symposium would like to sincerely thank the following organizations f
 ## CCC Sponsors
 
 ## Exhibitor
-
-
 
 # Sponsorship opportunities
 
@@ -32,4 +33,3 @@ The 2020 Sponsorship Chairs are:
 * Hong Z. Tan, Purdue University
 * Tania Morimoto, University of California, San Diego
 * Nick Colonnese, Facebook
-
