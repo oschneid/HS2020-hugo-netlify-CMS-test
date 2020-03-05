@@ -2,7 +2,7 @@
 title: Health Information
 weight: 1
 ---
-**Haptics Symposium Health Information**
+# **Haptics Symposium Health Information**
 
 We the organizers of the 2020 IEEE Haptics Symposium would like to express our deepest concern for those who are being affected by the current Coronavirus (COVID-19) outbreak around the world.  We want to let you know that we have been closely monitoring the situation and its implications for conference attendees and stakeholders.  **We want to let everyone know that the conference will take place as planned.** 
 
@@ -25,7 +25,9 @@ Before traveling to the conference, we recommend that you stay informed of any i
 
 We sincerely hope that this situation improves soon, especially for all of those currently affected, and that all of you remain healthy. We look forward to seeing you soon at the 2020 IEEE Haptics Symposium.
 
-**Information authors affected by travel prohibitions**
+
+
+## **Information authors affected by travel prohibitions**
 
 If you are an author affected by travel prohibitions due to the Coronavirus, we would like to make alternative options available for presenting your work at the conference.  Please see the instructions listed below, as appropriate for different types of contributions.  If you wish to take advantage of these options, we ask affected authors to notify us **no later than Wednesday, March 11.** 
 
@@ -44,7 +46,7 @@ If you are an author who is unable to attend due to travel prohibitions, please 
 * If you have arranged for a colleague to present your paper or poster, please provide their name and contact information.
 * Please provide the information as to which authors are registering for which paper or poster.
 
-**Information regarding the presentation of demos**
+## **Information regarding the presentation of demos**
 
 For years, the presentation of hands-on demonstrations have been vital to our community.  We are planning to continue to host demonstrations this year, but due to their often hands-on nature, we are crafting precautionary steps to minimize health concerns.  In particular, we will 
 
