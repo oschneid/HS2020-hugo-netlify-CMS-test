@@ -35,7 +35,7 @@ For authors that are unable to attend, please see the instructions below, as reg
 
 **WIP posters / ToH posters:** We will continue to publish the WIP papers (on the USB drive to be distributed to conference attendees) and will list information for WIP and ToH posters in the program.  We would also like to ensure that your poster can be presented at the conference.  One option would be to send your poster to a colleague to print, bring to the conference, and present on your behalf at the relevant poster session.  A second option would be to create a poster to be displayed (without an accompanying presenter) at the conference.  Authors wishing to use this second option should contact the conference organizers (chairs@hapticssymposium.org).
 
-**Demos:** Unfortunately, hands-on demonstrations cannot be presented remotely.  Any demonstration for which cannot authors cannot attend will unfortunately be cancelled and will be omitted from the program.  We encourage demonstration authors to resubmit their work to either the 2020 Eurohaptics or the 2020 IEEE World Haptics Conference.
+**Demos:** Unfortunately, hands-on demonstrations cannot be presented remotely.  Any demonstration for which cannot authors cannot attend will unfortunately be cancelled and will be omitted from the program.  We encourage demonstration authors to resubmit their work to either the 2020 Eurohaptics or the 2021 IEEE World Haptics Conference.
 
 **PLEASE NOTE:** For authors who will take advantage of one of the aforementioned options, **we require that at least one of the co-authors of the work register for at least 1-day of the conference (per paper or other contribution) to help defray conference costs**. 
 
