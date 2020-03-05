@@ -37,7 +37,7 @@ For authors that are unable to attend, please see the instructions below, as reg
 
 **Demos:** Unfortunately, hands-on demonstrations cannot be presented remotely.  Any demonstration for which cannot authors cannot attend will unfortunately be cancelled and will be omitted from the program.  We encourage demonstration authors to resubmit their work to either the 2020 Eurohaptics or the 2020 IEEE World Haptics Conference.
 
-**PLEASE NOTE:** For authors who will take advantage of one of the aforementioned options, **we require that at least one of the co-authors of the work register for at least 1-day of the conference (per paper or other contribution) to help defray conference costs,** especially the associated publication costs. 
+**PLEASE NOTE:** For authors who will take advantage of one of the aforementioned options, **we require that at least one of the co-authors of the work register for at least 1-day of the conference (per paper or other contribution) to help defray conference costs**. 
 
 If you are an author who is unable to attend due to travel prohibitions, please email the conference organizers (chairs@hapticssymposium.org) with the following information:
 
