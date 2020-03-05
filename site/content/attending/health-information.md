@@ -2,7 +2,7 @@
 title: Health Information
 weight: 1
 ---
-# **Haptics Symposium Health Information**
+## **Haptics Symposium Health Information**
 
 We the organizers of the 2020 IEEE Haptics Symposium would like to express our deepest concern for those who are being affected by the current Coronavirus (COVID-19) outbreak around the world.  We want to let you know that we have been closely monitoring the situation and its implications for conference attendees and stakeholders.  **We want to let everyone know that the conference will take place as planned.** 
 
@@ -24,8 +24,6 @@ The CDC recommends the following steps to help prevent the spread of respiratory
 Before traveling to the conference, we recommend that you stay informed of any information your local health agencies may make available and take reasonable precautions to protect yourself.    We, as well as the IEEE more broadly, will continue to closely monitor this dynamic situation and will provide updates with any developments.
 
 We sincerely hope that this situation improves soon, especially for all of those currently affected, and that all of you remain healthy. We look forward to seeing you soon at the 2020 IEEE Haptics Symposium.
-
-
 
 ## **Information authors affected by travel prohibitions**
 
