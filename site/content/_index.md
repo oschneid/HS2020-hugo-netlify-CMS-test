@@ -3,6 +3,9 @@ title: "Home"
 image: /img/bg07.jpg
 ---
 
+
+[**Click here to read our response and latest information on the Coronavirus (COVID-19) outbreak.**](/attending/health-information/)
+
 **Welcome to IEEE Haptics Symposium 2020!**
 
 Held since 1992, the IEEE Haptics Symposium is a vibrant interdisciplinary forum of research in neuroscience, perception, engineering, and design, focused on sharing new advances in our understanding of the sense of touch, sparking new collaborations, and envisioning a future in which physical interactions are enriched through haptic technologies.  
