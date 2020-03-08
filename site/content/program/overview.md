@@ -1,7 +1,5 @@
 ---
 title: Program Overview
-weight: 1
-
 ---
 <h3>Program Overview</h3>
 
@@ -73,7 +71,7 @@ weight: 1
 <td colspan="2" rowspan="1" style="background-color:rgb(255, 235, 219); height:32px; text-align:center; vertical-align:middle"><strong>Oral Session 3<br>Affective Haptics</strong><br>  <span class="my-italic">Grand Ballroom, Salons ABJK</span></td>
 </tr><tr><td style="height:32px; text-align:center; vertical-align:top; white-space:nowrap; width:20%">10:30 - 11:00&nbsp;a.m.</td>
 <td colspan="2" rowspan="1" style="background-color:rgb(223, 236, 254); height:32px; text-align:center; vertical-align:middle"><span class="my-blacknormal">Coffee Break</span><br><span class="my-italic">Skyview and Hallway</span></td>
-</tr><tr><td style="height:32px; text-align:center; vertical-align:top; white-space:nowrap; width:20%">11:00&nbsp;a.m. - 12:00&nbsp;p.m.</td>
+</tr><tr><td style="height:32px; text-align:center; vertical-align:top; white-space:nowrap; width:20%">11:00&nbsp;a.m. - 12:30&nbsp;p.m.</td>
 <td style="background-color:rgb(255, 235, 219); height:32px; text-align:center; vertical-align:middle"><strong>Oral Session 4A<br>Force Feedback</strong><br>  <span class="my-italic">Grand Ballroom, Salons JK</span></td>
 <td style="background-color:rgb(255, 235, 219); height:32px; text-align:center; vertical-align:middle"><strong>Oral Session 4B<br>Neuroscience and Biomechanics</strong><br>  <span class="my-italic">Grand Ballroom, Salons AB</span></td>
 </tr><tr><td style="height:32px; text-align:center; vertical-align:top; white-space:nowrap; width:20%">12:30 - 2:00&nbsp;p.m.</td>
