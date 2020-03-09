@@ -8,16 +8,16 @@ Please know that our thoughts are with those affected by the COVID-19 outbreak. 
 
 The 2020 IEEE Haptics Symposium which is scheduled to take place, as planned, 28 – 31 March, in Washington, DC U.S.A. 
 
-Before traveling to the conference, we recommend that you stay informed of any information your local health agencies may make available and take reasonable precautions to protect yourself. IEEE continues to closely monitor this dynamic situation and will provide updates with any developments.
+Before traveling to the conference, we recommend that you stay informed of any information your local health agencies may make available and take reasonable precautions to protect yourself. IEEE continues to closely monitor this dynamic situation and will provide updates with any developments.
 
 The following proactive steps are being taken to maintain a safe and healthy environment at the 2020 IEEE Haptics Symposium:
 
 * We are committed to following regional jurisdiction guidelines and rules in maintaining a safe environment for our attendees.  The World Health Organization’s (WHO) guidelines are located here.
-* We are working closely with the Crystal Gateway Marriott in Washington, DC and surrounding venues hosting official The IEEE Haptics Symposium programming to ensure there are sufficient medical processes in place and sanitation products readily available.
+* We are working closely with the Crystal Gateway Marriott in Washington, DC and surrounding venues hosting official IEEE Haptics Symposium programming to ensure there are sufficient medical processes in place and sanitation products readily available.
 * We are supporting individuals who may be unable to travel to The IEEE Haptics Symposium from affected regions.
 * We will continue to provide timely WHO and other relevant updates to registered attendees throughout the conference as needed.  
 
-We will support our community and authors that are unable to attend due to travel restrictions may request that another member of our community present on their behalf.
+We will support our community and authors that are unable to attend due to travel restrictions may request that another member of our community present on their behalf.
 
 The CDC recommends the following steps to help prevent the spread of respiratory viruses (including influenza — it is flu season):
 
@@ -29,8 +29,6 @@ The CDC recommends the following steps to help prevent the spread of respiratory
 * Clean and disinfect frequently touched objects and surfaces.
 
 We look forward to seeing you soon at the 2020 IEEE Haptics Symposium.
-
-
 
 ## **Information for authors unable to attend the Symposium in person**
 
@@ -48,8 +46,6 @@ If you are an author who is unable to attend due to travel prohibitions, please 
 
 * If you have arranged for a colleague to present your paper or poster, please provide their name and contact information.
 * Please provide the information as to which authors are registering for which paper or poster.
-
-
 
 ## **Information regarding the presentation of demos**
 
