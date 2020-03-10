@@ -4,7 +4,7 @@ image: /img/bg07.jpg
 ---
 
 
-[**In view of the Coronavirus (COVID-19) situation, the 2020 Haptics Symposium has been postponed. Click here to read further information..**](/attending/health-information/)
+[**In view of the Coronavirus (COVID-19) situation, the 2020 Haptics Symposium has been postponed. Click here to read further information.**](/attending/health-information/)
 
 **Welcome to IEEE Haptics Symposium 2020!**
 
