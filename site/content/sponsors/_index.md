@@ -10,8 +10,6 @@ The Haptics Symposium would like to sincerely thank the following organizations 
 
 ## Gold Sponsors
 
-![Facebook Reality Labs](/img/09.frl-blue-stacked-600dpi-01.png "Facebook Reality Labs")
-
 <img src="/img/09.frl-blue-stacked-600dpi-01.png" alt="Facebook Reality Labs" class="w-25-xl w-50-m w-75-s w-100-xs" />
 
 ## Silver Sponsors
