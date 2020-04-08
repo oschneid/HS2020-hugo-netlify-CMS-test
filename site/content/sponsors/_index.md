@@ -2,15 +2,11 @@
 title: Sponsorship
 image: /img/bg07.jpg
 ---
-The Haptcs Symposium would like to sincerely thank the following organizations for their support: 
+The Haptics Symposium would like to sincerely thank the following organizations for their support: 
 
 ## Technical Sponsors
 
 ![IEEE Logo](/img/ieee_logo.png "IEEE")![IEEE Robotics and Automation Society Logo](/img/ieee_ras_logo.png "IEEE Robotics and Automation Society")![Technical Committee on Haptics Logo](/img/tch_logo.png "Technical Committee on Haptics")
-
-## Platinum Sponsors
-
-Apple, Inc.
 
 ## Gold Sponsors
 
