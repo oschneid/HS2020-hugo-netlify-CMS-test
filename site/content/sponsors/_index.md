@@ -14,25 +14,28 @@ The Haptics Symposium would like to sincerely thank the following organizations 
 
 ## Silver Sponsors
 
-![Immersion](/img/immersion_h_90k.png "Immersion" =250x)
+
+<img src="/img/immersion_h_90k.png" alt="Immersion" class="w-25-xl w-50-m w-75-s w-100-xs" />
 
 ## Award Sponsor
 
-![Force Dimension](/img/02.forcedimension_logo-fd-300-dpi-.png "Force Dimension")
+<img src="/img/02.forcedimension_logo-fd-300-dpi-.png" alt="Force Dimension" class="w-25-xl w-50-m w-75-s w-100-xs" />
 
 ## CCC Sponsor
 
-![Designing for People, The University of British Columbia](/img/05.dfp_logo_ubc_lg_bkg_rgb_3x.png "Designing for People, The University of British Columbia")
+<img src="/img/05.dfp_logo_ubc_lg_bkg_rgb_3x.png" alt="Designing for People, The University of British Columbia" class="w-25-xl w-50-m w-75-s w-100-xs" />
+
 
 # Exhibitors
 
-![Boréas Technologies](/img/01.boréas-logo.jpg "Boréas Technologies")
+<img src="/img/01.boréas-logo.jpg" alt="Boréas Technologies" class="w-25-xl w-50-m w-75-s w-100-xs" />
 
-![Polytec](/img/03.polytec_logo_2008_25m100y.jpg "Polytec")
+<img src="/img/03.polytec_logo_2008_25m100y.jpg" alt="Polytec" class="w-25-xl w-50-m w-75-s w-100-xs" />
 
-![HaptikFabriken Swedish Haptics Factory](/img/10.haptikfabriken-logo-300x75-png-transparent.png "HaptikFabriken Swedish Haptics Factory")
+<img src="/img/10.haptikfabriken-logo-300x75-png-transparent.png" alt="HaptikFabriken" class="w-25-xl w-50-m w-75-s w-100-xs" />
 
-![Tactai](/img/06.tactai-logo.png "Tactai")
+<img src="/img/06.tactai-logo.png" alt="Tactai" class="w-25-xl w-50-m w-75-s w-100-xs" />
+
 
 # Sponsorship opportunities
 
