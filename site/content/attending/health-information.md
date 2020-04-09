@@ -1,8 +1,9 @@
 ---
 title: Revised Plan for 2020 IEEE Haptics Symposium
 description: >-
-  Due to the COVID-19 pandemic, the 2020 IEEE Haptics Symposium will be held
-  virtually at a later date.
+  Due to the COVID-19 pandemic, the 2020 IEEE Haptics Symposium will not be held
+  physically. We have taken several steps to connect with the community and
+  publish our contributors' work.
 weight: 1
 ---
 # Revised Plan for 2020 IEEE Haptics Symposium
