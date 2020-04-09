@@ -17,24 +17,20 @@ We thank you for your patience over the last few weeks. This time has allowed us
 
 Our revised planning for IEEE Haptics Symposium 2020 was guided by our goals of balancing the community’s interest in scientific dissemination and exchange, the required organizing effort, and the uncertainties surrounding the situation, including the location and ability of participants to engage with the events amidst the personal and professional challenges being encountered by so many of us.
 
-## Conference Proceedings:
+## Conference Proceedings
 
 The main conference proceedings will be published as originally planned. The IEEE Transactions on Haptics Short Papers have already been published via IEEE Xplore. The conference technical papers are being processed for publication in IEEE Xplore and should be available online in 4-8 weeks. 
 The conference companion proceedings, comprising accepted Work-in-Progress and Demonstration papers and videos, will be watermarked as contributions to IEEE Haptics Symposium 2020 and will be distributed via the internet to everyone who registered for the conference.  As originally planned, authors will retain copyright over these works, which will not be published in IEEE Xplore.
 
-## Conference Awards:
+## Conference Awards
 
 We are proceeding with our plan to confer several awards for top contributions to the conference, including awards for Best Transactions on Haptics Short Paper and Best Technical Paper.  Authors of nominated papers will be contacted by the Awards Chair via email in the next two weeks.  In order to be eligible for these awards, the authors of each nominated paper must contribute a video presentation of their paper to the online Conference Video Forum, described below. Full details will be provided to authors via email.
 
-## 
-
-Online Video Presentations:
+## Online Video Presentations
 
 We will provide a new online video forum for authors of accepted technical papers to present their contributions to a broad audience. All authors of accepted technical papers and IEEE ToH short papers will be invited to create short video presentations of their work (about 3 minutes, tentatively).  Details and instructions will be provided in a forthcoming email.  The videos will be disseminated via the Haptics Symposium YouTube Channel.  The videos will be organized in playlists according to thematic sessions that were created for the original conference program. We believe that this collection of online videos from Haptics Symposium 2020 will provide a valuable resource for people around the world to learn about new trends and findings in haptics, and for the contributions from the conference to be disseminated widely via social media.
 
-## 
-
-Live Streaming Video Event:
+## Live Streaming Video Event
 
 In addition, we are planning to hold a live online streaming video event that would feature elements such as videos for all of the award candidate papers, live moderated discussions with one or more authors of each paper, previews of future conferences, the awards ceremony, and a closing presentation by the Haptics Symposium 2020 Co-Chairs.  It would be accessible to everyone (whether or not they registered for the physical conference). We believe that this live event would be appreciated and attended by many researchers, and may seed scientific exchanges that could grow after the event. Further details will be announced in the coming weeks.  We welcome feedback about this event, or contributions from any of you who have skills relevant to streaming event production.  Please send us any questions via email: chairs@hapticssymposium.org
 
