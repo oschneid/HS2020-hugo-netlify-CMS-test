@@ -54,7 +54,7 @@ Smith et al., Vibrotactile Massage in Virtual Reality, IEEE Haptics Symposium 20
 
 \[AuthorName1], \[AuthorName2], ... , \[FullPaperTitle], Proceedings of IEEE Haptics Symposium 2020
 
-\[DOI in URL form - will be available via IEEE Xplore in coming weeks]
+\[DOI in URL form - will be available via IEEE Xplore in coming weeks, please update as needed]
 
 \[Abstract Text as Published in Paper]
 
