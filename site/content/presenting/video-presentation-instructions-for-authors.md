@@ -44,7 +44,7 @@ Configure the following settings under “Edit Video” on the YouTube page for 
 
 **Set the title for your video as follows:**
 
-<LastNameOfFirstAuthor> et al., <ShortenedPaperTitle>, 2020 IEEE Haptics Symposium
+\[LastNameOfFirstAuthor] et al., \[ShortenedPaperTitle], 2020 IEEE Haptics Symposium
 
 For example:
 
@@ -52,11 +52,11 @@ Smith et al., Vibrotactile Massage in Virtual Reality, IEEE Haptics Symposium 20
 
 **Write the description of your video as follows:**
 
-<AuthorName1>, <AuthorName2>, .., <FullPaperTitle>, Proceedings of IEEE Haptics Symposium 2020
+\[AuthorName1], \[AuthorName2], ... , \[FullPaperTitle], Proceedings of IEEE Haptics Symposium 2020
 
-<DOI in URL form - will be available via IEEE Xplore in coming weeks>
+\[DOI in URL form - will be available via IEEE Xplore in coming weeks]
 
-<Abstract Text as Published in Paper>
+\[Abstract Text as Published in Paper]
 
 \#haptics #haptics2020 <optionally other keyword hashtags as appropriate>
 
