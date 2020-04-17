@@ -76,6 +76,6 @@ _\#haptics #haptics2020 #vibrotactile #virtualmassage_
 
 _https://www.hapticssymposium.org/_
 
-**After uploading, enter the data about your video presentation** [**using this form**](https://forms.gle/wMRvLpa2gNYgtcji9)**.**
+**Important: After uploading your video, enter the data about your video presentation** [**using this form**](https://forms.gle/wMRvLpa2gNYgtcji9)**.**
 
 Thank you for your contributions to the 2020 IEEE Haptics Symposium.
