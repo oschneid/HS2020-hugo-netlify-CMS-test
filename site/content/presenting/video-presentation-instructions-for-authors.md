@@ -26,18 +26,18 @@ All contributed video presentations will be eligible for the conference Best Vid
 
 Your video should consist of a recorded oral presentation by one of the authors, consistent with community standards for conference oral presentations
 
-Video presentation format:
+**Video presentation format:**
 
 * Recommended: full-screen screencast of the slides, with a picture-in-picture video of the presenter
 * Acceptable Alternatives: full screen of slides with audio of speaker or slides and speaker video side-by-side.
 * Total video duration: 3 minutes
 * Use a high quality microphone for the recording.  Most headset microphones work well.  Avoid using the microphone that is integrated in your computer.
 * The video resolution should be at least 720p (1280x720).  We prefer 1080p (1920x1080) and 60 fps.
-* **Authors must upload their video to their own YouTube account** (authors may create a new account for this purpose if they wish or use their existing account).  
+* Authors must upload their video to **their own YouTube account** (authors may create a new account for this purpose if they wish or use their existing account).  
 * Recommended: Upload closed caption subtitles with your video
 * Please check the quality of the uploaded video and sound and your ability to access the video from a private browser window.
 
-Configure the following settings under “Edit Video” on the YouTube page for your video:
+**Configure the following settings under “Edit Video” on the YouTube page for your video:**
 
 * Set the visibility for your presentation video to “public”
 * Recommended: select the “allow embeddings” feature using “More Options” within the “Edit Video” page.
