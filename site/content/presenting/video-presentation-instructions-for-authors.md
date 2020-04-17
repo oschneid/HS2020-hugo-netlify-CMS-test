@@ -46,35 +46,35 @@ Your video should consist of a recorded oral presentation by one of the authors,
 
 **Set the title for your video as follows:**
 
-\[LastNameOfFirstAuthor et al.], \[ShortenedPaperTitle], 2020 IEEE Haptics Symposium
+_\[LastNameOfFirstAuthor et al.], \[ShortenedPaperTitle], 2020 IEEE Haptics Symposium_
 
-For example:
+_For example:_
 
-Smith et al., Vibrotactile Massage in Virtual Reality, IEEE Haptics Symposium 2020
+_Smith et al., Vibrotactile Massage in Virtual Reality, IEEE Haptics Symposium 2020_
 
 **Write the description of your video as follows:**
 
-\[AuthorName1], \[AuthorName2], ... , \[FullPaperTitle], Proceedings of IEEE Haptics Symposium 2020
+_\[AuthorName1], \[AuthorName2], ... , \[FullPaperTitle], Proceedings of IEEE Haptics Symposium 2020_
 
-\[DOI in URL form - will be available via IEEE Xplore in coming weeks, please update as needed]
+_\[DOI in URL form - will be available via IEEE Xplore in coming weeks, please update as needed]_
 
-\[Abstract Text as Published in Paper]
+_\[Abstract Text as Published in Paper]_
 
-\#haptics #haptics2020 <optionally other keyword hashtags as appropriate>
+_\#haptics #haptics2020 <optionally other keyword hashtags as appropriate>_
 
-https://www.hapticssymposium.org/
+_https://www.hapticssymposium.org/_
 
 For example:
 
-K. Smith, B. Nelson, T. Xu, Vibrotactile Massage Methods in Virtual Reality, Proceedings of IEEE Haptics Symposium 2020
+_K. Smith, B. Nelson, T. Xu, Vibrotactile Massage Methods in Virtual Reality, Proceedings of IEEE Haptics Symposium 2020_
 
-http://doi.org/10.1126/sciadv.aaz1158
+_http://doi.org/10.1126/sciadv.aaz1158_
 
-Abstract: Many researchers have sought to introduce vibrotactile massage methods in virtual reality.  However, prior approaches have proved inadequate.  Here, we show ...
+_Abstract: Many researchers have sought to introduce vibrotactile massage methods in virtual reality.  However, prior approaches have proved inadequate.  Here, we show ..._
 
-\#haptics #haptics2020 #vibrotactile #virtualmassage
+_\#haptics #haptics2020 #vibrotactile #virtualmassage_
 
-https://www.hapticssymposium.org/
+_https://www.hapticssymposium.org/_
 
 **After uploading, enter the data about your video presentation** [**using this form**](https://forms.gle/wMRvLpa2gNYgtcji9)**.**
 
