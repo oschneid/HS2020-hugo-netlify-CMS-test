@@ -18,6 +18,8 @@ weight: 1
 ---
 # Author Instructions for Video Presentation Preparation
 
+**Deadline: May 20, 2020**
+
 The authors of each technical paper or IEEE Transactions on Haptics Short Paper are invited and strongly encouraged to prepare a video presentation of their paper. The videos will be disseminated via the [IEEE Haptics Symposium YouTube Channel](https://www.youtube.com/channel/UC1YjMwrg8Hk6uAtyWb62yAw/), and will be organized into thematic playlists reflecting the originally planned conference program.  We believe that this collection of online videos will provide a valuable resource for people around the world to learn about new advances in haptics, and for the contributions from the conference to be disseminated widely via social media.
 
 All contributed video presentations will be eligible for the conference Best Video Presentation Award, which will be announced during the 2020 Haptics Symposium live streaming event in late June, 2020. **To be eligible for the Best Video Presentation award, authors must upload their video before the deadline of May 20.**
