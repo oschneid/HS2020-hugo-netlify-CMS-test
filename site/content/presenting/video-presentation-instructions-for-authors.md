@@ -4,8 +4,8 @@ deadline: 'May 20, 2020'
 description: >-
   The authors of each technical paper or IEEE Transactions on Haptics Short
   Paper are invited and strongly encouraged to prepare a video presentation of
-  their paper. The videos will be disseminated via the [IEEE Haptics Symposium
-  YouTube Channel](https://www.youtube.com/channel/UC1YjMwrg8Hk6uAtyWb62yAw/). 
+  their paper. The videos will be disseminated via the IEEE Haptics Symposium
+  YouTube Channel. 
 
 
   All contributed video presentations will be eligible for the conference Best
