@@ -10,9 +10,9 @@ description: >-
 
   All contributed video presentations will be eligible for the conference Best
   Video Presentation Award, which will be announced during the 2020 Haptics
-  Symposium live streaming event in late June, 2020. **To be eligible for the
-  Best Video Presentation award, authors must upload their video before the
-  deadline of May 20.**
+  Symposium live streaming event in late June, 2020. To be eligible for the Best
+  Video Presentation award, authors must upload their video before the deadline
+  of May 20.
 image: /img/bg12.jpg
 weight: 0
 ---
