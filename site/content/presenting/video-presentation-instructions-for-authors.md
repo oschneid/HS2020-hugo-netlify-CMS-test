@@ -46,7 +46,7 @@ Your video should consist of a recorded oral presentation by one of the authors,
 
 **Set the title for your video as follows:**
 
-\[LastNameOfFirstAuthor] et al., \[ShortenedPaperTitle], 2020 IEEE Haptics Symposium
+\[[LastNameOfFirstAuthor]] et al., \[ShortenedPaperTitle], 2020 IEEE Haptics Symposium
 
 For example:
 
@@ -75,3 +75,5 @@ Abstract: Many researchers have sought to introduce vibrotactile massage methods
 \#haptics #haptics2020 #vibrotactile #virtualmassage
 
 https://www.hapticssymposium.org/
+
+After uploading, enter the data about your video presentation [using this form](https://forms.gle/wMRvLpa2gNYgtcji9).
