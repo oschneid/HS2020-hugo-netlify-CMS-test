@@ -4,7 +4,7 @@ image: /img/bg07.jpg
 ---
 
 
-[**In view of the Coronavirus (COVID-19) situation, the 2020 Haptics Symposium will not be held physically. Click here to read further information.**](/attending/health-information/)
+[**Please save the date for the 2020 IEEE Haptics Symposium livestreaming video event, Thursday, June 25 at 12 Noon Eastern Time (9 am Pacific Time, 4 pm UTC).**](/attending/health-information/)
 
 **Welcome to IEEE Haptics Symposium 2020!**
 
@@ -20,14 +20,16 @@ New for 2020, a [conference journal papers track](/presenting/transactions-on-ha
 
 #### Upcoming Deadlines
 
-* **March 9, 2020**: [Grad Student Social RSVP Deadline](/attending/social-events/)
-* **March 9, 2020**: [Early-Career Lunch RSVP Deadline](/attending/social-events/)
-* **Ongoing**: [Exhibit Applications - Sponsorship Prospectus](/sponsors/)
+* **May 20, 2020**: [Author Videos Due](https://2020.hapticssymposium.org/presenting/video-presentation-instructions-for-authors/)
+* **June 25, 12 Noon Eastern**: Live stream begins!
 
 <hr style="height:6px; visibility:hidden;" />
 
 #### Past Deadlines
 
+* ~~Ongoing~~: [Exhibit Applications - Sponsorship Prospectus](/sponsors/)
+* ~~March 9, 2020~~: [Grad Student Social RSVP Deadline](/attending/social-events/)
+* ~~March 9, 2020~~: [Early-Career Lunch RSVP Deadline](/attending/social-events/)
 * ~~February 21, 2020~~: [Standard Registration Deadline](/attending/registration/)
 * ~~January 31, 2020~~: [Early Bird Registration](/attending/registration/)
 * ~~January 31, 2020~~: [Demonstration Submissions](/presenting/demos/)
