@@ -8,6 +8,32 @@ weight: 1
 ---
 # Revised Plan for 2020 IEEE Haptics Symposium
 
+Dear Haptics Community, 
+
+Please save the date for the 2020 IEEE Haptics Symposium livestreaming video event. The ~2 hour event is scheduled for Thursday, June 25 at 12 Noon Eastern Time (9 am Pacific Time, 4 pm UTC). It will be livestreamed via YouTube with connectivity details forthcoming. The event will be accessible to anyone, with no registration required. 
+
+The event will feature outstanding new research from the 2020 IEEE Haptics Symposium, including presentations of all award candidate papers and live Q&A with the paper authors. It will also include the 2020 IEEE Haptics Symposium awards ceremony and previews of future conferences. 
+
+We are also preparing a large online video program of presentations of the technical papers from the conference. The videos in this program will be available through the Haptics Symposium YouTube channel, where they will be organized in thematic sessions. Authors of all 77 accepted conference technical papers or IEEE Transactions on Haptics Short Papers (part of the new journal track) have been invited to contribute short video presentations of their papers. A best presentation award will be selected by community voting in early June. 
+
+As a reminder, authors can find video presentation instructions (due May 20th) at: 
+
+https://2020.hapticssymposium.org/presenting/video-presentation-instructions-for-authors/ 
+
+Finally, we are excited to announce that all IEEE Haptics Symposium conference technical papers are now available via the IEEE Xplore digital library! They can be accessed at the following link: https://doi.org/10.1109/HAPTICS45997.2020 
+
+
+
+Best wishes, 
+
+Greg Gerling and Yon Visell 
+
+2020 IEEE Haptics Symposium General Co-Chairs 
+
+
+
+<hr>
+
 Dear Haptics Symposium Participants and Broader Community,
 
 We are writing to update you on the revised plan for the 2020 IEEE Haptics Symposium.
@@ -33,7 +59,7 @@ We will provide a new online video forum for authors of accepted technical paper
 
 ## Live Streaming Video Event
 
-In addition, we are planning to hold a live online streaming video event that would feature elements such as videos for all of the award candidate papers, live moderated discussions with one or more authors of each paper, previews of future conferences, the awards ceremony, and a closing presentation by the Haptics Symposium 2020 Co-Chairs.  It would be accessible to everyone (whether or not they registered for the physical conference). We believe that this live event would be appreciated and attended by many researchers, and may seed scientific exchanges that could grow after the event. Further details will be announced in the coming weeks.  We welcome feedback about this event, or contributions from any of you who have skills relevant to streaming event production.  Please send us any questions via email: <chairs@hapticssymposium.org>
+In addition, we are planning to hold a live online streaming video event that would feature elements such as videos for all of the award candidate papers, live moderated discussions with one or more authors of each paper, previews of future conferences, the awards ceremony, and a closing presentation by the Haptics Symposium 2020 Co-Chairs.  It would be accessible to everyone (whether or not they registered for the physical conference). We believe that this live event would be appreciated and attended by many researchers, and may seed scientific exchanges that could grow after the event. Further details will be announced in the coming weeks.  We welcome feedback about this event, or contributions from any of you who have skills relevant to streaming event production.  Please send us any questions via email: <mailto:chairs@hapticssymposium.org>
 
 In addition to the opportunities described above, we are also in contact with the 2020 Eurohaptics Conference Organizing Committee about potential options for IEEE Haptics Symposium authors to present their work at Eurohaptics. Please watch for further information from the Eurohaptics Conference about this.
 
