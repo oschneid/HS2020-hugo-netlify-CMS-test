@@ -18,7 +18,6 @@ The Haptics Symposium would like to sincerely thank the following organizations 
 
 ## Silver Sponsors
 
-
 <img src="/img/immersion_h_90k.png" alt="Immersion" class="mt-2 mb-2 w-25-l w-50-m w-75-s w-100-xs" />
 
 ## Award Sponsor
@@ -29,8 +28,7 @@ The Haptics Symposium would like to sincerely thank the following organizations 
 
 <img src="/img/05.dfp_logo_ubc_lg_bkg_rgb_3x.png" alt="Designing for People, The University of British Columbia" class="mt-2 mb-2 w-25-l w-50-m w-75-s w-100-xs" />
 
-
-# Exhibitors
+## Exhibitors
 
 <img src="/img/01.boréas-logo.jpg" alt="Boréas Technologies" class="mt-2 mb-2 w-25-l w-50-m w-75-s w-100-xs" />
 
@@ -40,8 +38,7 @@ The Haptics Symposium would like to sincerely thank the following organizations 
 
 <img src="/img/06.tactai-logo.png" alt="Tactai" class="mt-2 mb-2 w-25-l w-50-m w-75-s w-100-xs" />
 
-
-# Sponsorship opportunities
+## Sponsorship opportunities
 
 For sponsorship opportunities, please contact the sponsorship chairs: <mailto:sponsorship@hapticssymposium.org> or viewing our [sponsorship prospectus](https://hapticssymposium.org/haptics2020/files/IEEEHS2020SponsorshipProspectus.pdf).
 
