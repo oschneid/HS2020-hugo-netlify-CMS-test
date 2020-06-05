@@ -5,6 +5,7 @@ title: Technical Papers and ToH Short Papers
 
 <h2>Oral Session 1: Flexible Devices</h2>
 
+
 <h3>Closed loop application of electroadhesion for increased precision in texture rendering</h3>
 <br>Roman Grigorii, Edward Colgate<br><a href="https:\/\/youtu.be\/s6gatH-ScSw" target="_blank">youtube</a>
 
