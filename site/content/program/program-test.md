@@ -16,6 +16,7 @@ title: Program Test
     }
 </style>
 
+
 <h2>Oral Session 2A: Haptic Rendering</h2>
 
 <div class="flex-container">
