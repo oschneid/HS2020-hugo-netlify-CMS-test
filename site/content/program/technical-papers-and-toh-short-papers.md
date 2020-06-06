@@ -19,7 +19,8 @@ td {
 }
 @media screen and (max-width:400px) {
   td{width:100%;}
-} 
+}
+</style>
 
 <table>
   <tr>
@@ -38,7 +39,7 @@ Roman Grigorii, Edward Colgate<br>
     <td>col 4</td>
   </tr>
 </table>
-    </style>
+
 
 <ul><li>
 
