@@ -10,7 +10,7 @@ title: Technical Papers and ToH Short Papers
 display: flex;\
 flex-wrap: wrap;\
 background-color: DodgerBlue;\
-}
+} 
 
 .flex-container > div {\
 background-color: #f1f1f1;\
