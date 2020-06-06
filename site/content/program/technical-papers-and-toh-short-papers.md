@@ -3,7 +3,7 @@ title: Technical Papers and ToH Short Papers
 ---
 <h1>Technical Papers and ToH Short Papers</h1>
 
-<h2>Oral Session 1: Flexible Devicessss</h2>
+<h2>Oral Session 1: Flexible Devices 2</h2>
 
 <style type="text/css">
 table{width:100%;}
