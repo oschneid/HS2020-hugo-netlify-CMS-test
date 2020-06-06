@@ -5,7 +5,7 @@ title: Technical Papers and ToH Short Papers
 
 <h2>Oral Session 1: Flexible Devices 5</h2>
 
-<style>\
+<style> \
 .flex-container {\
 display: flex;\
 flex-wrap: wrap;\
