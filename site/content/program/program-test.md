@@ -18,37 +18,37 @@ title: Program Test
 </div>
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/udvXPLBCo5o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-Step-Change in Friction Under Electrovibration by idil ozdamar, M. Reza Alipour Alipour, Benoit Delhaye, Philippe Lefevre, Cagatay Basdogan<br>
+<strong>Step-Change in Friction Under Electrovibration</strong> by idil ozdamar, M. Reza Alipour Alipour, Benoit Delhaye, Philippe Lefevre, Cagatay Basdogan<br>
 <a href="https:\/\/youtu.be\/udvXPLBCo5o" target="_blank">youtube</a><br>
 </div>
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/vkHgt0vcSk8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-HapToes: Vibrotactile Numeric Information Delivery Via Tactile Toe Display by Preeti Vyas, Feras Al Taha, Jeffrey R. Blum, Jeremy Cooperstock<br>
+<strong>HapToes: Vibrotactile Numeric Information Delivery Via Tactile Toe Display</strong> by Preeti Vyas, Feras Al Taha, Jeffrey R. Blum, Jeremy Cooperstock<br>
 <a href="https:\/\/youtu.be\/vkHgt0vcSk8" target="_blank">youtube</a><br>
 </div>
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/msagKSdbL_U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-Subjective Evaluation of the Spectral Temporal SIMilarity (ST-SIM) Measure for Vibrotactile Quality Assessment by Rania Hassen, Eckehard Steinbach<br>
+<strong>Subjective Evaluation of the Spectral Temporal SIMilarity (ST-SIM) Measure for Vibrotactile Quality Assessment</strong> by Rania Hassen, Eckehard Steinbach<br>
 <a href="https:\/\/youtu.be\/msagKSdbL_U" target="_blank">youtube</a><br>
 </div>
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/4zqhuDM2MOY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-Path Routing Optimization for STM Ultrasound Rendering by Hector Barreiro, Stephen Sinclair, Miguel A. Otaduy<br>
+<strong>Path Routing Optimization for STM Ultrasound Rendering</strong> by Hector Barreiro, Stephen Sinclair, Miguel A. Otaduy<br>
 <a href="https:\/\/youtu.be\/4zqhuDM2MOY" target="_blank">youtube</a><br>
 </div>
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/hCRA5dIRS3I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-SPH Fluid Tactile Rendering for Ultrasonic Mid-Air Haptics by Jaehyun Jang, Jinah Park<br>
+<strong>SPH Fluid Tactile Rendering for Ultrasonic Mid-Air Haptics</strong> by Jaehyun Jang, Jinah Park<br>
 <a href="https:\/\/youtu.be\/hCRA5dIRS3I" target="_blank">youtube</a><br>
 </div>
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/BOkkDdHfPIc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-Reducing Amplitude Fluctuation by Gradual Phase Shift in Midair Ultrasound Haptics by Shun Suzuki, Masahiro Fujiwara, Yasutoshi Makino, Hiroyuki Shinoda<br>
+<strong>Reducing Amplitude Fluctuation by Gradual Phase Shift in Midair Ultrasound Haptics</strong> by Shun Suzuki, Masahiro Fujiwara, Yasutoshi Makino, Hiroyuki Shinoda<br>
 <a href="https:\/\/youtu.be\/BOkkDdHfPIc" target="_blank">youtube</a><br>
 </div>
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/v8TkBNH4KGc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-Virtual Bumps Display Based on Electrical Muscle Stimulation by Takaya Ishimaru, Satoshi Saga<br>
+<strong>Virtual Bumps Display Based on Electrical Muscle Stimulation</strong> by Takaya Ishimaru, Satoshi Saga<br>
 <a href="https:\/\/youtu.be\/v8TkBNH4KGc" target="_blank">youtube</a><br>
 </div>
 </div>
