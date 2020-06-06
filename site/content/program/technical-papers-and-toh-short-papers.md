@@ -5,24 +5,22 @@ title: Technical Papers and ToH Short Papers
 
 <h2>Oral Session 1: Flexible Devices 5</h2>
 
-<style> \
-.flex-container {\
-display: flex;\
-flex-wrap: wrap;\
-background-color: DodgerBlue;\
+<style> 
+.flex-container {
+display: flex;
+flex-wrap: wrap;
+background-color: DodgerBlue;
 } 
 
-.flex-container > div {\
-background-color: #f1f1f1;\
-width: 600px;\
-margin: 10px;\
-text-align: center;\
-line-height: 75px;\
-font-size: 30px;\
-}\
+.flex-container > div {
+background-color: #f1f1f1;
+width: 600px;
+margin: 10px;
+text-align: center;
+line-height: 75px;
+font-size: 30px;
+}
 </style>
-
-
 
 <div class="flex-container"> 
 
