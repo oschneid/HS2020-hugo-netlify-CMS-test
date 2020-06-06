@@ -19,6 +19,7 @@ td {
 }
 @media screen and (max-width:400px) {
   td{width:100%;}
+  border:1px solid red;
 }
 </style>
 
