@@ -17,7 +17,7 @@ td {
   border:1px solid blue;
   box-sizing:border-box;
 }
-@media screen and (max-width:400px) {
+@media screen and (max-width:600px) {
   td{width:100%;}
   border:1px solid red;
 }
