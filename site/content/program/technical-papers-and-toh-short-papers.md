@@ -5,6 +5,21 @@ title: Technical Papers and ToH Short Papers
 
 <h2>Oral Session 1: Flexible Devices</h2>
 
+<style type="text/css">
+table{width:100%;}
+tr { 
+  display: flex;
+  flex-wrap: wrap;
+  width:100%;
+}
+td {
+  width: 50%;
+  border:1px solid blue;
+  box-sizing:border-box;
+}
+@media screen and (max-width:400px) {
+  td{width:100%;}
+} 
 
 <table>
   <tr>
@@ -16,7 +31,6 @@ Roman Grigorii, Edward Colgate<br>
 </td>
     <td>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/udvXPLBCo5o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>Step-Change in Friction Under Electrovibration<br>idil ozdamar, M. Reza Alipour Alipour, Benoit Delhaye, Philippe Lefevre, Cagatay Basdogan<br><a href="https:\/\/youtu.be\/udvXPLBCo5o" target="_blank">youtube</a><br>Session: 2A<br>
-
 </td>
   </tr>
     <tr>
@@ -24,7 +38,7 @@ Roman Grigorii, Edward Colgate<br>
     <td>col 4</td>
   </tr>
 </table>
-
+    </style>
 
 <ul><li>
 
