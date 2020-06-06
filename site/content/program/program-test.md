@@ -13,7 +13,7 @@ title: Program Test
 <div class="flex-container">
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/s6gatH-ScSw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-<em>Closed loop application of electroadhesion for increased precision in texture rendering</em> by Roman Grigorii, Edward Colgate<br>
+<strong>Closed loop application of electroadhesion for increased precision in texture rendering</strong> by Roman Grigorii, Edward Colgate<br>
 <a href="https:\/\/youtu.be\/s6gatH-ScSw" target="_blank">youtube</a><br>
 </div>
 <div>
