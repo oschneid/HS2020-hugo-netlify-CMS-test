@@ -2,19 +2,9 @@
 title: Program Test
 ---
 <h1>Technical Papers and ToH Short Papers</h1>
-
-<style> 
-  .flex-container {
-    display: flex;
-    flex-wrap: wrap;
-    background-color: DodgerBlue;
-  } 
-
-  .flex-container > div {
-    background-color: #f1f1f1;
-    width: 350 px;
-    margin: 10px;
-    }
+<style>
+.flex-container { display: flex; flex-wrap: wrap; }
+.flex-container > div { width: 350px; margin: 10px;}
 </style>
 
 <h2>Oral Session 2A: Haptic Rendering</h2>
