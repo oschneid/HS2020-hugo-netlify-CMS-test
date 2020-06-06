@@ -10,7 +10,7 @@ title: Program Test
   } 
 
   .flex-container > div {
-    width: 560px;
+    width: 373px;
     margin: 10px;
     }
 </style>
@@ -19,9 +19,9 @@ title: Program Test
 
 <div class="flex-container">
 <div>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/s6gatH-ScSw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-Closed loop application of electroadhesion for increased precision in texture rendering<br>
-Roman Grigorii, Edward Colgate<br>
+<iframe width="373" height="210" src="https://www.youtube.com/embed/s6gatH-ScSw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+<b>Closed loop application of electroadhesion for increased precision in texture rendering<b><br>
+by Roman Grigorii, Edward Colgate<br>
 <a href="https:\/\/youtu.be\/s6gatH-ScSw" target="_blank">youtube</a><br>
 </div>
 <div>
