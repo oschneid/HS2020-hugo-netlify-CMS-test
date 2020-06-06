@@ -2,6 +2,7 @@
 title: Program Test
 ---
 <h1>Technical Papers and ToH Short Papers</h1>
+
 <style> 
   .flex-container {
     display: flex;
@@ -15,7 +16,6 @@ title: Program Test
     margin: 10px;
     }
 </style>
-
 
 <h2>Oral Session 2A: Haptic Rendering</h2>
 
