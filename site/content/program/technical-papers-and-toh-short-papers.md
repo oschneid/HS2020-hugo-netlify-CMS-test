@@ -24,7 +24,7 @@ font-size: 30px;\
 
 
 
-<div class="flex-container">
+<div class="flex-container"> 
 
   <div><iframe width="560" height="315" src="https://www.youtube.com/embed/s6gatH-ScSw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 Closed loop application of electroadhesion for increased precision in texture rendering<br>
