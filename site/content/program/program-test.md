@@ -7,11 +7,9 @@ title: Program Test
   .flex-container {
     display: flex;
     flex-wrap: wrap;
-    background-color: DodgerBlue;
   } 
 
   .flex-container > div {
-    background-color: #f1f1f1;
     width: 560px;
     margin: 10px;
     }
