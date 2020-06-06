@@ -3,47 +3,35 @@ title: Technical Papers and ToH Short Papers
 ---
 <h1>Technical Papers and ToH Short Papers</h1>
 
-<h2>Oral Session 1: Flexible Devices 3</h2>
+<h2>Oral Session 1: Flexible Devices 4</h2>
 
-<style>
-
-.flex-container {
-
-  display: flex;
-
-  flex-wrap: wrap;
-
-  background-color: DodgerBlue;
-
+<style>\
+.flex-container {\
+display: flex;\
+flex-wrap: wrap;\
+background-color: DodgerBlue;\
 }
 
-
-
-.flex-container > div {
-
-  background-color: #f1f1f1;
-
-  width: 100px;
-
-  margin: 10px;
-
-  text-align: center;
-
-  line-height: 75px;
-
-  font-size: 30px;
-
-}
-
+.flex-container > div {\
+background-color: #f1f1f1;\
+width: 100px;\
+margin: 10px;\
+text-align: center;\
+line-height: 75px;\
+font-size: 30px;\
+}\
 </style>
 
 
 
 <div class="flex-container">
 
-  <div>1</div>
+  <div><iframe width="560" height="315" src="https://www.youtube.com/embed/s6gatH-ScSw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+Closed loop application of electroadhesion for increased precision in texture rendering<br>
+Roman Grigorii, Edward Colgate<br>
+<a href="https:\/\/youtu.be\/s6gatH-ScSw" target="_blank">youtube</a></div>
 
-  <div>2</div>
+  <div><iframe width="560" height="315" src="https://www.youtube.com/embed/udvXPLBCo5o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>Step-Change in Friction Under Electrovibration<br>idil ozdamar, M. Reza Alipour Alipour, Benoit Delhaye, Philippe Lefevre, Cagatay Basdogan<br><a href="https:\/\/youtu.be\/udvXPLBCo5o" target="_blank">youtube</a><br>Session: 2A<br></div>
 
   <div>3</div>  
 
@@ -70,13 +58,10 @@ title: Technical Papers and ToH Short Papers
 <table>
   <tr>
     <td>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/s6gatH-ScSw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-Closed loop application of electroadhesion for increased precision in texture rendering<br>
-Roman Grigorii, Edward Colgate<br>
-<a href="https:\/\/youtu.be\/s6gatH-ScSw" target="_blank">youtube</a>
+
 </td>
     <td>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/udvXPLBCo5o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>Step-Change in Friction Under Electrovibration<br>idil ozdamar, M. Reza Alipour Alipour, Benoit Delhaye, Philippe Lefevre, Cagatay Basdogan<br><a href="https:\/\/youtu.be\/udvXPLBCo5o" target="_blank">youtube</a><br>Session: 2A<br>
+
 </td>
   </tr>
     <tr>
