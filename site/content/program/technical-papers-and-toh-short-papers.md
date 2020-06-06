@@ -9,9 +9,10 @@ title: Technical Papers and ToH Short Papers
 <table>
   <tr>
     <td>
-Closed loop application of electroadhesion for increased precision in texture rendering<br>
-<br>Roman Grigorii, Edward Colgate<br><a href="https:\/\/youtu.be\/s6gatH-ScSw" target="_blank">youtube</a>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/s6gatH-ScSw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+Closed loop application of electroadhesion for increased precision in texture rendering<br>
+Roman Grigorii, Edward Colgate<br>
+<a href="https:\/\/youtu.be\/s6gatH-ScSw" target="_blank">youtube</a>
 </td>
     <td>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/udvXPLBCo5o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>Step-Change in Friction Under Electrovibration<br>idil ozdamar, M. Reza Alipour Alipour, Benoit Delhaye, Philippe Lefevre, Cagatay Basdogan<br><a href="https:\/\/youtu.be\/udvXPLBCo5o" target="_blank">youtube</a><br>Session: 2A<br>
