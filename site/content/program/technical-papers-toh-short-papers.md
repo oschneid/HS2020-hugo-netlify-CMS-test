@@ -335,7 +335,7 @@ title: Technical Papers & ToH Short Papers
 </div>
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/wjtvHGUipl0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-<a href="https://doi.org/10.1109/HAPTICS45997...." target="_blank">Contracture Diagnosis System Using Wearable Tactile Sensor</a> by Takahiro Suzuki, Yoshihiro Tanaka, Kazuhiro Niwa, and Takafumi Saito<br>
+<a href="https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.30.e3168045" target="_blank">Contracture Diagnosis System Using Wearable Tactile Sensor</a> by Takahiro Suzuki, Yoshihiro Tanaka, Kazuhiro Niwa, and Takafumi Saito<br>
 </div>
 </div><br>
 <h2 id="7">Oral Session 7: Haptic Cues and Guidance</h2>
