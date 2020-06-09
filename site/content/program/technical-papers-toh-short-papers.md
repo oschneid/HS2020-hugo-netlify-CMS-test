@@ -155,7 +155,7 @@ title: Technical Papers & ToH Short Papers
 </div>
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/ez6lttgu_EI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-<a href="" target="_blank">The calming effect of heartbeat vibration </a> by Yizhen Zhou and Aiko Murata and Junji Watanabe<br>
+<a href="https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.157.5a2e1551" target="_blank">The calming effect of heartbeat vibration </a> by Yizhen Zhou and Aiko Murata and Junji Watanabe<br>
 </div>
 </div><br>
 <h2 id="4A">Oral Session 4A: Force Feedback</h2>
