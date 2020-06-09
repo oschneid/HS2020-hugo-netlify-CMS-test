@@ -13,39 +13,43 @@ title: Program Test
 <div class="flex-container">
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/SE1JTNXGXzQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-<a href="">Soft Haptic Interface based on Vibration and Particle Jamming</a> by Joshua P. Brown and Ildar Farkhatdinov<br>
+<a href="https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.8.0698f2bb">Soft Haptic Interface based on Vibration and Particle Jamming</a> by Joshua P. Brown and Ildar Farkhatdinov<br>
 </div>
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/Pz4VusPdVfY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 <a href="https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.25.aa4d97aa">Elastowave: Localized Tactile Feedback in a Soft Haptic Interface via Focused Elastic Waves</a> by Gregory Reardon, Nikolas Kastor, Yitian Shao, and Yon Visell<br>
 </div>
 <div>
-<iframe width="350" height="197" src="https://www.youtube.com/embed/Px9kizp2K4k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-<a href="https://doi.org/10.1109/TOH.2020.2970056">Fluidic haptic interface for mechano-tactile feedback</a> by Ge Shi et al.<br>
-</div>
-<div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/PiivyGbJWQM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 <a href="https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.7.ec43f6a7">Time-Dependent Cues Encode the Minimum Exploration Time in Discriminating Naturalistic Compliances</a> by Chang Xu and Gregory J. Gerling<br>
 </div>
 <div>
+<iframe width="350" height="197" src="https://www.youtube.com/embed/Px9kizp2K4k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+<a href="https://doi.org/10.1109/TOH.2020.2970056">Fluidic haptic interface for mechano-tactile feedback</a> by Ge Shi et al.<br>
+</div>
+<div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/2uAtuNAhdsE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-<a href="http://doi.org/10.1109/TOH.2020.2966704">Effect of Material Hardness on Friction Between a Bare Finger and Dry and Lubricated Artificial Skin</a> by Koki Inoue, Shogo Okamoto, Yasuhiro Akiyama, and Yoji Yamada<br>
+<a href="https://doi.org/10.1109/TOH.2020.2966704">Effect of Material Hardness on Friction Between a Bare Finger and Dry and Lubricated Artificial Skin</a> by Koki Inoue, Shogo Okamoto, Yasuhiro Akiyama, and Yoji Yamada<br>
 </div>
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/_O3YltHiuEM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-<a href="10.1109/HAPTICS45997.2020.ras.HAP20.22.5a9b38d8">Identifying 3-D Spatiotemporal Skin Deformation Cues Evoked in Interacting with Compliant Elastic Surfaces</a> by Bingxu Li, Steven Hauser and Gregory J. Gerling<br>
+<a href="https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.34.8ad689d4">Identifying 3-D Spatiotemporal Skin Deformation Cues Evoked in Interacting with Compliant Elastic Surfaces</a> by Bingxu Li, Steven Hauser and Gregory J. Gerling<br>
 </div>
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-<a href="">Mid-Air Action Contributes to Pseudo-Haptic Stiffness Effects</a> by Takahiro Kawabe<br>
+<a href="https://doi.org/10.1109/TOH.2019.2961883">Mid-Air Action Contributes to Pseudo-Haptic Stiffness Effects</a> by Takahiro Kawabe<br>
 </div>
 </div>
 <h2>Oral Session 2A: Haptic Rendering</h2>
 
 <div class="flex-container">
 <div>
+<iframe width="350" height="197" src="https://www.youtube.com/embed/4zqhuDM2MOY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+<a href="https://doi.org/10.1109/TOH.2019.2963647">Path Routing Optimization for STM Ultrasound Rendering</a> by Hector Barreiro, Stephen Sinclair and Miguel A. Otaduy<br>
+</div>
+<div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/s6gatH-ScSw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-<a href="http://doi.org/10.1109/TOH.2020.2972350">Closed loop application of electroadhesion for increased precision in texture rendering</a> by Roman Grigorii and Edward Colgate<br>
+<a href="https://doi.org/10.1109/TOH.2020.2972350">Closed loop application of electroadhesion for increased precision in texture rendering</a> by Roman Grigorii and Edward Colgate<br>
 </div>
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/udvXPLBCo5o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
@@ -57,11 +61,7 @@ title: Program Test
 </div>
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/msagKSdbL_U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-<a href="doi: 10.1109/TOH.2019.2962446">Subjective Evaluation of the Spectral Temporal SIMilarity (ST-SIM) Measure for Vibrotactile Quality Assessment</a> by Rania Hassen and Eckehard Steinbach<br>
-</div>
-<div>
-<iframe width="350" height="197" src="https://www.youtube.com/embed/4zqhuDM2MOY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-<a href="https://doi.org/10.1109/TOH.2019.2963647">Path Routing Optimization for STM Ultrasound Rendering</a> by Hector Barreiro, Stephen Sinclair and Miguel A. Otaduy<br>
+<a href="https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.23.0f334629">Subjective Evaluation of the Spectral Temporal SIMilarity (ST-SIM) Measure for Vibrotactile Quality Assessment</a> by Rania Hassen and Eckehard Steinbach<br>
 </div>
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/hCRA5dIRS3I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
@@ -69,7 +69,7 @@ title: Program Test
 </div>
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/BOkkDdHfPIc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-<a href="http://doi.org/10.1109/TOH.2020.2965946">Reducing Amplitude Fluctuation by Gradual Phase Shift in Midair Ultrasound Haptics</a> by Shun Suzuki, Masahiro Fujiwara, Yasutoshi Makino, and Hiroyuki Shinoda<br>
+<a href="https://doi.org/10.1109/TOH.2020.2965946">Reducing Amplitude Fluctuation by Gradual Phase Shift in Midair Ultrasound Haptics</a> by Shun Suzuki, Masahiro Fujiwara, Yasutoshi Makino, and Hiroyuki Shinoda<br>
 </div>
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/v8TkBNH4KGc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
@@ -89,7 +89,7 @@ title: Program Test
 </div>
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/NtzirmaMK4w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-<a href="10.1109/HAPTICS45997.2020.ras.HAP20.20.95bee409">Estimation of Upper-Limb Energy Absorption Capabilities for Stable Human-Robot Interactions</a> by Andres Ramos and Keyvan Hashtrudi-Zaad<br>
+<a href="https://doi.org/10.1109/TOH.2019.2962664">Estimation of Upper-Limb Energy Absorption Capabilities for Stable Human-Robot Interactions</a> by Andres Ramos and Keyvan Hashtrudi-Zaad<br>
 </div>
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/Kl4uPmxZcZE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
@@ -97,15 +97,15 @@ title: Program Test
 </div>
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/FSHrjr0cxQU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-<a href=" doi: 10.1109/HAPTICS45997.2020.ras.H https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.31.f7ecf8e2AP20.31.f7ecf8e2.">Prefatory Study of the Effects of Exploration Dynamics on Stiffness Perception</a> by Mohit Singhala and Jeremy DeLaine Brown<br>
+<a href="https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.31.f7ecf8e2">Prefatory Study of the Effects of Exploration Dynamics on Stiffness Perception</a> by Mohit Singhala and Jeremy DeLaine Brown<br>
 </div>
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/TkuwfQmWqkM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-<a href="10.1109/HAPTICS45997.2020.ras.HAP20.18.6a51e1e1">Adaptive Packet Rate Control for the Mitigation of Bursty Haptic Traffic in Teleoperation Systems</a> by Ming Gui, Xiao Xu and Eckehard Steinbach<br>
+<a href="https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.18.6a51e1e1">Adaptive Packet Rate Control for the Mitigation of Bursty Haptic Traffic in Teleoperation Systems</a> by Ming Gui, Xiao Xu and Eckehard Steinbach<br>
 </div>
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/x7hKJhNvaws" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-<a href=" https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.24.f5c34a19">Haptic Object Parameter Estimation During Within-Hand-Manipulation with a Simple Robot Gripper</a> by Delara Mohtasham, Gokul narayanan Sathya narayanan, Berk Calli, and Adam Spiers<br>
+<a href="https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.24.f5c34a19">Haptic Object Parameter Estimation During Within-Hand-Manipulation with a Simple Robot Gripper</a> by Delara Mohtasham, Gokul narayanan Sathya narayanan, Berk Calli, and Adam Spiers<br>
 </div>
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/ N3Y7iSCYx_0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
@@ -117,11 +117,11 @@ title: Program Test
 <div class="flex-container">
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/FLk4PFlLIxQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-<a href="http://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.35.f631355d">Investigating Social Haptic Illusions for Tactile Stroking (SHIFTS)</a> by Cara M. Nunez, Bryce N. Huerta, Allison M. Okamura, and Heather Culbertson<br>
+<a href="https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.35.f631355d">Investigating Social Haptic Illusions for Tactile Stroking (SHIFTS)</a> by Cara M. Nunez, Bryce N. Huerta, Allison M. Okamura, and Heather Culbertson<br>
 </div>
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/qXGWPH2pqcs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-<a href="N\A">Investigating Electrotactile Feedback on the Hand</a> by Yosuef Alotaibi, Stephen Brewster and John H. Williamson<br>
+<a href="https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.13.8ee5dc37">Investigating Electrotactile Feedback on the Hand</a> by Yosuef Alotaibi, Stephen Brewster and John H. Williamson<br>
 </div>
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/OKN46UT9jDg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
@@ -144,7 +144,7 @@ title: Program Test
 <a href="https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.15.f6b89d66">Preliminary Investigation of Across-Body Vibrotactile Pattern for the Design of Affective Furniture</a> by Yurike Chandra, Benjamin Tag, Roshan Peiris, and Kouta Minamizawa<br>
 </div>
 <div>
-<iframe width="350" height="197" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=ez6lttgu_EI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+<iframe width="350" height="197" src="https://www.youtube.com/embed/ez6lttgu_EI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 <a href="">The calming effect of heartbeat vibration </a> by Yizhen Zhou and Aiko Murata and Junji Watanabe<br>
 </div>
 </div>
@@ -164,44 +164,48 @@ title: Program Test
 <a href="https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.33.99093c10">Contact-Free Nonplanar Haptics with a Spherical Electromagnet</a> by Juan Jose Zarate, Thomas Langerak, Bernhard Thomaszewski, and Otmar Hilliges<br>
 </div>
 <div>
-<iframe width="350" height="197" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=hflpwgsrSks" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-<a href="http://doi.org/10.1109/TOH.2020.2970906">Impact of Kinematic Structure on the Force Displayability of Planar Passive Haptic Devices</a> by Maciej Lacki, Brayden DeBoon and Carlos Rossa<br>
+<iframe width="350" height="197" src="https://www.youtube.com/embed/hflpwgsrSks" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+<a href="https://doi.org/10.1109/TOH.2020.2970906">Impact of Kinematic Structure on the Force Displayability of Planar Passive Haptic Devices</a> by Maciej Lacki, Brayden DeBoon and Carlos Rossa<br>
 </div>
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/MbQv6CnW3RM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-<a href="https://doi-org.proxy.queensu.ca/10.1109/HAPTICS45997.2020.ras.HAP20.27.fb93aa04">Effect of Direct Velocity Measurement on the Stability of Haptic Simulation Systems</a> by Victor Alejandro Luna Laija, Pembe Gizem Ozdil and Keyvan Hashtrudi-Zaad<br>
+<a href="https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.27.fb93aa04">Effect of Direct Velocity Measurement on the Stability of Haptic Simulation Systems</a> by Victor Alejandro Luna Laija, Pembe Gizem Ozdil and Keyvan Hashtrudi-Zaad<br>
 </div>
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/EAZu3J9iITE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-<a href="">Respecting the Coupled Dynamics: Haptic Feedback Carries Both Power and Information</a> by Steven Cutlip, Jim Freudenberg and Brent Gillespie<br>
+<a href="https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.10.e37f63b1">Respecting the Coupled Dynamics: Haptic Feedback Carries Both Power and Information</a> by Steven Cutlip, Jim Freudenberg and Brent Gillespie<br>
 </div>
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/hI7e9yJE9hI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-<a href="">Evidence of Sensory Adaptation to Kinaesthetic Sensations in the Human Somatosensory System</a> by Antoine Weill--Duflos, Sophia Sakr, Dogan Sinan HALIYO, and Stéphane Régnier<br>
+<a href="https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.21.03302a8d">Evidence of Sensory Adaptation to Kinaesthetic Sensations in the Human Somatosensory System</a> by Antoine Weill--Duflos, Sophia Sakr, Dogan Sinan HALIYO, and Stéphane Régnier<br>
 </div>
 <div>
-<iframe width="350" height="197" src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-<a href="">Efficacy of Haptic Pedal Feel Compensation on Driving with Regenerative Braking</a> by umut caliskan and Volkan Patoglu<br>
+<iframe width="350" height="197" src="https://www.youtube.com/embed/DMwTpdplY8Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+<a href="https://doi.org/10.1109/TOH.2020.2967394">Efficacy of Haptic Pedal Feel Compensation on Driving with Regenerative Braking</a> by umut caliskan and Volkan Patoglu<br>
 </div>
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/6-vrOkVl5Fs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-<a href="http://doi.org/10.1109/TOH.2020.2970912">Compact Series Visco-Elastic Joint (SVEJ) for Smooth Torque Control</a> by Domenico Chiaradia, Luca Tiseni and Antonio Frisoli<br>
+<a href="https://doi.org/10.1109/TOH.2020.2970912">Compact Series Visco-Elastic Joint (SVEJ) for Smooth Torque Control</a> by Domenico Chiaradia, Luca Tiseni and Antonio Frisoli<br>
 </div>
 </div>
 <h2>Oral Session 4B: Neuroscience and Biomechanics</h2>
 
 <div class="flex-container">
 <div>
+<iframe width="350" height="197" src="https://www.youtube.com/embed/47aAdPQ-WRo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+<a href=" https://doi.org/10.1109/TOH.2020.2970927">On the Role of Lateral Force in Texture-Induced Motion Bias During Reaching Tasks</a> by Gemma Carolina Bettelani, Alessandro Moscatelli and Matteo Bianchi<br>
+</div>
+<div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/_OeHqViohRQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-<a href="http://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.19.f2b7107a">Changes in Normal Force During Passive Dynamic Touch: Contact Mechanics and Perception</a> by David Gueorguiev, JULIEN LAMBERT, Jean-Louis Thonnard, and Katherine J. Kuchenbecker<br>
+<a href="https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.19.f2b7107a">Changes in Normal Force During Passive Dynamic Touch: Contact Mechanics and Perception</a> by David Gueorguiev, JULIEN LAMBERT, Jean-Louis Thonnard, and Katherine J. Kuchenbecker<br>
 </div>
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/fvKKKuSH1SE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 <a href="https://doi.org/10.1109/TOH.2019.2959767">Tactile Exploration Strategies with Natural Compliant Objects Elicit Virtual Stiffness Cues</a> by Chang Xu, Hankun He, Steven Hauser, and Gregory J. Gerling<br>
 </div>
 <div>
-<iframe width="350" height="197" src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-<a href="">The Effect of Contact Surface Curvature on the Accuracy of Fingernail Imaging for Tactile Force Measurement</a> by Navid Fallahinia and Stephen Mascaro<br>
+<iframe width="350" height="197" src="https://www.youtube.com/embed/In1x7sCEusU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+<a href="https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.14.cecd307b">The Effect of Contact Surface Curvature on the Accuracy of Fingernail Imaging for Tactile Force Measurement</a> by Navid Fallahinia and Stephen Mascaro<br>
 </div>
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/pSKVjoeXOaw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
@@ -209,11 +213,7 @@ title: Program Test
 </div>
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/6YAq6D5kyVs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-<a href="10.1109/HAPTICS45997.2020.ras.HAP20.16.8d90d0bd">Detection of Tactile Feedback on Touch-Screen Devices Using EEG Data</a> by Haneen Alsuradi, Chaitali Pawar, Wanjoo Park, and Mohamad Eid<br>
-</div>
-<div>
-<iframe width="350" height="197" src="https://www.youtube.com/embed/47aAdPQ-WRo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-<a href=" http://doi.org/10.1109/TOH.2020.2970927">On the Role of Lateral Force in Texture-Induced Motion Bias During Reaching Tasks</a> by Gemma Carolina Bettelani, Alessandro Moscatelli and Matteo Bianchi<br>
+<a href="https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.16.8d90d0bd">Detection of Tactile Feedback on Touch-Screen Devices Using EEG Data</a> by Haneen Alsuradi, Chaitali Pawar, Wanjoo Park, and Mohamad Eid<br>
 </div>
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/wfM5XF6oUlA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
@@ -225,7 +225,7 @@ title: Program Test
 </div>
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-<a href="">Relationship between spatial variations in static skin deformation and perceived roughness of macroscopic surfaces</a> by Shogo Okamoto and Ariei Oishi<br>
+<a href="https://doi.org/10.1109/TOH.2020.2964538">Relationship between spatial variations in static skin deformation and perceived roughness of macroscopic surfaces</a> by Shogo Okamoto and Ariei Oishi<br>
 </div>
 </div>
 <h2>Oral Session 5: Haptic Displays</h2>
@@ -233,7 +233,7 @@ title: Program Test
 <div class="flex-container">
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/QtovA48V2DM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-<a href="http://dx.doi.org/10.1109/TOH.2019.2963028">PUMAH : Pan-tilt Ultrasound Mid-Air Haptics for larger interaction workspace in virtual reality</a> by Thomas Howard, Maud Marchal, Anatole Lecuyer, and Claudio Pacchierotti<br>
+<a href="https:/doi.org/10.1109/TOH.2019.2963028">PUMAH : Pan-tilt Ultrasound Mid-Air Haptics for larger interaction workspace in virtual reality</a> by Thomas Howard, Maud Marchal, Anatole Lecuyer, and Claudio Pacchierotti<br>
 </div>
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/KkOeic7HhvM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
@@ -245,11 +245,11 @@ title: Program Test
 </div>
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/OPMHdhEn8FA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-<a href=" http://doi.org/10.1109/TOH.2020.2970929">Design and Validation of the Readable Device: a single-cell Electromagnetic Refreshable Braille Display</a> by Gemma Carolina Bettelani, Giuseppe Averta, Manuel Giuseppe Catalano, Barbara Leporini, and Matteo Bianchi<br>
+<a href="https://doi.org/10.1109/TOH.2020.2970929">Design and Validation of the Readable Device: a single-cell Electromagnetic Refreshable Braille Display</a> by Gemma Carolina Bettelani, Giuseppe Averta, Manuel Giuseppe Catalano, Barbara Leporini, and Matteo Bianchi<br>
 </div>
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/9XcCT_LeUGY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-<a href="https://ieeexplore.ieee.org/document/8952768/">Braille Display for Portable Device Using Flip-Latch Structured Electromagnetic Actuator</a> by Joonyeong Kim, Byung-Kil Han, Dongbum Pyo, Semin Ryu, Hanbyeol Kim, and Dong-Soo Kwon<br>
+<a href="https://doi.org/10.1109/TOH.2019.2963858">Braille Display for Portable Device Using Flip-Latch Structured Electromagnetic Actuator</a> by Joonyeong Kim, Byung-Kil Han, Dongbum Pyo, Semin Ryu, Hanbyeol Kim, and Dong-Soo Kwon<br>
 </div>
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/PzQbHAJUNnY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
@@ -260,8 +260,16 @@ title: Program Test
 
 <div class="flex-container">
 <div>
+<iframe width="350" height="197" src="https://www.youtube.com/embed/6DFlP80zBpE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+<a href="https://doi.org/10.1109/TOH.2020.2966483">Dimensional Reduction for 6D Vibrotactile Display</a> by Ruisi Zhang<br>
+</div>
+<div>
+<iframe width="350" height="197" src="https://www.youtube.com/embed/8vIyeMrZ0so" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+<a href="https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.80.00957e94">Vibrator Transparency: Re-using Vibrotactile Signal Assets for Different Black Box Vibrators without Re-designing </a> by Yusuke Ujitoko, Koichi Hirota and Sho Sakurai<br>
+</div>
+<div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/IeuBGgIzInc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-<a href="10.1109/HAPTICS45997.2020.ras.HAP20.9.699b3778">The Predictive Perception of Dynamic Vibrotactile Stimuli Applied to the Fingertip</a> by John de Grosbois, Massimiliano Di Luca, Raymond King, and Mounia Ziat<br>
+<a href="https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.9.699b3778">The Predictive Perception of Dynamic Vibrotactile Stimuli Applied to the Fingertip</a> by John de Grosbois, Massimiliano Di Luca, Raymond King, and Mounia Ziat<br>
 </div>
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/yVSPA6rKN18" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
@@ -276,20 +284,12 @@ title: Program Test
 <a href="https://doi.org/10.1109/TOH.2020.2966192">Towards Multisensory Perception: Modeling and Rendering Sounds of Tool-Surface Interactions</a> by Shihan Lu, Yang Chen and Heather Culbertson<br>
 </div>
 <div>
-<iframe width="350" height="197" src="https://www.youtube.com/embed/6DFlP80zBpE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-<a href="https://doi.org/10.1109/TOH.2020.2966483">Dimensional Reduction for 6D Vibrotactile Display</a> by Ruisi Zhang<br>
-</div>
-<div>
-<iframe width="350" height="197" src="https://www.youtube.com/embed/8vIyeMrZ0so" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-<a href="https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.80.00957e94">Vibrator Transparency: Re-using Vibrotactile Signal Assets for Different Black Box Vibrators without Re-designing </a> by Yusuke Ujitoko, Koichi Hirota and Sho Sakurai<br>
-</div>
-<div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-<a href="">Edge Vibration Improves Ability to Discriminate Roughness Difference of Adjoining Areas</a> by Yuki Ban, Yusuke Ujitoko and Kouta Minamizawa<br>
+<a href="https://doi.org/10.1109/TOH.2020.2970057">Edge Vibration Improves Ability to Discriminate Roughness Difference of Adjoining Areas</a> by Yuki Ban, Yusuke Ujitoko and Kouta Minamizawa<br>
 </div>
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/sNP4D-7uc4o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-<a href="doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.5.08241ef4">Multi-Fingertip Vibrotactile Array Interface for 3D Virtual Interaction</a> by Siyeon Baik, IlHwan Han, Jung-Min Park, and Jaeyoung Park<br>
+<a href="https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.5.08241ef4">Multi-Fingertip Vibrotactile Array Interface for 3D Virtual Interaction</a> by Siyeon Baik, IlHwan Han, Jung-Min Park, and Jaeyoung Park<br>
 </div>
 </div>
 <h2>Oral Session 6B: Medical Haptics</h2>
@@ -301,7 +301,7 @@ title: Program Test
 </div>
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/nQGGIINoNHo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-<a href="http://doi.org/10.1109/TOH.2020.2968446">Soft Pneumatic Actuator for Rendering Anal Sphincter Tone</a> by Reza Haghighi Osgouei, Luc Marechal, Christos Kontovounisios, and Fernando Bello<br>
+<a href="https://doi.org/10.1109/TOH.2020.2968446">Soft Pneumatic Actuator for Rendering Anal Sphincter Tone</a> by Reza Haghighi Osgouei, Luc Marechal, Christos Kontovounisios, and Fernando Bello<br>
 </div>
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/KPBdN761pE0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
@@ -309,7 +309,7 @@ title: Program Test
 </div>
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/gqKqg1OGtPM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-<a href=" https://doi.org/10.1109/TOH.2020.2967375">Enabling In-Bore MRI-Guided Biopsies with Force Feedback</a> by Samuel Frishman, Ali Kight, Ileana Pirozzi, Mela Camille Coffey, Bruce Daniel, and Mark Cutkosky<br>
+<a href="https://doi.org/10.1109/TOH.2020.2967375">Enabling In-Bore MRI-Guided Biopsies with Force Feedback</a> by Samuel Frishman, Ali Kight, Ileana Pirozzi, Mela Camille Coffey, Bruce Daniel, and Mark Cutkosky<br>
 </div>
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/jmiUkRzfDpc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
@@ -321,7 +321,7 @@ title: Program Test
 </div>
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/bq17-XXpQC4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-<a href="10.1109/HAPTICS45997.2020.ras.HAP20.156.6c3cc0bf">Exploring the Effectiveness of Haptic Alarm Displays for Critical Care Environments </a> by Parisa Alirezaee, Antoine Weill–Duﬂos, Joseph J. Schlesinger, and and Jeremy R. Cooperstock<br>
+<a href="https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.156.6c3cc0bf">Exploring the Effectiveness of Haptic Alarm Displays for Critical Care Environments </a> by Parisa Alirezaee, Antoine Weill–Duﬂos, Joseph J. Schlesinger, and and Jeremy R. Cooperstock<br>
 </div>
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/wjtvHGUipl0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
@@ -333,15 +333,15 @@ title: Program Test
 <div class="flex-container">
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/44RM8j0vMbQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-<a href="http://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.3.3eea0b25">Hand Guidance Using Grasping Metaphor and Wearable Haptics</a> by Tommaso Lisini Baldi, Nicole D'Aurizio and Domenico Prattichizzo<br>
+<a href="https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.3.3eea0b25">Hand Guidance Using Grasping Metaphor and Wearable Haptics</a> by Tommaso Lisini Baldi, Nicole D'Aurizio and Domenico Prattichizzo<br>
 </div>
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/GgCvRka5iNo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-<a href="doi.org/10.1109/TOH.2019.2962664">Enhancing Physical Human Evasion of Moving Threats Using Tactile Cues</a> by Aakash Bajpai, Justine Powell, Aaron Young, and Anirban Mazumdar<br>
+<a href="https://doi.org/10.1109/TOH.2019.2962664">Enhancing Physical Human Evasion of Moving Threats Using Tactile Cues</a> by Aakash Bajpai, Justine Powell, Aaron Young, and Anirban Mazumdar<br>
 </div>
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/hT2Ft6jUcZA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-<a href="">Spatially Separated Cutaneous Haptic Guidance for Training of a Virtual Sensorimotor Task</a> by Casimir Smith, Evan Pezent and Marcia O'Malley<br>
+<a href="https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.11.2032900c">Spatially Separated Cutaneous Haptic Guidance for Training of a Virtual Sensorimotor Task</a> by Casimir Smith, Evan Pezent and Marcia O'Malley<br>
 </div>
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/3fOeuk05mMg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
@@ -353,6 +353,6 @@ title: Program Test
 </div>
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/0tTfRHA1VUE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-<a href="http://doi.org/10.1109/TOH.2020.2965937">Pseudo-sensation of Walking Generated by Passive Whole-body Motions in Heave and Yaw Directions</a> by Tomohiro Amemiya, Michiteru Kitazaki and Yasushi Ikei<br>
+<a href="https://doi.org/10.1109/TOH.2020.2965937">Pseudo-sensation of Walking Generated by Passive Whole-body Motions in Heave and Yaw Directions</a> by Tomohiro Amemiya, Michiteru Kitazaki and Yasushi Ikei<br>
 </div>
 </div>
