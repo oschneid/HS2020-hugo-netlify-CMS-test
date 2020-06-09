@@ -40,11 +40,7 @@ title: Program Test
 <a href="https://doi.org/10.1109/TOH.2019.2960021" target"_blank">Phase difference between normal and shear forces during tactile exploration represents textural features</a> by Hikaru Hasegawa, Shogo Okamoto and Yoji Yamada<br>
 </div>
 <div>
-<iframe width="350" height="197" src="https://www.youtube.com/embed/vB2I9rlURiE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-<a href="https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.158.b8032225" target"_blank">Three-dimensional Measurement of Skin Displacement Using Index Matching and Stereoscopy </a> by Satoshi Tanaka, Seitaro Kaneko and and Hiroyuki Kajimoto<br>
-</div>
-<div>
-<img width="349" height="196" src="/img/novideo.png"><br>
+<img width="348" height="196" src="/img/novideo.png"><br>
 <a href="https://doi.org/10.1109/TOH.2020.2964538" target"_blank">Relationship between spatial variations in static skin deformation and perceived roughness of macroscopic surfaces</a> by Shogo Okamoto and Ariei Oishi<br>
 </div>
 </div>
