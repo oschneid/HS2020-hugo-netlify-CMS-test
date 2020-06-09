@@ -243,7 +243,7 @@ title: Technical Papers & ToH Short Papers
 <div class="flex-container">
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/QtovA48V2DM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-<a href="https:/doi.org/10.1109/TOH.2019.2963028" target="_blank">PUMAH : Pan-tilt Ultrasound Mid-Air Haptics for larger interaction workspace in virtual reality</a> by Thomas Howard, Maud Marchal, Anatole Lecuyer, and Claudio Pacchierotti<br>
+<a href="https://doi.org/10.1109/TOH.2019.2963028" target="_blank">PUMAH : Pan-tilt Ultrasound Mid-Air Haptics for larger interaction workspace in virtual reality</a> by Thomas Howard, Maud Marchal, Anatole Lecuyer, and Claudio Pacchierotti<br>
 </div>
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/KkOeic7HhvM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
