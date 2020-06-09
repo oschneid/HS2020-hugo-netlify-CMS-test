@@ -36,11 +36,11 @@ title: Program Test
 <a href="https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.16.8d90d0bd" target"_blank">Detection of Tactile Feedback on Touch-Screen Devices Using EEG Data</a> by Haneen Alsuradi, Chaitali Pawar, Wanjoo Park, and Mohamad Eid<br>
 </div>
 <div>
-<iframe width="350" height="197" src="https://www.youtube.com/embed/wfM5XF6oUlA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+<iframe width="350" height="197" src="/img/novideo.png"></iframe><br>
 <a href="https://doi.org/10.1109/TOH.2019.2960021" target"_blank">Phase difference between normal and shear forces during tactile exploration represents textural features</a> by Hikaru Hasegawa, Shogo Okamoto and Yoji Yamada<br>
 </div>
 <div>
-<img width="340" height="197" src="/img/novideo.png"><br>
+<img width="350" height="197" src="/img/novideo.png"><br>
 <a href="https://doi.org/10.1109/TOH.2020.2964538" target"_blank">Relationship between spatial variations in static skin deformation and perceived roughness of macroscopic surfaces</a> by Shogo Okamoto and Ariei Oishi<br>
 </div>
 </div>
