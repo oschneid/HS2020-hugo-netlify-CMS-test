@@ -108,7 +108,7 @@ title: Technical Papers & ToH Short Papers
 <a href="https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.24.f5c34a19" target"_blank">Haptic Object Parameter Estimation During Within-Hand-Manipulation with a Simple Robot Gripper</a> by Delara Mohtasham, Gokul narayanan Sathya narayanan, Berk Calli, and Adam Spiers<br>
 </div>
 <div>
-<iframe width="350" height="197" src="https://www.youtube.com/embed/ N3Y7iSCYx_0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+<iframe width="350" height="197" src="https://www.youtube.com/embed/N3Y7iSCYx_0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 <a href="https://doi.org/10.1109/TOH.2020.2966485" target"_blank">Haptic Teleoperation of UAVs through Control Barrier Functions</a> by Dawei Zhang, Guang Yang and Rebecca Khurshid<br>
 </div>
 </div><br>
