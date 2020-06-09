@@ -36,7 +36,7 @@ title: Program Test
 <a href="https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.34.8ad689d4" target"_blank">Identifying 3-D Spatiotemporal Skin Deformation Cues Evoked in Interacting with Compliant Elastic Surfaces</a> by Bingxu Li, Steven Hauser and Gregory J. Gerling<br>
 </div>
 <div>
-<iframe width="350" height="197" src="/img/novideo.png" frameborder="0"></iframe><br>
+<img width="350" height="197" src="/img/novideo.png"><br>
 <a href="https://doi.org/10.1109/TOH.2019.2961883" target"_blank">Mid-Air Action Contributes to Pseudo-Haptic Stiffness Effects</a> by Takahiro Kawabe<br>
 </div>
 </div>
@@ -224,7 +224,7 @@ title: Program Test
 <a href="https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.158.b8032225" target"_blank">Three-dimensional Measurement of Skin Displacement Using Index Matching and Stereoscopy </a> by Satoshi Tanaka, Seitaro Kaneko and and Hiroyuki Kajimoto<br>
 </div>
 <div>
-<iframe width="350" height="197" src="/img/novideo.png" frameborder="0"></iframe><br>
+<img width="350" height="197" src="/img/novideo.png"><br>
 <a href="https://doi.org/10.1109/TOH.2020.2964538" target"_blank">Relationship between spatial variations in static skin deformation and perceived roughness of macroscopic surfaces</a> by Shogo Okamoto and Ariei Oishi<br>
 </div>
 </div>
@@ -284,7 +284,7 @@ title: Program Test
 <a href="https://doi.org/10.1109/TOH.2020.2966192" target"_blank">Towards Multisensory Perception: Modeling and Rendering Sounds of Tool-Surface Interactions</a> by Shihan Lu, Yang Chen and Heather Culbertson<br>
 </div>
 <div>
-<iframe width="350" height="197" src="/img/novideo.png" frameborder="0"></iframe><br>
+<img width="350" height="197" src="/img/novideo.png"><br>
 <a href="https://doi.org/10.1109/TOH.2020.2970057" target"_blank">Edge Vibration Improves Ability to Discriminate Roughness Difference of Adjoining Areas</a> by Yuki Ban, Yusuke Ujitoko and Kouta Minamizawa<br>
 </div>
 <div>
