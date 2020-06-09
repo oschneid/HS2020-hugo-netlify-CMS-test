@@ -284,7 +284,7 @@ title: Program Test
 <a href="https://doi.org/10.1109/TOH.2020.2966192" target"_blank">Towards Multisensory Perception: Modeling and Rendering Sounds of Tool-Surface Interactions</a> by Shihan Lu, Yang Chen and Heather Culbertson<br>
 </div>
 <div>
-<img src="/img/novideo.png" width="350" height="197"></img><br>
+<img src="/img/novideo.png" width="350" height="197"></img>
 <a href="https://doi.org/10.1109/TOH.2020.2970057" target"_blank">Edge Vibration Improves Ability to Discriminate Roughness Difference of Adjoining Areas</a> by Yuki Ban, Yusuke Ujitoko and Kouta Minamizawa<br>
 </div>
 <div>
