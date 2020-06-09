@@ -8,6 +8,8 @@ title: Technical Papers & ToH Short Papers
 .flex-container > div { width: 350px; margin: 10px;}
 </style>
 
+<a href="#4A">Oral Session 4A</a>
+
 <h2>Oral Session 1: Softness and Soft Haptics</h2>
 
 <div class="flex-container">
@@ -148,6 +150,7 @@ title: Technical Papers & ToH Short Papers
 <a href="" target"_blank">The calming effect of heartbeat vibration </a> by Yizhen Zhou and Aiko Murata and Junji Watanabe<br>
 </div>
 </div><br>
+<a id="4A">
 <h2>Oral Session 4A: Force Feedback</h2>
 
 <div class="flex-container">
