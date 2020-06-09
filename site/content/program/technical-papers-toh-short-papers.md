@@ -99,7 +99,7 @@ title: Technical Papers & ToH Short Papers
 </div>
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/NtzirmaMK4w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-<a href="https://doi.org/10.1109/TOH.2019.2962664" target="_blank">Estimation of Upper-Limb Energy Absorption Capabilities for Stable Human-Robot Interactions</a> by Andres Ramos and Keyvan Hashtrudi-Zaad<br>
+<a href="https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.20.95bee409" target="_blank">Estimation of Upper-Limb Energy Absorption Capabilities for Stable Human-Robot Interactions</a> by Andres Ramos and Keyvan Hashtrudi-Zaad<br>
 </div>
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/Kl4uPmxZcZE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
