@@ -8,9 +8,17 @@ title: Technical Papers & ToH Short Papers
 .flex-container > div { width: 350px; margin: 10px;}
 </style>
 
-<a href="#4A">Oral Session 4A</a>
-
-<h2>Oral Session 1: Softness and Soft Haptics</h2>
+<a href="#1">Oral Session 1: Softness and Soft Haptics</a><br>
+<a href="#2A">Oral Session 2A: Haptic Rendering</a><br>
+<a href="#2B">Oral Session 2B: Teleoperation</a><br>
+<a href="#3">Oral Session 3: Affective Haptics</a><br>
+<a href="#4A">Oral Session 4A: Force Feedback</a><br>
+<a href="#4B">Oral Session 4B: Neuroscience and Biomechanics</a><br>
+<a href="#5">Oral Session 5: Haptic Displays</a><br>
+<a href="#6A">Oral Session 6A: Vibrotactile Feedback</a><br>
+<a href="#6B">Oral Session 6B: Medical Haptics</a><br>
+<a href="#7">Oral Session 7: Haptic Cues and Guidance</a><br>
+<h2 id="1">Oral Session 1: Softness and Soft Haptics</h2>
 
 <div class="flex-container">
 <div>
@@ -42,7 +50,7 @@ title: Technical Papers & ToH Short Papers
 <a href="https://doi.org/10.1109/TOH.2019.2961883" target"_blank">Mid-Air Action Contributes to Pseudo-Haptic Stiffness Effects</a> by Takahiro Kawabe<br>
 </div>
 </div><br>
-<h2>Oral Session 2A: Haptic Rendering</h2>
+<h2 id="2A">Oral Session 2A: Haptic Rendering</h2>
 
 <div class="flex-container">
 <div>
@@ -78,7 +86,7 @@ title: Technical Papers & ToH Short Papers
 <a href="https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.17.61243dc4" target"_blank">Virtual Bumps Display Based on Electrical Muscle Stimulation</a> by Takaya Ishimaru and Satoshi Saga<br>
 </div>
 </div><br>
-<h2>Oral Session 2B: Teleoperation</h2>
+<h2 id="2B">Oral Session 2B: Teleoperation</h2>
 
 <div class="flex-container">
 <div>
@@ -114,7 +122,7 @@ title: Technical Papers & ToH Short Papers
 <a href="https://doi.org/10.1109/TOH.2020.2966485" target"_blank">Haptic Teleoperation of UAVs through Control Barrier Functions</a> by Dawei Zhang, Guang Yang and Rebecca Khurshid<br>
 </div>
 </div><br>
-<h2>Oral Session 3: Affective Haptics</h2>
+<h2 id="3">Oral Session 3: Affective Haptics</h2>
 
 <div class="flex-container">
 <div>
@@ -150,7 +158,6 @@ title: Technical Papers & ToH Short Papers
 <a href="" target"_blank">The calming effect of heartbeat vibration </a> by Yizhen Zhou and Aiko Murata and Junji Watanabe<br>
 </div>
 </div><br>
-
 <h2 id="4A">Oral Session 4A: Force Feedback</h2>
 
 <div class="flex-container">
@@ -191,7 +198,7 @@ title: Technical Papers & ToH Short Papers
 <a href="https://doi.org/10.1109/TOH.2020.2970912" target"_blank">Compact Series Visco-Elastic Joint (SVEJ) for Smooth Torque Control</a> by Domenico Chiaradia, Luca Tiseni and Antonio Frisoli<br>
 </div>
 </div><br>
-<h2>Oral Session 4B: Neuroscience and Biomechanics</h2>
+<h2 id="4B">Oral Session 4B: Neuroscience and Biomechanics</h2>
 
 <div class="flex-container">
 <div>
@@ -231,7 +238,7 @@ title: Technical Papers & ToH Short Papers
 <a href="https://doi.org/10.1109/TOH.2020.2964538" target"_blank">Relationship between spatial variations in static skin deformation and perceived roughness of macroscopic surfaces</a> by Shogo Okamoto and Ariei Oishi<br>
 </div>
 </div><br>
-<h2>Oral Session 5: Haptic Displays</h2>
+<h2 id="5">Oral Session 5: Haptic Displays</h2>
 
 <div class="flex-container">
 <div>
@@ -259,7 +266,7 @@ title: Technical Papers & ToH Short Papers
 <a href="https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.4.b5d4a51b" target"_blank">StickyTouch: A Tactile Display with Changeable Adhesive Distribution</a> by Yoshitaka Ishihara, Yuichi Itoh, Ryo Shirai, Kazuyuki Fujita, Kazuki Takashima, and Takao Onoye<br>
 </div>
 </div><br>
-<h2>Oral Session 6A: Vibrotactile Feedback</h2>
+<h2 id="6A">Oral Session 6A: Vibrotactile Feedback</h2>
 
 <div class="flex-container">
 <div>
@@ -295,7 +302,7 @@ title: Technical Papers & ToH Short Papers
 <a href="https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.5.08241ef4" target"_blank">Multi-Fingertip Vibrotactile Array Interface for 3D Virtual Interaction</a> by Siyeon Baik, IlHwan Han, Jung-Min Park, and Jaeyoung Park<br>
 </div>
 </div><br>
-<h2>Oral Session 6B: Medical Haptics</h2>
+<h2 id="6B">Oral Session 6B: Medical Haptics</h2>
 
 <div class="flex-container">
 <div>
@@ -331,7 +338,7 @@ title: Technical Papers & ToH Short Papers
 <a href="https://doi.org/10.1109/HAPTICS45997...." target"_blank">Contracture Diagnosis System Using Wearable Tactile Sensor</a> by Takahiro Suzuki, Yoshihiro Tanaka, Kazuhiro Niwa, and Takafumi Saito<br>
 </div>
 </div><br>
-<h2>Oral Session 7: Haptic Cues and Guidance</h2>
+<h2 id="7">Oral Session 7: Haptic Cues and Guidance</h2>
 
 <div class="flex-container">
 <div>
