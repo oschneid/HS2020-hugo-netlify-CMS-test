@@ -150,8 +150,8 @@ title: Technical Papers & ToH Short Papers
 <a href="" target"_blank">The calming effect of heartbeat vibration </a> by Yizhen Zhou and Aiko Murata and Junji Watanabe<br>
 </div>
 </div><br>
-<a id="4A">
-<h2>Oral Session 4A: Force Feedback</h2>
+
+<h2 id="4A">Oral Session 4A: Force Feedback</h2>
 
 <div class="flex-container">
 <div>
