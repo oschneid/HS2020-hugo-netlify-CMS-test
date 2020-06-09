@@ -3,7 +3,7 @@ title: Technical Papers & ToH Short Papers
 ---
 <h1>Technical Papers and ToH Short Papers</h1>
 
-<style>
+<style> 
 .flex-container { display: flex; flex-wrap: wrap; }
 .flex-container > div { width: 350px; margin: 10px;}
 </style>
