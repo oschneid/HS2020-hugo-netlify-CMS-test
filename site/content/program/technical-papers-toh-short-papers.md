@@ -30,12 +30,12 @@ title: Technical Papers & ToH Short Papers
 <a href="https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.25.aa4d97aa" target="_blank">Elastowave: Localized Tactile Feedback in a Soft Haptic Interface via Focused Elastic Waves</a> by Gregory Reardon, Nikolas Kastor, Yitian Shao, and Yon Visell<br>
 </div>
 <div>
-<iframe width="350" height="197" src="https://www.youtube.com/embed/PiivyGbJWQM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-<a href="https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.7.ec43f6a7" target="_blank">Time-Dependent Cues Encode the Minimum Exploration Time in Discriminating Naturalistic Compliances</a> by Chang Xu and Gregory J. Gerling<br>
-</div>
-<div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/Px9kizp2K4k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 <a href="https://doi.org/10.1109/TOH.2020.2970056" target="_blank">Fluidic haptic interface for mechano-tactile feedback</a> by Ge Shi et al.<br>
+</div>
+<div>
+<iframe width="350" height="197" src="https://www.youtube.com/embed/PiivyGbJWQM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+<a href="https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.7.ec43f6a7" target="_blank">Time-Dependent Cues Encode the Minimum Exploration Time in Discriminating Naturalistic Compliances</a> by Chang Xu and Gregory J. Gerling<br>
 </div>
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/2uAtuNAhdsE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
@@ -54,10 +54,6 @@ title: Technical Papers & ToH Short Papers
 
 <div class="flex-container">
 <div>
-<iframe width="350" height="197" src="https://www.youtube.com/embed/4zqhuDM2MOY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-<a href="https://doi.org/10.1109/TOH.2019.2963647" target="_blank">Path Routing Optimization for STM Ultrasound Rendering</a> by Hector Barreiro, Stephen Sinclair and Miguel A. Otaduy<br>
-</div>
-<div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/s6gatH-ScSw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 <a href="https://doi.org/10.1109/TOH.2020.2972350" target="_blank">Closed loop application of electroadhesion for increased precision in texture rendering</a> by Roman Grigorii and Edward Colgate<br>
 </div>
@@ -72,6 +68,10 @@ title: Technical Papers & ToH Short Papers
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/msagKSdbL_U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 <a href="https://doi.org/10.1109/TOH.2019.2962446" target="_blank">Subjective Evaluation of the Spectral Temporal SIMilarity (ST-SIM) Measure for Vibrotactile Quality Assessment</a> by Rania Hassen and Eckehard Steinbach<br>
+</div>
+<div>
+<iframe width="350" height="197" src="https://www.youtube.com/embed/4zqhuDM2MOY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+<a href="https://doi.org/10.1109/TOH.2019.2963647" target="_blank">Path Routing Optimization for STM Ultrasound Rendering</a> by Hector Barreiro, Stephen Sinclair and Miguel A. Otaduy<br>
 </div>
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/hCRA5dIRS3I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
@@ -202,12 +202,8 @@ title: Technical Papers & ToH Short Papers
 
 <div class="flex-container">
 <div>
-<iframe width="350" height="197" src="https://www.youtube.com/embed/47aAdPQ-WRo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-<a href=" https://doi.org/10.1109/TOH.2020.2970927" target="_blank">On the Role of Lateral Force in Texture-Induced Motion Bias During Reaching Tasks</a> by Gemma Carolina Bettelani, Alessandro Moscatelli and Matteo Bianchi<br>
-</div>
-<div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/_OeHqViohRQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-<a href="https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.19.f2b7107a" target="_blank">Changes in Normal Force During Passive Dynamic Touch: Contact Mechanics and Perception</a> by David Gueorguiev, JULIEN LAMBERT, Jean-Louis Thonnard, and Katherine J. Kuchenbecker<br>
+<a href="https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.19.f2b7107a" target="_blank">Changes in Normal Force During Passive Dynamic Touch: Contact Mechanics and Perception</a> by David Gueorguiev, Julien Lambert, Jean-Louis Thonnard, and Katherine J. Kuchenbecker<br>
 </div>
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/fvKKKuSH1SE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
@@ -224,6 +220,10 @@ title: Technical Papers & ToH Short Papers
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/6YAq6D5kyVs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 <a href="https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.16.8d90d0bd" target="_blank">Detection of Tactile Feedback on Touch-Screen Devices Using EEG Data</a> by Haneen Alsuradi, Chaitali Pawar, Wanjoo Park, and Mohamad Eid<br>
+</div>
+<div>
+<iframe width="350" height="197" src="https://www.youtube.com/embed/47aAdPQ-WRo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+<a href=" https://doi.org/10.1109/TOH.2020.2970927" target="_blank">On the Role of Lateral Force in Texture-Induced Motion Bias During Reaching Tasks</a> by Gemma Carolina Bettelani, Alessandro Moscatelli and Matteo Bianchi<br>
 </div>
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/wfM5XF6oUlA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
@@ -270,14 +270,6 @@ title: Technical Papers & ToH Short Papers
 
 <div class="flex-container">
 <div>
-<iframe width="350" height="197" src="https://www.youtube.com/embed/6DFlP80zBpE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-<a href="https://doi.org/10.1109/TOH.2020.2966483" target="_blank">Dimensional Reduction for 6D Vibrotactile Display</a> by Ruisi Zhang<br>
-</div>
-<div>
-<iframe width="350" height="197" src="https://www.youtube.com/embed/8vIyeMrZ0so" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-<a href="https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.80.00957e94" target="_blank">Vibrator Transparency: Re-using Vibrotactile Signal Assets for Different Black Box Vibrators without Re-designing </a> by Yusuke Ujitoko, Koichi Hirota and Sho Sakurai<br>
-</div>
-<div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/IeuBGgIzInc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 <a href="https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.9.699b3778" target="_blank">The Predictive Perception of Dynamic Vibrotactile Stimuli Applied to the Fingertip</a> by John de Grosbois, Massimiliano Di Luca, Raymond King, and Mounia Ziat<br>
 </div>
@@ -292,6 +284,14 @@ title: Technical Papers & ToH Short Papers
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/BlkNYDsHvK4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 <a href="https://doi.org/10.1109/TOH.2020.2966192" target="_blank">Towards Multisensory Perception: Modeling and Rendering Sounds of Tool-Surface Interactions</a> by Shihan Lu, Yang Chen and Heather Culbertson<br>
+</div>
+<div>
+<iframe width="350" height="197" src="https://www.youtube.com/embed/6DFlP80zBpE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+<a href="https://doi.org/10.1109/TOH.2020.2966483" target="_blank">Dimensional Reduction for 6D Vibrotactile Display</a> by Ruisi Zhang<br>
+</div>
+<div>
+<iframe width="350" height="197" src="https://www.youtube.com/embed/8vIyeMrZ0so" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+<a href="https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.80.00957e94" target="_blank">Vibrator Transparency: Re-using Vibrotactile Signal Assets for Different Black Box Vibrators without Re-designing </a> by Yusuke Ujitoko, Koichi Hirota and Sho Sakurai<br>
 </div>
 <div>
 <iframe width="350" height="197" src="/img/novideo.png" frameborder="0"></iframe><br>
