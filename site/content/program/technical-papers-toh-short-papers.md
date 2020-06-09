@@ -71,7 +71,7 @@ title: Technical Papers & ToH Short Papers
 </div>
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/msagKSdbL_U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-<a href="https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.23.0f334629" target="_blank">Subjective Evaluation of the Spectral Temporal SIMilarity (ST-SIM) Measure for Vibrotactile Quality Assessment</a> by Rania Hassen and Eckehard Steinbach<br>
+<a href="https://doi.org/10.1109/TOH.2019.2962446" target="_blank">Subjective Evaluation of the Spectral Temporal SIMilarity (ST-SIM) Measure for Vibrotactile Quality Assessment</a> by Rania Hassen and Eckehard Steinbach<br>
 </div>
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/hCRA5dIRS3I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
