@@ -1,7 +1,7 @@
 ---
-title: Technical Papers & ToH Short Papers
+title: Video Presentations
 ---
-<h1>Technical Papers and ToH Short Papers</h1>
+<h1>Video Presentations of Technical Papers and Transaction on Haptics Short Papers</h1>
 
 <style>
 .flex-container { display: flex; flex-wrap: wrap; }
