@@ -1,7 +1,10 @@
 ---
 title: Video Presentations
 ---
-<h1>Video Presentations of Technical Papers and Transaction on Haptics Short Papers</h1>
+<!-- This content was automatically generated. Please contact vincent.levesque@etsmtl.ca for any corrections -->
+
+<h1>Video Presentations of Technical Papers and ToH Short Papers</h1>
+This online video program features short video presentations (approx. 3 minutes) prepared by the authors of accepted technical papers and IEEE Transactions on Haptics short papers. The videos are organized in playlists according to thematic sessions that were created for the original conference program.<br>
 
 <style>
 .flex-container { display: flex; flex-wrap: wrap; }
