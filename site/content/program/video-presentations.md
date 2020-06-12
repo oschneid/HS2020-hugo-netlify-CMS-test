@@ -8,8 +8,7 @@ title: Video Presentations
 .flex-container > div { width: 350px; margin: 10px;}
 </style> 
 
-We provide a new online video forum for authors of accepted technical papers to present their contributions to a broad audience. All authors of accepted technical papers and IEEE Transaction on Haptics short papers were invited to create short video presentations of their work (about 3 minutes). The videos are organized in playlists according to thematic sessions that were created for the original conference program.
-
+This online video program features short video presentations (approx. 3 minutes) prepared by the authors of accepted technical papers and IEEE Transactions on Haptics short papers. The videos are organized in playlists according to thematic sessions that were created for the original conference program.
 
 <a href="#1">Oral Session 1: Softness and Soft Haptics</a><br>
 <a href="#2A">Oral Session 2A: Haptic Rendering</a><br>
