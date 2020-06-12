@@ -1,14 +1,14 @@
 ---
 title: Video Presentations
 ---
-<h1>Video Presentations of Technical Papers and Transaction on Haptics Short Papers</h1>
+<h1>Video Presentations of Technical Papers and ToH Short Papers</h1>
 
 <style>
 .flex-container { display: flex; flex-wrap: wrap; }
 .flex-container > div { width: 350px; margin: 10px;}
-</style>
+</style> 
 
-We provide a new online video forum for authors of accepted technical papers to present their contributions to a broad audience. All authors of accepted technical papers and IEEE ToH short papers were invited to create short video presentations of their work (about 3 minutes). The videos are organized in playlists according to thematic sessions that were created for the original conference program. We believe that this collection of online videos from Haptics Symposium 2020 provides a valuable resource for people around the world to learn about new trends and findings in haptics, and for the contributions from the conference to be disseminated widely via social media.
+We provide a new online video forum for authors of accepted technical papers to present their contributions to a broad audience. All authors of accepted technical papers and IEEE Transaction on Haptics short papers were invited to create short video presentations of their work (about 3 minutes). The videos are organized in playlists according to thematic sessions that were created for the original conference program.
 
 
 <a href="#1">Oral Session 1: Softness and Soft Haptics</a><br>
