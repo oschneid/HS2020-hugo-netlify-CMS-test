@@ -2,13 +2,12 @@
 title: Video Presentations
 ---
 <h1>Video Presentations of Technical Papers and ToH Short Papers</h1>
+This online video program features short video presentations (approx. 3 minutes) prepared by the authors of accepted technical papers and IEEE Transactions on Haptics short papers. The videos are organized in playlists according to thematic sessions that were created for the original conference program.<br>
 
 <style>
 .flex-container { display: flex; flex-wrap: wrap; }
 .flex-container > div { width: 350px; margin: 10px;}
-</style> 
-
-This online video program features short video presentations (approx. 3 minutes) prepared by the authors of accepted technical papers and IEEE Transactions on Haptics short papers. The videos are organized in playlists according to thematic sessions that were created for the original conference program.
+</style>
 
 <a href="#1">Oral Session 1: Softness and Soft Haptics</a><br>
 <a href="#2A">Oral Session 2A: Haptic Rendering</a><br>
