@@ -8,6 +8,42 @@ weight: 1
 ---
 # Revised Plan for 2020 IEEE Haptics Symposium
 
+_(Latest update: June 13, 2020)_
+
+Dear Haptics Community,
+
+We would like to update you on newly available video presentations and the upcoming Haptics Symposium 2020 livestream video event, which will be held June 25th, 2020.
+
+## Video Presentations Available
+
+We are extremely pleased to present video presentations of technical papers from 2020 IEEE Haptics Symposium proceedings. Nearly all authors contributed 3 minute videos. You can browse them via the Haptics Symposium website and via YouTube (details below). Please check them out, “like,” and share them:
+
+<https://2020.hapticssymposium.org/program/video-presentations/>
+
+## Vote for Best Video Presentation
+
+Awards and honorable mentions for Best Video Presentation will be announced at the livestream event. Their selection will be driven by your votes. As such, please fill out the form at the link below. We ask that you do not vote for works produced by your own group. Votes are due by Friday, June 19th, 2020. 
+
+<https://forms.gle/NvTX3q1kgjPaM8qMA>
+
+## Subscribe to YouTube Channel
+
+Please subscribe to our YouTube Channel! The channel will host the livestream event and conference video presentations. We will continue to publish interesting haptics content on the channel in the future. By subscribing, you will enable us to unlock additional account functionality that will help us to widely promote haptics research. We encourage you to share it.
+
+<https://www.youtube.com/channel/UC1YjMwrg8Hk6uAtyWb62yAw/playlists>
+
+## Livestream Event
+
+Last but not least, please save the date for the forthcoming 2.25 hour live Haptics Symposium video event! It will be held on Thursday, June 25 beginning at 12 pm (Noon) US Eastern Time (9 am US Pacific Time, 4 pm UTC). The event will be accessible to everyone, with no registration required. It will include video presentations of award candidate papers, live Q&A sessions with presenting authors, an awards ceremony, and information about upcoming haptics conferences. You can tune in via the Haptics Symposium YouTube Channel, where the recorded event will also be archived for later viewing. We will share precise final details about how to connect to the event soon.
+
+On behalf of the Organizing Committee,
+
+Greg Gerling and Yon Visell
+
+2020 IEEE Haptics Symposium General Co-Chairs
+
+<hr>
+
 Dear Haptics Community, 
 
 Please save the date for the 2020 IEEE Haptics Symposium livestreaming video event. The ~2 hour event is scheduled for Thursday, June 25 at 12 Noon Eastern Time (9 am Pacific Time, 4 pm UTC). It will be livestreamed via YouTube with connectivity details forthcoming. The event will be accessible to anyone, with no registration required. 
@@ -22,15 +58,11 @@ https://2020.hapticssymposium.org/presenting/video-presentation-instructions-for
 
 Finally, we are excited to announce that all IEEE Haptics Symposium conference technical papers are now available via the IEEE Xplore digital library! They can be accessed at the following link: https://doi.org/10.1109/HAPTICS45997.2020 
 
-
-
 Best wishes, 
 
 Greg Gerling and Yon Visell 
 
 2020 IEEE Haptics Symposium General Co-Chairs 
-
-
 
 <hr>
 
