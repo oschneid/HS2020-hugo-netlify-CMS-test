@@ -3,8 +3,11 @@ title: "Home"
 image: /img/bg07.jpg
 ---
 
+**Video Presentations now available here: https://2020.hapticssymposium.org/program/video-presentations/**
 
 [**Please save the date for the 2020 IEEE Haptics Symposium livestreaming video event, Thursday, June 25 at 12 Noon Eastern Time (9 am Pacific Time, 4 pm UTC).**](/attending/health-information/)
+
+<hr>
 
 **Welcome to IEEE Haptics Symposium 2020!**
 
