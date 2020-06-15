@@ -237,7 +237,7 @@ This online video program features short video presentations (approx. 3 minutes)
 <a href="https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.158.b8032225" target="_blank">Three-dimensional Measurement of Skin Displacement Using Index Matching and Stereoscopy </a> by Satoshi Tanaka, Seitaro Kaneko and and Hiroyuki Kajimoto<br>
 </div>
 <div>
-<iframe width="350" height="197" src="/img/novideo.png" frameborder="0"></iframe><br>
+<iframe width="350" height="197" src="https://www.youtube.com/embed/BwrGE56wCxY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 <a href="https://doi.org/10.1109/TOH.2020.2964538" target="_blank">Relationship between spatial variations in static skin deformation and perceived roughness of macroscopic surfaces</a> by Shogo Okamoto and Ariei Oishi<br>
 </div>
 </div><br>
@@ -297,7 +297,7 @@ This online video program features short video presentations (approx. 3 minutes)
 <a href="https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.80.00957e94" target="_blank">Vibrator Transparency: Re-using Vibrotactile Signal Assets for Different Black Box Vibrators without Re-designing </a> by Yusuke Ujitoko, Koichi Hirota and Sho Sakurai<br>
 </div>
 <div>
-<iframe width="350" height="197" src="/img/novideo.png" frameborder="0"></iframe><br>
+<iframe width="350" height="197" src="https://www.youtube.com/embed/BBG9TKu12SQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 <a href="https://doi.org/10.1109/TOH.2020.2970057" target="_blank">Edge Vibration Improves Ability to Discriminate Roughness Difference of Adjoining Areas</a> by Yuki Ban, Yusuke Ujitoko and Kouta Minamizawa<br>
 </div>
 <div>
