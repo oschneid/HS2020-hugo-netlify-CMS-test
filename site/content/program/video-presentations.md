@@ -49,7 +49,7 @@ This online video program features short video presentations (approx. 3 minutes)
 <a href="https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.22.5a9b38d8" target="_blank">Identifying 3-D Spatiotemporal Skin Deformation Cues Evoked in Interacting with Compliant Elastic Surfaces</a> by Bingxu Li, Steven Hauser and Gregory J. Gerling<br>
 </div>
 <div>
-<iframe width="350" height="197" src="/img/novideo.png" frameborder="0"></iframe><br>
+<iframe width="350" height="197" src="https://www.youtube.com/embed/MsEvx2FufDg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 <a href="https://doi.org/10.1109/TOH.2019.2961883" target="_blank">Mid-Air Action Contributes to Pseudo-Haptic Stiffness Effects</a> by Takahiro Kawabe<br>
 </div>
 </div><br>
