@@ -20,7 +20,7 @@ The Haptics Symposium would like to sincerely thank the following organizations 
 
 <img src="/img/immersion_h_90k.png" alt="Immersion" class="mt-2 mb-2 w-25-l w-50-m w-75-s w-100-xs" />
 
-## Award Sponsor
+## Award Sponsors
 
 <img src="/img/02.forcedimension_logo-fd-300-dpi-.png" alt="Force Dimension" class="mt-2 mb-2 w-25-l w-50-m w-75-s w-100-xs" />
 
