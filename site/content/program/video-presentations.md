@@ -170,7 +170,7 @@ This online video program features short video presentations (approx. 3 minutes)
 </div>
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/Ecf-pjsnRZg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-<a href="https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.12.af578b0a" target="_blank">A Hybrid Active-Passive Actuation and Control Approach for Kinesthetic Handheld Haptics</a> by Patrick Dills, Nick, Nicholas Colonnese, Priyanshu Agarwal, and Michael Zinn<br>
+<a href="https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.12.af578b0a" target="_blank">A Hybrid Active-Passive Actuation and Control Approach for Kinesthetic Handheld Haptics</a> by Patrick Dills, Nick Colonnese, Priyanshu Agarwal, and Michael Zinn<br>
 </div>
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/T9907Pk5unc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
@@ -290,7 +290,7 @@ This online video program features short video presentations (approx. 3 minutes)
 </div>
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/6DFlP80zBpE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-<a href="https://doi.org/10.1109/TOH.2020.2966483" target="_blank">Dimensional Reduction for 6D Vibrotactile Display</a> by Ruisi Zhang<br>
+<a href="https://doi.org/10.1109/TOH.2020.2966483" target="_blank">Dimensional Reduction for 6D Vibrotactile Display</a> by Ruisi Zhang, Trevor J. Schwehr and Jake J. Abbott<br>
 </div>
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/8vIyeMrZ0so" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
