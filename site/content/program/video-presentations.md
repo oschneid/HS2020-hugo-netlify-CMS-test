@@ -28,8 +28,8 @@ This online video program features short video presentations (approx. 3 minutes)
 <iframe width="350" height="197" src="https://www.youtube.com/embed/SE1JTNXGXzQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 <table style="width:100%">
   <tr>
-    <td><img src="/img/award.png" height="50"/></td>
-    <td><a href="https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.8.0698f2bb" target="_blank">Soft Haptic Interface based on Vibration and Particle Jamming</a> by Joshua P. Brown and Ildar Farkhatdinov<br></td>
+    <td style="vertical-align:middle; padding:5px"><img src="/img/award.png" height="100" width="300"/></td>
+    <td style="vertical-align:middle; padding:5px"><a href="https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.8.0698f2bb" target="_blank">Soft Haptic Interface based on Vibration and Particle Jamming</a> by Joshua P. Brown and Ildar Farkhatdinov<br></td>
   </tr>
 </table>
 
