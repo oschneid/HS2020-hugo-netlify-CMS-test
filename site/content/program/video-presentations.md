@@ -27,6 +27,7 @@ This online video program features short video presentations (approx. 3 minutes)
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/SE1JTNXGXzQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 <a href="https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.8.0698f2bb" target="_blank">Soft Haptic Interface based on Vibration and Particle Jamming</a> by Joshua P. Brown and Ildar Farkhatdinov<br>
+<img src="/img/award.png"/>
 </div>
 <div>
 <iframe width="350" height="197" src="https://www.youtube.com/embed/Pz4VusPdVfY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
