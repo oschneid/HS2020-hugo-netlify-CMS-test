@@ -133,12 +133,13 @@ After the review of all technical papers was complete, the Haptics Symposium 202
 <li>Alastair Loutit, University of New South Wales, Australia</li>
 <li>Tatjana Seizova-Cajic, The University of Sydney, Australia</li>
 </ul>
+Each outstanding reviewer received a $100 prize
 
 </div>
 
-![An award slide featuring the three winners of the outstanding reviewers award](/img/52b45d42-2698-40b4-bc24-99dd31cccbea-mpi-stuttgart.mpg.de.png "")
-
 ## Awards Ceremony
 All of the awards and honorable mentions listed above were first announced during the IEEE Haptics Symposium 2020 awards ceremony, which was part of the conference’s [livestream event](https://www.youtube.com/watch?v=1h-9czaJmOY).  The [awards ceremony](https://youtu.be/1h-9czaJmOY?t=8430) begins at 2:20:30 in the recording of the livestream.
+
 The Awards Chair, the members of the awards committees, the Program Committee, and the Organizing Committee heartily congratulate the finalists, honorable mentions, and winners on their outstanding work.  Many thanks to everyone for contributing to a very successful IEEE Haptics Symposium 2020!
+
 ![Still image from the awards ceremony with awards chair Katherine Kuchenbecker applauding all award winners](/img/76bbba54-f742-4c09-b470-489b53fc30e0-mpi-stuttgart.mpg.de.png "Still image from the awards ceremony with awards chair Katherine Kuchenbecker applauding all award winners")
