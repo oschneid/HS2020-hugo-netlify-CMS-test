@@ -104,4 +104,4 @@ All of the awards and honorable mentions listed above were first announced durin
 
 The Awards Chair, the members of the awards committees, the Program Committee, and the Organizing Committee heartily congratulate the finalists, honorable mentions, and winners on their outstanding work.  Many thanks to everyone for contributing to a very successful IEEE Haptics Symposium 2020!
 
-![]()
+![Still image from the awards ceremony with awards chair Katherine Kuchenbecker applauding all award winners](/img/76bbba54-f742-4c09-b470-489b53fc30e0-mpi-stuttgart.mpg.de.png "Still image from the awards ceremony with awards chair Katherine Kuchenbecker applauding all award winners")
