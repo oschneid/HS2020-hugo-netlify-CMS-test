@@ -13,6 +13,7 @@ Thirty-six of the papers presented at the conference were published as short pap
 
 A committee of three experts (Katherine J. Kuchenbecker, Vincent Lévesque, and Hiroyuki Shinoda) selected the winner of this award based on the final manuscripts, any supplementary materials, the anonymized reviews, and the video presentations.  In addition to the winner, they selected one first honorable mention and one second honorable mention.
 
+<div class="w-100 w-33-ns">
 **Winner:**
 
 [Path Routing Optimization for  STM Ultrasound Rendering](https://doi.org/10.1109/TOH.2019.2963647)
@@ -20,7 +21,11 @@ A committee of three experts (Katherine J. Kuchenbecker, Vincent Lévesque, and 
 Héctor Barreiro, Stephen Sinclair, and Miguel A. Otaduy
 
 $1000 prize sponsored by [Force Dimension](http://www.forcedimension.com)
+</div>
+
+<div class="w-100 w-33-ns">
 ![An award slide featuring the authors and sponsor](/img/95abdaed-3dba-4e07-ad7d-a6418049430a-mpi-stuttgart.mpg.de.png "An award slide featuring the authors and sponsor")
+</div>
 
 <hr>
 
