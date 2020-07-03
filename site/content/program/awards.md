@@ -86,20 +86,19 @@ $250 prize sponsored by <a href="https://www.facebook.com/careers/life/facebook-
 </div>
 
 
-![An award slide featuring the authors and sponsor](/img/6b719219-f91d-4bf1-bc3f-2134da68103d-mpi-stuttgart.mpg.de.png "An award slide featuring the authors and sponsor")
+<div class="w-100 center mw6 pa3 mb1">
+<img class="0 ma3" src="/img/21109aee-3832-48de-8662-86bc6ffb860f-mpi-stuttgart.mpg.de.png " alt="An award slide featuring the authors and sponsor" />
+<strong> Honorable mention (2 of 3): </strong><br><a href="https://youtu.be/cJDaGbI0Ia0">Interpersonal Vibrotactile Feedback  via Waves Transmitted through the Skin: Mechanics and Perception</a><br>Taku Hachisu, Gregory Reardon, Yitian Shao, Kenji Suzuki, and Yon Visell<br>
+$250 prize sponsored by <a href="https://www.facebook.com/careers/life/facebook-reality-labs-turning-ideas-into-realities">Facebook Reality Labs</a>
+</div>
+
+
 
 <div class="w-100 center mw6 pa3 mb1">
-<img class="0 ma3" src="IMAGE" alt="An award slide featuring the authors and sponsor" />
-<strong> AWARD </strong><br><a href="LINK">TITLE</a><br>AUTHORS<br>$MONEY prize sponsored by <a href="LINK">SPONSOR</a>
+<img class="0 ma3" src="/img/87d064f0-3bd8-4651-9f3c-51d37f5b7c20-mpi-stuttgart.mpg.de.png" alt="An award slide featuring the authors and sponsor" />
+<strong> Honorable mention (3 or 3): </strong><br><a href="https://youtu.be/QtovA48V2DM">PUMAH: Pan-tilt Ultrasound Mid-Air Haptics for Larger Interaction Workspace in Virtual Reality</a><br>Thomas Howard, Maud Marchal, Anatole Lécuyer,  and Claudio Pacchierotti<br>
+$250 prize sponsored by <a href="https://www.facebook.com/careers/life/facebook-reality-labs-turning-ideas-into-realities">Facebook Reality Labs</a>
 </div>
-![An award slide featuring the authors and sponsor](/img/21109aee-3832-48de-8662-86bc6ffb860f-mpi-stuttgart.mpg.de.png "An award slide featuring the authors and sponsor")
-
-
-<div class="w-100 center mw6 pa3 mb1">
-<img class="0 ma3" src="IMAGE" alt="An award slide featuring the authors and sponsor" />
-<strong> AWARD </strong><br><a href="LINK">TITLE</a><br>AUTHORS<br>$MONEY prize sponsored by <a href="LINK">SPONSOR</a>
-</div>
-![An award slide featuring the authors and sponsor](/img/87d064f0-3bd8-4651-9f3c-51d37f5b7c20-mpi-stuttgart.mpg.de.png "An award slide featuring the authors and sponsor")
 
 
 ## Most Exciting Work-in-progress Paper
