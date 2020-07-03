@@ -27,13 +27,13 @@ $1000 prize sponsored by <a href="http://www.forcedimension.com">Force Dimension
 
 
 
-**First Honorable Mention:**
+
 
 <div class="w-100 center mw6 pa3 mb3">
 
 <img class="0 ma3" src="/img/db1d82d4-45cb-4098-8466-d54c77419b13-mpi-stuttgart.mpg.de.png" alt="An award slide featuring the authors and sponsor" />
 
-<strong>Winner:</strong><br>
+<strong>First honorable mention:</strong><br>
 <a href="https://doi.org/10.1109/TOH.2020.2969662">Caring About the Human Operator: Haptic Shared Control for Enhanced User Comfort in Robotic Telemanipulation</a><br>
 Rahaf Rahal, Giulia Matarese, Marco Gabiccini, Alessio Artoni, Domenico Prattichizzo, Paolo Robuffo Giordano, and Claudio Pacchierotti <br>
 $500 prize sponsored by <a href="https://www.intuitive.com/en-us">Intuitive Surgical</a>
@@ -41,16 +41,15 @@ $500 prize sponsored by <a href="https://www.intuitive.com/en-us">Intuitive Surg
 
 </div>
 
+<div class="w-100 center mw6 pa3 mb3">
 
-**Second Honorable Mention:**
+<img class="0 ma3" src="/img/f2562fb1-5654-419f-b7c3-504adbc35203-mpi-stuttgart.mpg.de.png" alt="An award slide featuring the authors and sponsor" />
 
-[Altering the Stiffness, Friction, and Shape Perception of Tangible Objects in Virtual Reality Using Wearable Haptics](https://dx.doi.org/10.1109/TOH.2020.2967389)
+<strong>Second honorable mention:</strong><br>
+<a href="https://dx.doi.org/10.1109/TOH.2020.2967389">Altering the Stiffness, Friction, and Shape Perception of Tangible Objects in Virtual Reality Using Wearable Haptics</a><br>
+Steeven Villa Salazar, Claudio Pacchierotti, Xavier de Tinguy, Anderson Maciel, and Maud Marchal <br>
+$250 prize sponsored by <a href="https://www.intuitive.com/en-us">Intuitive Surgical</a>
 
-Steeven Villa Salazar, Claudio Pacchierotti, Xavier de Tinguy, Anderson Maciel, and Maud Marchal
-
-$250 prize sponsored by [Intuitive Surgical](https://www.intuitive.com/en-us)
-
-![An award slide featuring the authors and sponsor](/img/f2562fb1-5654-419f-b7c3-504adbc35203-mpi-stuttgart.mpg.de.png "An award slide featuring the authors and sponsor")
 
 ## Best Technical Paper
 
