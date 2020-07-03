@@ -15,15 +15,11 @@ A committee of three experts (Katherine J. Kuchenbecker, Vincent Lévesque, and 
 
 **Winner:**
 
-
 [Path Routing Optimization for  STM Ultrasound Rendering](https://doi.org/10.1109/TOH.2019.2963647)
-
 
 Héctor Barreiro, Stephen Sinclair, and Miguel A. Otaduy
 
-
 $1000 prize sponsored by [Force Dimension](http://www.forcedimension.com)
-![](<>)
 ![An award slide featuring the authors and sponsor](/img/95abdaed-3dba-4e07-ad7d-a6418049430a-mpi-stuttgart.mpg.de.png "An award slide featuring the authors and sponsor")
 
 <hr>
@@ -49,8 +45,6 @@ Steeven Villa Salazar, Claudio Pacchierotti, Xavier de Tinguy, Anderson Maciel, 
 $250 prize sponsored by [Intuitive Surgical](https://www.intuitive.com/en-us)
 
 ![An award slide featuring the authors and sponsor](/img/f2562fb1-5654-419f-b7c3-504adbc35203-mpi-stuttgart.mpg.de.png "An award slide featuring the authors and sponsor")
-
-
 
 ## Best Technical Paper
 
