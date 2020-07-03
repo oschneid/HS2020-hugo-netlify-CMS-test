@@ -13,7 +13,7 @@ Thirty-six of the papers presented at the conference were published as short pap
 
 A committee of three experts (Katherine J. Kuchenbecker, Vincent Lévesque, and Hiroyuki Shinoda) selected the winner of this award based on the final manuscripts, any supplementary materials, the anonymized reviews, and the video presentations.  In addition to the winner, they selected one first honorable mention and one second honorable mention.
 
-<div class="w-100 center mw6 pa3 mb3">
+<div class="w-100 center mw6 pa3 mb1">
 
 <img class="0 ma3" src="/img/95abdaed-3dba-4e07-ad7d-a6418049430a-mpi-stuttgart.mpg.de.png" alt="An award slide featuring the authors and sponsor" />
 
@@ -28,8 +28,7 @@ $1000 prize sponsored by <a href="http://www.forcedimension.com">Force Dimension
 
 
 
-
-<div class="w-100 center mw6 pa3 mb3">
+<div class="w-100 center mw6 pa3 mb1">
 
 <img class="0 ma3" src="/img/db1d82d4-45cb-4098-8466-d54c77419b13-mpi-stuttgart.mpg.de.png" alt="An award slide featuring the authors and sponsor" />
 
@@ -38,10 +37,9 @@ $1000 prize sponsored by <a href="http://www.forcedimension.com">Force Dimension
 Rahaf Rahal, Giulia Matarese, Marco Gabiccini, Alessio Artoni, Domenico Prattichizzo, Paolo Robuffo Giordano, and Claudio Pacchierotti <br>
 $500 prize sponsored by <a href="https://www.intuitive.com/en-us">Intuitive Surgical</a>
 
-
 </div>
 
-<div class="w-100 center mw6 pa3 mb3">
+<div class="w-100 center mw6 pa3 mb1">
 
 <img class="0 ma3" src="/img/f2562fb1-5654-419f-b7c3-504adbc35203-mpi-stuttgart.mpg.de.png" alt="An award slide featuring the authors and sponsor" />
 
@@ -50,6 +48,7 @@ $500 prize sponsored by <a href="https://www.intuitive.com/en-us">Intuitive Surg
 Steeven Villa Salazar, Claudio Pacchierotti, Xavier de Tinguy, Anderson Maciel, and Maud Marchal <br>
 $250 prize sponsored by <a href="https://www.intuitive.com/en-us">Intuitive Surgical</a>
 
+</div>
 
 ## Best Technical Paper
 
