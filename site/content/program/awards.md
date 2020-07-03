@@ -3,29 +3,46 @@ title: Awards
 ---
 # Awards
 Four main awards were distributed at IEEE Haptics Symposium 2020 to honor top contributions in each of the main categories of IEEE Transactions on Haptics short papers, technical papers, video presentations, and WIP papers. Commendations were also conferred for outstanding reviewing of technical paper submissions.  Given the virtual format of the conference, no awards were given for hands-on demonstrations.  
+
 The details of each award appear below.  All winners were announced during the award ceremony portion of the [livestream event](https://www.youtube.com/watch?v=1h-9czaJmOY) on June 25, 2020, which is also archived for online viewing.  In addition to the listed monetary prizes, each winning team received a commemorative certificate by mail.
+
+
 ## Best IEEE Transactions on Haptics Short Paper
 Thirty-six of the papers presented at the conference were published as short papers in the IEEE Transactions on Haptics (ToH).  The ToH Editor-in-Chief, Lynette Jones, selected six of these papers to be considered for this inaugural award based on the strength of the reviews they received.  The authors of all six ToH short paper award finalists submitted video presentations that are [available online](https://2020.hapticssymposium.org/program/video-presentations/) and were also shown in the [livestream event](https://www.youtube.com/watch?v=1h-9czaJmOY).
+
 A committee of three experts (Katherine J. Kuchenbecker, Vincent Lévesque, and Hiroyuki Shinoda) selected the winner of this award based on the final manuscripts, any supplementary materials, the anonymized reviews, and the video presentations.  In addition to the winner, they selected one first honorable mention and one second honorable mention.
+
 <div class="w-100 center mw6 pa3 mb1">
 <img class="0 ma3" src="/img/95abdaed-3dba-4e07-ad7d-a6418049430a-mpi-stuttgart.mpg.de.png" alt="An award slide featuring the authors and sponsor" />
 <strong>Winner:</strong><br><a href="https://doi.org/10.1109/TOH.2019.2963647">Path Routing Optimization for  STM Ultrasound Rendering</a><br>Héctor Barreiro, Stephen Sinclair, and Miguel A. Otaduy <br>$1000 prize sponsored by <a href="http://www.forcedimension.com">Force Dimension</a>
 </div>
+
+
 <div class="w-100 center mw6 pa3 mb1">
 <img class="0 ma3" src="/img/db1d82d4-45cb-4098-8466-d54c77419b13-mpi-stuttgart.mpg.de.png" alt="An award slide featuring the authors and sponsor" />
 <strong>First honorable mention:</strong><br><a href="https://doi.org/10.1109/TOH.2020.2969662">Caring About the Human Operator: Haptic Shared Control for Enhanced User Comfort in Robotic Telemanipulation</a><br>Rahaf Rahal, Giulia Matarese, Marco Gabiccini, Alessio Artoni, Domenico Prattichizzo, Paolo Robuffo Giordano, and Claudio Pacchierotti <br>$500 prize sponsored by <a href="https://www.intuitive.com/en-us">Intuitive Surgical</a>
 </div>
+
+
 <div class="w-100 center mw6 pa3 mb1">
 <img class="0 ma3" src="/img/f2562fb1-5654-419f-b7c3-504adbc35203-mpi-stuttgart.mpg.de.png" alt="An award slide featuring the authors and sponsor" />
 <strong>Second honorable mention:</strong><br><a href="https://dx.doi.org/10.1109/TOH.2020.2967389">Altering the Stiffness, Friction, and Shape Perception of Tangible Objects in Virtual Reality Using Wearable Haptics</a><br>Steeven Villa Salazar, Claudio Pacchierotti, Xavier de Tinguy, Anderson Maciel, and Maud Marchal <br>$250 prize sponsored by <a href="https://www.intuitive.com/en-us">Intuitive Surgical</a>
 </div>
+
+
 ## Best Technical Paper
+
 Forty-one of the papers presented at the conference were published as technical papers.  The Haptics Symposium 2020 Editor-in-Chief, Veronica Santos, selected eight papers to be considered for this award based on the strength of the reviews they received.  The authors of all eight papers submitted video presentations that are [available online](https://2020.hapticssymposium.org/program/video-presentations/) and were also shown in [the livestream event](https://www.youtube.com/watch?v=1h-9czaJmOY).
+
 A committee of three experts (Seungmoon Choi, Katherine J. Kuchenbecker, and Veronica Santos) selected the winner of this award based on the final manuscripts, any supplementary materials, the anonymized reviews, and the video presentations.  In addition to the winner, they selected one first honorable mention and two second honorable mentions.
+
+
 <div class="w-100 center mw6 pa3 mb1">
 <img class="0 ma3" src="/img/0fc1cbd7-a1a6-4488-b171-0ed6eb3a9ead-mpi-stuttgart.mpg.de.png" alt="An award slide featuring the authors and sponsor" />
 <strong> Winner: </strong><br><a href="https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.25.aa4d97aa">Elastowave: Localized Tactile Feedback in a Soft Haptic Interface via Focused Elastic Waves</a><br>Gregory Reardon, Nikolas Kastor, Yitian Shao, and Yon Visell<br>$1000 prize sponsored by <a href="https://www.facebook.com/careers/life/facebook-reality-labs-turning-ideas-into-realities">Facebook Reality Labs</a>
 </div>
+
+
 <div class="w-100 center mw6 pa3 mb1">
 <img class="0 ma3" src="/img/47aff54e-25e5-48ca-a446-330069532b78-mpi-stuttgart.mpg.de.png" alt="An award slide featuring the authors and sponsor" />
 <strong> First honorable mention: </strong><br><a href="https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.12.af578b0a">A Hybrid Active-Passive Actuation and Control Approach for Kinesthetic Handheld Haptics</a><br>Patrick Dills, Nick Colonnese, Priyanshu Agarwal, and Michael Zinn<br>$500 prize sponsored by <a href="https://www.facebook.com/careers/life/facebook-reality-labs-turning-ideas-into-realities">Facebook Reality Labs</a>
@@ -37,14 +54,19 @@ A committee of three experts (Seungmoon Choi, Katherine J. Kuchenbecker, and Ver
 <img class="0 ma3" src="/img/af369802-4b88-43a5-b1ca-5741ec2302ef-mpi-stuttgart.mpg.de.png" alt="An award slide featuring the authors and sponsor" />
 <strong> Second honorable mention (1 of 2): </strong><br><a href="https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.7.ec43f6a7">Time-Dependent Cues Encode the Minimum Exploration Time in Discriminating Naturalistic Compliances</a><br>Chang Xu and Gregory J. Gerling<br>$250 prize sponsored by <a href="https://www.facebook.com/careers/life/facebook-reality-labs-turning-ideas-into-realities">Facebook Reality Labs</a>
 </div>
+
+
 <div class="w-100 center mw6 pa3 mb1">
 <img class="0 ma3" src="/img/ecbe90e1-b9ae-4722-b808-369b13b91917-mpi-stuttgart.mpg.de.png" alt="An award slide featuring the authors and sponsor" />
 <strong> Second honorable mention (2 of 2): </strong><br><a href="https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.80.00957e94">Vibrator Transparency: Re-using Vibrotactile Signal Assets for Different Black Box Vibrators Without Re-designing</a><br>Yusuke Ujitoko, Sho Sakurai, and Koichi Hirota<br>$250 prize sponsored by <a href="https://www.facebook.com/careers/life/facebook-reality-labs-turning-ideas-into-realities">Facebook Reality Labs</a>
 </div>
 
 ## Best Video Presentation
+
 In lieu of oral presentations, authors of all ToH short papers and technical papers were invited to prepare and submit a three-minute-long video presentation.  All authors provided such a video, which can be accessed on the [video presentations](https://2020.hapticssymposium.org/program/video-presentations/) page of this website.
+
 This award was selected through a community-based voting process.  Each person associated with IEEE Haptics Symposium 2020 had the right to vote, including registrants, co-authors of all types of contributions, student volunteers, and members of the Organizing Committee, Program Committee, and Conference Editorial Board.  Individuals were asked not to vote for videos produced by their own research team.  The details of the voting process were distributed by email on June 13, and votes were due by June 21.  
+
 A coordination committee of three experts (Ildar Farkhatdinov, Katherine J. Kuchenbecker, and Claudio Pacchierotti) tallied the votes, removing those that were invalid.  The Awards Chair then selected the one winner and the three honorable mentions based on the votes received.  All selected video presentations were shown in the [livestream event](https://www.youtube.com/watch?v=1h-9czaJmOY).
 
 <div class="w-100 center mw6 pa3 mb1">
