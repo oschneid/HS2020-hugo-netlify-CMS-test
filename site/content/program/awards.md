@@ -54,19 +54,11 @@ A committee of three experts (Seungmoon Choi, Katherine J. Kuchenbecker, and Ver
 
 ![An award slide featuring the authors and sponsor](/img/0fc1cbd7-a1a6-4488-b171-0ed6eb3a9ead-mpi-stuttgart.mpg.de.png "An award slide featuring the authors and sponsor")
 
-
-
 ![An award slide featuring the authors and sponsor](/img/47aff54e-25e5-48ca-a446-330069532b78-mpi-stuttgart.mpg.de.png "An award slide featuring the authors and sponsor")
-
-
 
 ![An award slide featuring the authors and sponsor](/img/af369802-4b88-43a5-b1ca-5741ec2302ef-mpi-stuttgart.mpg.de.png "An award slide featuring the authors and sponsor")
 
-
-
 ![An award slide featuring the authors and sponsor](/img/ecbe90e1-b9ae-4722-b808-369b13b91917-mpi-stuttgart.mpg.de.png "An award slide featuring the authors and sponsor")
-
-
 
 ## Best Video Presentation
 
@@ -75,6 +67,16 @@ In lieu of oral presentations, authors of all ToH short papers and technical pap
 This award was selected through a community-based voting process.  Each person associated with IEEE Haptics Symposium 2020 had the right to vote, including registrants, co-authors of all types of contributions, student volunteers, and members of the Organizing Committee, Program Committee, and Conference Editorial Board.  Individuals were asked not to vote for videos produced by their own research team.  The details of the voting process were distributed by email on June 13, and votes were due by June 21.  
 
 A coordination committee of three experts (Ildar Farkhatdinov, Katherine J. Kuchenbecker, and Claudio Pacchierotti) tallied the votes, removing those that were invalid.  The Awards Chair then selected the one winner and the three honorable mentions based on the votes received.  All selected video presentations were shown in the [livestream event](https://www.youtube.com/watch?v=1h-9czaJmOY).
+
+![An award slide featuring the authors and sponsor](/img/0fc6e2a8-f0a3-4410-922c-f1d29f80fb33-mpi-stuttgart.mpg.de.png "An award slide featuring the authors and sponsor")
+
+![An award slide featuring the authors and sponsor](/img/6b719219-f91d-4bf1-bc3f-2134da68103d-mpi-stuttgart.mpg.de.png "An award slide featuring the authors and sponsor")
+
+![An award slide featuring the authors and sponsor](/img/21109aee-3832-48de-8662-86bc6ffb860f-mpi-stuttgart.mpg.de.png "An award slide featuring the authors and sponsor")
+
+![An award slide featuring the authors and sponsor](/img/87d064f0-3bd8-4651-9f3c-51d37f5b7c20-mpi-stuttgart.mpg.de.png "An award slide featuring the authors and sponsor")
+
+
 
 ## Most Exciting Work-in-progress Paper
 
