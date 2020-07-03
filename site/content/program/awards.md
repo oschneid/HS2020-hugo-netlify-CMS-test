@@ -13,13 +13,44 @@ Thirty-six of the papers presented at the conference were published as short pap
 
 A committee of three experts (Katherine J. Kuchenbecker, Vincent Lévesque, and Hiroyuki Shinoda) selected the winner of this award based on the final manuscripts, any supplementary materials, the anonymized reviews, and the video presentations.  In addition to the winner, they selected one first honorable mention and one second honorable mention.
 
-* **Winner:**
-  [Path Routing Optimization for  STM Ultrasound Rendering](https://doi.org/10.1109/TOH.2019.2963647)
-  Héctor Barreiro, Stephen Sinclair, and Miguel A. Otaduy
-  $1000 prize sponsored by [Force Dimension](http://www.forcedimension.com)
-  ![](<>)
-  ![An award slide featuring the authors and sponsor](/img/95abdaed-3dba-4e07-ad7d-a6418049430a-mpi-stuttgart.mpg.de.png "An award slide featuring the authors and sponsor")
-* 
+**Winner:**
+
+
+[Path Routing Optimization for  STM Ultrasound Rendering](https://doi.org/10.1109/TOH.2019.2963647)
+
+
+Héctor Barreiro, Stephen Sinclair, and Miguel A. Otaduy
+
+
+$1000 prize sponsored by [Force Dimension](http://www.forcedimension.com)
+![](<>)
+![An award slide featuring the authors and sponsor](/img/95abdaed-3dba-4e07-ad7d-a6418049430a-mpi-stuttgart.mpg.de.png "An award slide featuring the authors and sponsor")
+
+<hr>
+
+**First Honorable Mention:**
+
+[Caring About the Human Operator: Haptic Shared Control for Enhanced User Comfort in Robotic Telemanipulation](https://doi.org/10.1109/TOH.2020.2969662)
+
+Rahaf Rahal, Giulia Matarese, Marco Gabiccini, Alessio Artoni, Domenico Prattichizzo, Paolo Robuffo Giordano, and Claudio Pacchierotti
+
+$500 prize sponsored by [Intuitive Surgical](https://www.intuitive.com/en-us)
+
+![An award slide featuring the authors and sponsor](/img/db1d82d4-45cb-4098-8466-d54c77419b13-mpi-stuttgart.mpg.de.png "An award slide featuring the authors and sponsor")
+
+<hr>
+
+**Second Honorable Mention:**
+
+[Altering the Stiffness, Friction, and Shape Perception of Tangible Objects in Virtual Reality Using Wearable Haptics](https://dx.doi.org/10.1109/TOH.2020.2967389)
+
+Steeven Villa Salazar, Claudio Pacchierotti, Xavier de Tinguy, Anderson Maciel, and Maud Marchal
+
+$250 prize sponsored by [Intuitive Surgical](https://www.intuitive.com/en-us)
+
+![An award slide featuring the authors and sponsor](/img/f2562fb1-5654-419f-b7c3-504adbc35203-mpi-stuttgart.mpg.de.png "An award slide featuring the authors and sponsor")
+
+
 
 ## Best Technical Paper
 
