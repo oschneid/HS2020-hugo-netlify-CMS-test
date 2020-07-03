@@ -25,8 +25,6 @@ $1000 prize sponsored by <a href="http://www.forcedimension.com">Force Dimension
 
 </div>
 
-<hr>
-
 
 
 **First Honorable Mention:**
