@@ -52,9 +52,10 @@ $250 prize sponsored by <a href="https://www.intuitive.com/en-us">Intuitive Surg
 
 ## Best Technical Paper
 
-Forty-one of the papers presented at the conference were published as technical papers.  The Haptics Symposium 2020 Editor-in-Chief, Veronica Santos, selected eight papers to be considered for this award based on the strength of the reviews they received.  The authors of all eight papers submitted video presentations, which will be shown in the livestream event.
+Forty-one of the papers presented at the conference were published as technical papers.  The Haptics Symposium 2020 Editor-in-Chief, Veronica Santos, selected eight papers to be considered for this award based on the strength of the reviews they received.  The authors of all eight papers submitted video presentations that are [available online](https://2020.hapticssymposium.org/program/video-presentations/) and were also shown in [the livestream event](https://www.youtube.com/watch?v=1h-9czaJmOY).
 
-A committee of three experts will select the winner of this award based on the final manuscripts, any supplementary materials, the anonymized reviews, and the video presentations.  The winner of the award will receive a monetary prize sponsored by [Facebook Reality Labs](https://www.facebook.com/careers/life/facebook-reality-labs-turning-ideas-into-realities).  Each honorable mention will receive a smaller monetary prize.
+A committee of three experts (Seungmoon Choi, Katherine J. Kuchenbecker, and Veronica Santos) selected the winner of this award based on the final manuscripts, any supplementary materials, the anonymized reviews, and the video presentations.  In addition to the winner, they selected one first honorable mention and two second honorable mentions.
+
 
 ## Best Video Presentation
 
