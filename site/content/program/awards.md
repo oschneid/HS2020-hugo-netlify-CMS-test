@@ -18,6 +18,7 @@ A committee of three experts (Katherine J. Kuchenbecker, Vincent Lévesque, and 
   Héctor Barreiro, Stephen Sinclair, and Miguel A. Otaduy
   $1000 prize sponsored by [Force Dimension](http://www.forcedimension.com)
   ![](<>)
+  ![An award slide featuring the authors and sponsor](/img/95abdaed-3dba-4e07-ad7d-a6418049430a-mpi-stuttgart.mpg.de.png "An award slide featuring the authors and sponsor")
 * 
 
 ## Best Technical Paper
