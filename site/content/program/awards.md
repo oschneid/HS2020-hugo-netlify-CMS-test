@@ -80,9 +80,13 @@ A coordination committee of three experts (Ildar Farkhatdinov, Katherine J. Kuch
 
 ## Most Exciting Work-in-progress Paper
 
-A total of forty-four work-in-progress (WIP) papers were accepted for the conference.  The Haptics Symposium 2020 WIP Chair, Heather Culbertson, selected four papers to be considered for this award based on the strength of the reviews they received.  The authors of all four of these WIP papers submitted short video presentations, which will be shown in the livestream event.
+A total of forty-four work-in-progress (WIP) papers were accepted for the conference.  The Haptics Symposium 2020 WIP Chair, Heather Culbertson, selected four papers to be considered for this award based on the strength of the reviews they received.  The authors of all four of these two-page-long WIP papers submitted short video presentations, which were shown in the [livestream event](https://www.youtube.com/watch?v=1h-9czaJmOY).
 
-A committee of four experts will select the winner of this award based on the final manuscripts, the anonymized reviews, and the video presentations.  The winner of the award will receive a monetary prize sponsored by [Intuitive Surgical](https://www.intuitive.com/en-us).  Each honorable mention will receive a smaller monetary prize.
+A committee of four experts (Heather Culbertson, Katherine J. Kuchenbecker, Masashi Nakatini, and Myrthe Plansier) selected the winner of this award based on the final manuscripts, the anonymized reviews, and the video presentations. In addition to the winner, they selected one honorable mention.
+
+
+
+
 
 ## Outstanding Reviewers
 
