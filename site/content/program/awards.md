@@ -3,15 +3,26 @@ title: Awards
 ---
 # Awards
 
-Four awards will be distributed at IEEE Haptics Symposium 2020 to honor top contributions in each of the main categories of short IEEE Transactions on Haptics papers, technical papers, video presentations, and WIP papers. Commendations will also be conferred for outstanding reviewing of technical paper submissions.  Given the virtual format of the conference, no award will be given for hands-on demonstrations.  
+Four main awards were distributed at IEEE Haptics Symposium 2020 to honor top contributions in each of the main categories of IEEE Transactions on Haptics short papers, technical papers, video presentations, and WIP papers. Commendations were also conferred for outstanding reviewing of technical paper submissions.  Given the virtual format of the conference, no awards were given for hands-on demonstrations.  
 
-The details of each award appear below.  All winners will be announced during the award ceremony portion of the livestream event on June 25, 2020, and they will be listed below shortly thereafter.  In addition to the listed monetary prizes, each winner will receive a commemorative certificate by mail.
+The details of each award appear below.  All winners were announced during the award ceremony portion of the [livestream event](https://www.youtube.com/watch?v=1h-9czaJmOY) on June 25, 2020, which is also archived for online viewing.  In addition to the listed monetary prizes, each winning team received a commemorative certificate by mail.
 
 ## Best IEEE Transactions on Haptics Short Paper
 
-Thirty-six of the papers presented at the conference were published as short papers in the IEEE Transactions on Haptics (ToH).  The ToH Editor-in-Chief, Lynette Jones, selected six papers to be considered for this inaugural award based on the strength of the reviews they received.  The authors of all six papers submitted video presentations, which will be shown in the livestream event.
+Thirty-six of the papers presented at the conference were published as short papers in the IEEE Transactions on Haptics (ToH).  The ToH Editor-in-Chief, Lynette Jones, selected six of these papers to be considered for this inaugural award based on the strength of the reviews they received.  The authors of all six ToH short paper award finalists submitted video presentations that are [available online](https://2020.hapticssymposium.org/program/video-presentations/) and were also shown in the [livestream event](https://www.youtube.com/watch?v=1h-9czaJmOY).
 
-A committee of three experts will select the winner of this award based on the final manuscripts, any supplementary materials, the anonymized reviews, and the video presentations.  The winner of the award will receive a monetary prize sponsored by [Force Dimension](http://www.forcedimension.com).  Each honorable mention will receive a smaller monetary prize.
+A committee of three experts (Katherine J. Kuchenbecker, Vincent Lévesque, and Hiroyuki Shinoda) selected the winner of this award based on the final manuscripts, any supplementary materials, the anonymized reviews, and the video presentations.  In addition to the winner, they selected one first honorable mention and one second honorable mention.
+
+* **Winner:**
+  [Path Routing Optimization for  STM Ultrasound Rendering](https://doi.org/10.1109/TOH.2019.2963647)
+  Héctor Barreiro, Stephen Sinclair, and Miguel A. Otaduy
+  $1000 prize sponsored by [Force Dimension](http://www.forcedimension.com)
+  ![]()
+* 
+
+
+
+
 
 ## Best Technical Paper
 
