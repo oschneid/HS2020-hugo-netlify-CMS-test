@@ -70,10 +70,12 @@ This award was selected through a community-based voting process.  Each person a
 A coordination committee of three experts (Ildar Farkhatdinov, Katherine J. Kuchenbecker, and Claudio Pacchierotti) tallied the votes, removing those that were invalid.  The Awards Chair then selected the one winner and the three honorable mentions based on the votes received.  All selected video presentations were shown in the [livestream event](https://www.youtube.com/watch?v=1h-9czaJmOY).
 
 <div class="w-100 center mw6 pa3 mb1">
-<img class="0 ma3" src="IMAGE" alt="An award slide featuring the authors and sponsor" />
-<strong> AWARD </strong><br><a href="LINK">TITLE</a><br>AUTHORS<br>$MONEY prize sponsored by <a href="LINK">SPONSOR</a>
+<img class="0 ma3" src="/img/0fc6e2a8-f0a3-4410-922c-f1d29f80fb33-mpi-stuttgart.mpg.de.png" alt="An award slide featuring the authors and sponsor" />
+<strong> Winner: </strong><br><a href="https://youtu.be/Ecf-pjsnRZg">A Hybrid Active-Passive Actuation and Control Approach for Kinesthetic Handheld Haptics</a><br>Patrick Dills, Nick Colonnese, Priyanshu Agarwal, and Michael Zinn<br>$500 prize sponsored by <a href="https://www.facebook.com/careers/life/facebook-reality-labs-turning-ideas-into-realities">Facebook Reality Labs</a>
 </div>
-![An award slide featuring the authors and sponsor](/img/0fc6e2a8-f0a3-4410-922c-f1d29f80fb33-mpi-stuttgart.mpg.de.png "An award slide featuring the authors and sponsor")
+
+
+
 
 <div class="w-100 center mw6 pa3 mb1">
 <img class="0 ma3" src="IMAGE" alt="An award slide featuring the authors and sponsor" />
