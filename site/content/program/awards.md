@@ -29,15 +29,18 @@ $1000 prize sponsored by <a href="http://www.forcedimension.com">Force Dimension
 
 **First Honorable Mention:**
 
-[Caring About the Human Operator: Haptic Shared Control for Enhanced User Comfort in Robotic Telemanipulation](https://doi.org/10.1109/TOH.2020.2969662)
+<div class="w-100 center mw6 pa3 mb3">
 
-Rahaf Rahal, Giulia Matarese, Marco Gabiccini, Alessio Artoni, Domenico Prattichizzo, Paolo Robuffo Giordano, and Claudio Pacchierotti
+<img class="0 ma3" src="/img/db1d82d4-45cb-4098-8466-d54c77419b13-mpi-stuttgart.mpg.de.png" alt="An award slide featuring the authors and sponsor" />
 
-$500 prize sponsored by [Intuitive Surgical](https://www.intuitive.com/en-us)
+<strong>Winner:</strong><br>
+<a href="https://doi.org/10.1109/TOH.2020.2969662">Caring About the Human Operator: Haptic Shared Control for Enhanced User Comfort in Robotic Telemanipulation</a><br>
+Rahaf Rahal, Giulia Matarese, Marco Gabiccini, Alessio Artoni, Domenico Prattichizzo, Paolo Robuffo Giordano, and Claudio Pacchierotti <br>
+$500 prize sponsored by <a href="https://www.intuitive.com/en-us">Intuitive Surgical</a>
 
-![An award slide featuring the authors and sponsor](/img/db1d82d4-45cb-4098-8466-d54c77419b13-mpi-stuttgart.mpg.de.png "An award slide featuring the authors and sponsor")
 
-<hr>
+</div>
+
 
 **Second Honorable Mention:**
 
