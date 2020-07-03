@@ -120,13 +120,24 @@ A committee of four experts (Heather Culbertson, Katherine J. Kuchenbecker, Masa
 
 
 ## Outstanding Reviewers
+
 The Haptics Symposium publication process critically depends on careful and constructive expert review of submitted manuscripts.  Individuals who reviewed IEEE Transactions on Haptics short papers were eligible for the journal’s annual reviewing awards, while individuals who reviewed at least one technical paper submission were eligible for this commendation from the conference.
+
 After the review of all technical papers was complete, the Haptics Symposium 2020 Editor-in-Chief, Veronica Santos, invited all members of the Program Committee to nominate reviewers for this prize.  A subset of the Best Technical Paper Award Committee looked over the reviews submitted by each nominee and selected the winners.
+
 <div class="w-100 center mw6 pa3 mb1">
-<img class="0 ma3" src="IMAGE" alt="An award slide featuring the authors and sponsor" />
-<strong> AWARD </strong><br><a href="LINK">TITLE</a><br>AUTHORS<br>$MONEY prize sponsored by <a href="LINK">SPONSOR</a>
+<img class="0 ma3" src="/img/52b45d42-2698-40b4-bc24-99dd31cccbea-mpi-stuttgart.mpg.de.png" alt="An award slide featuring the three winners of the outstanding reviewers award" />
+<strong> Winners: </strong>
+<ul>
+<li>Pascal E. Fortin, McGill University, Canada</li>
+<li>Alastair Loutit, University of New South Wales, Australia</li>
+<li>Tatjana Seizova-Cajic, The University of Sydney, Australia</li>
+</ul>
+
 </div>
-![An award slide featuring the three winners of the outstanding reviewers award](/img/52b45d42-2698-40b4-bc24-99dd31cccbea-mpi-stuttgart.mpg.de.png "An award slide featuring the three winners of the outstanding reviewers award")
+
+![An award slide featuring the three winners of the outstanding reviewers award](/img/52b45d42-2698-40b4-bc24-99dd31cccbea-mpi-stuttgart.mpg.de.png "")
+
 ## Awards Ceremony
 All of the awards and honorable mentions listed above were first announced during the IEEE Haptics Symposium 2020 awards ceremony, which was part of the conference’s [livestream event](https://www.youtube.com/watch?v=1h-9czaJmOY).  The [awards ceremony](https://youtu.be/1h-9czaJmOY?t=8430) begins at 2:20:30 in the recording of the livestream.
 The Awards Chair, the members of the awards committees, the Program Committee, and the Organizing Committee heartily congratulate the finalists, honorable mentions, and winners on their outstanding work.  Many thanks to everyone for contributing to a very successful IEEE Haptics Symposium 2020!
