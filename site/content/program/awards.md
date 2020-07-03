@@ -102,14 +102,17 @@ $250 prize sponsored by <a href="https://www.facebook.com/careers/life/facebook-
 
 
 ## Most Exciting Work-in-progress Paper
+
 A total of forty-four work-in-progress (WIP) papers were accepted for the conference.  The Haptics Symposium 2020 WIP Chair, Heather Culbertson, selected four papers to be considered for this award based on the strength of the reviews they received.  The authors of all four of these two-page-long WIP papers submitted short video presentations, which were shown in the [livestream event](https://www.youtube.com/watch?v=1h-9czaJmOY).
+
 A committee of four experts (Heather Culbertson, Katherine J. Kuchenbecker, Masashi Nakatini, and Myrthe Plansier) selected the winner of this award based on the final manuscripts, the anonymized reviews, and the video presentations. In addition to the winner, they selected one honorable mention.
+
 <div class="w-100 center mw6 pa3 mb1">
-<img class="0 ma3" src="IMAGE" alt="An award slide featuring the authors and sponsor" />
-<strong> AWARD </strong><br><a href="LINK">TITLE</a><br>AUTHORS<br>$MONEY prize sponsored by <a href="LINK">SPONSOR</a>
+<img class="0 ma3" src="/img/74e8b6b1-362f-4362-85a0-1e5cab20924f-mpi-stuttgart.mpg.de.png" alt="An award slide featuring the authors and sponsor" />
+<strong> Winner: </strong><br>Modeling of Soft Bellows Actuators<br>Emma Treadway, Melissa Brei, and R. Brent Gillespie<br>$250 prize sponsored by <a href="https://www.intuitive.com/en-us">Intuitive Surgical</a>
 </div>
 
-![An award slide featuring the authors and sponsor](/img/74e8b6b1-362f-4362-85a0-1e5cab20924f-mpi-stuttgart.mpg.de.png "An award slide featuring the authors and sponsor")
+![An award slide featuring the authors and sponsor]( "An award slide featuring the authors and sponsor")
 
 <div class="w-100 center mw6 pa3 mb1">
 <img class="0 ma3" src="IMAGE" alt="An award slide featuring the authors and sponsor" />
