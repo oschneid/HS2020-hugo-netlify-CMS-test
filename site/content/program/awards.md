@@ -112,8 +112,6 @@ A committee of four experts (Heather Culbertson, Katherine J. Kuchenbecker, Masa
 <strong> Winner: </strong><br>Modeling of Soft Bellows Actuators<br>Emma Treadway, Melissa Brei, and R. Brent Gillespie<br>$250 prize sponsored by <a href="https://www.intuitive.com/en-us">Intuitive Surgical</a>
 </div>
 
-![An award slide featuring the authors and sponsor]( "An award slide featuring the authors and sponsor")
-
 <div class="w-100 center mw6 pa3 mb1">
 <img class="0 ma3" src="IMAGE" alt="An award slide featuring the authors and sponsor" />
 <strong> AWARD </strong><br><a href="LINK">TITLE</a><br>AUTHORS<br>$MONEY prize sponsored by <a href="LINK">SPONSOR</a>
