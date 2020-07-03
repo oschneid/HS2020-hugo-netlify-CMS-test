@@ -28,7 +28,7 @@ This online video program features short video presentations (approx. 3 minutes)
 <iframe loading="lazy" width="350" height="197" src="https://www.youtube.com/embed/SE1JTNXGXzQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 <a href="https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.8.0698f2bb" target="_blank">Soft Haptic Interface based on Vibration and Particle Jamming</a> by Joshua P. Brown and Ildar Farkhatdinov
 <a href="https://2020.hapticssymposium.org/program/awards/" style="box-shadow:inset 0 0 0 0 transparent; background-color: transparent; text-decoration: none;">
-<img src="/img/award-ribbon-light-25.png" height="25" style="display: inline; vertical-align: top; margin: 0" alt="Finalist, Best Technical Paper Award" title="Finalist, Best Technical Paper Award">
+<img src="/img/icon_gray_ribbon-25.png" height="25" style="display: inline; vertical-align: top; margin: 0" alt="Finalist, Best Technical Paper Award" title="Finalist, Best Technical Paper Award">
 </a>
 <br>
 </div>
@@ -36,10 +36,10 @@ This online video program features short video presentations (approx. 3 minutes)
 <iframe loading="lazy" width="350" height="197" src="https://www.youtube.com/embed/Pz4VusPdVfY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 <a href="https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.25.aa4d97aa" target="_blank">Elastowave: Localized Tactile Feedback in a Soft Haptic Interface via Focused Elastic Waves</a> by Gregory Reardon, Nikolas Kastor, Yitian Shao, and Yon Visell
 <a href="https://2020.hapticssymposium.org/program/awards/" style="box-shadow:inset 0 0 0 0 transparent; background-color: transparent; text-decoration: none;">
-<img src="/img/award-trophy-orange-25.png" height="25" style="display: inline; vertical-align: top; margin: 0" alt="Winner, Best Technical Paper Award" title="Winner, Best Technical Paper Award">
+<img src="/img/icon_orange_trophy-25.png" height="25" style="display: inline; vertical-align: top; margin: 0" alt="Winner, Best Technical Paper Award" title="Winner, Best Technical Paper Award">
 </a>
 <a href="https://2020.hapticssymposium.org/program/awards/" style="box-shadow:inset 0 0 0 0 transparent; background-color: transparent; text-decoration: none;">
-<img src="/img/award-medal-dark-25.png" height="25" style="display: inline; vertical-align: top; margin: 0" alt="Honorable Mention, Best Video Presentation" title="Honorable Mention, Best Video Presentation">
+<img src="/img/icon_gray_trophy-25.png" height="25" style="display: inline; vertical-align: top; margin: 0" alt="Honorable Mention, Best Video Presentation" title="Honorable Mention, Best Video Presentation">
 </a>
 <br>
 </div>
@@ -52,7 +52,7 @@ This online video program features short video presentations (approx. 3 minutes)
 <iframe loading="lazy" width="350" height="197" src="https://www.youtube.com/embed/PiivyGbJWQM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 <a href="https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.7.ec43f6a7" target="_blank">Time-Dependent Cues Encode the Minimum Exploration Time in Discriminating Naturalistic Compliances</a> by Chang Xu and Gregory J. Gerling
 <a href="https://2020.hapticssymposium.org/program/awards/" style="box-shadow:inset 0 0 0 0 transparent; background-color: transparent; text-decoration: none;">
-<img src="/img/award-trophy-dark-25.png" height="25" style="display: inline; vertical-align: top; margin: 0" alt="Second Honorable Mention, Best Technical Paper Award" title="Second Honorable Mention, Best Technical Paper Award">
+<img src="/img/icon_gray_trophy-25.png" height="25" style="display: inline; vertical-align: top; margin: 0" alt="Second Honorable Mention, Best Technical Paper Award" title="Second Honorable Mention, Best Technical Paper Award">
 </a>
 <br>
 </div>
@@ -99,7 +99,7 @@ This online video program features short video presentations (approx. 3 minutes)
 <iframe loading="lazy" width="350" height="197" src="https://www.youtube.com/embed/4zqhuDM2MOY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 <a href="https://doi.org/10.1109/TOH.2019.2963647" target="_blank">Path Routing Optimization for STM Ultrasound Rendering</a> by Hector Barreiro, Stephen Sinclair and Miguel A. Otaduy
 <a href="https://2020.hapticssymposium.org/program/awards/" style="box-shadow:inset 0 0 0 0 transparent; background-color: transparent; text-decoration: none;">
-<img src="/img/award-trophy-orange-25.png" height="25" style="display: inline; vertical-align: top; margin: 0" alt="Winner, Best IEEE ToH Short Paper Award" title="Winner, Best IEEE ToH Short Paper Award">
+<img src="/img/icon_orange_trophy-25.png" height="25" style="display: inline; vertical-align: top; margin: 0" alt="Winner, Best IEEE ToH Short Paper Award" title="Winner, Best IEEE ToH Short Paper Award">
 </a>
 <br>
 </div>
@@ -126,7 +126,7 @@ This online video program features short video presentations (approx. 3 minutes)
 <iframe loading="lazy" width="350" height="197" src="https://www.youtube.com/embed/9gMjSfRO6mg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 <a href="https://doi.org/10.1109/TOH.2020.2969662" target="_blank">Caring about the human operator: haptic shared control for enhanced user comfort in robotic telemanipulation</a> by Rahaf Rahal, Giulia Matarese, Marco Gabiccini, Alessio Artoni, Domenico Prattichizzo, Paolo Robuffo Giordano, and Claudio Pacchierotti
 <a href="https://2020.hapticssymposium.org/program/awards/" style="box-shadow:inset 0 0 0 0 transparent; background-color: transparent; text-decoration: none;">
-<img src="/img/award-trophy-light-25.png" height="25" style="display: inline; vertical-align: top; margin: 0" alt="First Honorable Mention, Best IEEE ToH Short Paper Award" title="First Honorable Mention, Best IEEE ToH Short Paper Award">
+<img src="/img/icon_gray_trophy-25.png" height="25" style="display: inline; vertical-align: top; margin: 0" alt="First Honorable Mention, Best IEEE ToH Short Paper Award" title="First Honorable Mention, Best IEEE ToH Short Paper Award">
 </a>
 <br>
 </div>
@@ -173,7 +173,7 @@ This online video program features short video presentations (approx. 3 minutes)
 <iframe loading="lazy" width="350" height="197" src="https://www.youtube.com/embed/FLk4PFlLIxQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 <a href="https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.35.f631355d" target="_blank">Investigating Social Haptic Illusions for Tactile Stroking (SHIFTS)</a> by Cara M. Nunez, Bryce N. Huerta, Allison M. Okamura, and Heather Culbertson
 <a href="https://2020.hapticssymposium.org/program/awards/" style="box-shadow:inset 0 0 0 0 transparent; background-color: transparent; text-decoration: none;">
-<img src="/img/award-ribbon-light-25.png" height="25" style="display: inline; vertical-align: top; margin: 0" alt="Finalist, Best Technical Paper Award" title="Finalist, Best Technical Paper Award">
+<img src="/img/icon_gray_ribbon-25.png" height="25" style="display: inline; vertical-align: top; margin: 0" alt="Finalist, Best Technical Paper Award" title="Finalist, Best Technical Paper Award">
 </a>
 <br>
 </div>
@@ -191,7 +191,7 @@ This online video program features short video presentations (approx. 3 minutes)
 <iframe loading="lazy" width="350" height="197" src="https://www.youtube.com/embed/cJDaGbI0Ia0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 <a href="https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.28.cd53ecaf" target="_blank">Interpersonal Vibrotactile Feedback Via Waves Transmitted through the Skin: Mechanics and Perception</a> by Taku Hachisu, Gregory Reardon, Yitian Shao, Kenji Suzuki, and Yon Visell
 <a href="https://2020.hapticssymposium.org/program/awards/" style="box-shadow:inset 0 0 0 0 transparent; background-color: transparent; text-decoration: none;">
-<img src="/img/award-medal-dark-25.png" height="25" style="display: inline; vertical-align: top; margin: 0" alt="Honorable Mention, Best Video Presentation" title="Honorable Mention, Best Video Presentation">
+<img src="/img/icon_gray_trophy-25.png" height="25" style="display: inline; vertical-align: top; margin: 0" alt="Honorable Mention, Best Video Presentation" title="Honorable Mention, Best Video Presentation">
 </a>
 <br>
 </div>
@@ -223,7 +223,7 @@ This online video program features short video presentations (approx. 3 minutes)
 <iframe loading="lazy" width="350" height="197" src="https://www.youtube.com/embed/sPoz2GnWVf0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 <a href="https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.26.5d3bec79" target="_blank">Evolving Dyadic Strategies for a Cooperative Physical Task</a> by Saber Sheybani, Eduardo Izquierdo and Eatai Roth
 <a href="https://2020.hapticssymposium.org/program/awards/" style="box-shadow:inset 0 0 0 0 transparent; background-color: transparent; text-decoration: none;">
-<img src="/img/award-ribbon-light-25.png" height="25" style="display: inline; vertical-align: top; margin: 0" alt="Finalist, Best Technical Paper Award" title="Finalist, Best Technical Paper Award">
+<img src="/img/icon_gray_ribbon-25.png" height="25" style="display: inline; vertical-align: top; margin: 0" alt="Finalist, Best Technical Paper Award" title="Finalist, Best Technical Paper Award">
 </a>
 <br>
 </div>
@@ -231,10 +231,10 @@ This online video program features short video presentations (approx. 3 minutes)
 <iframe loading="lazy" width="350" height="197" src="https://www.youtube.com/embed/Ecf-pjsnRZg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 <a href="https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.12.af578b0a" target="_blank">A Hybrid Active-Passive Actuation and Control Approach for Kinesthetic Handheld Haptics</a> by Patrick Dills, Nick Colonnese, Priyanshu Agarwal, and Michael Zinn
 <a href="https://2020.hapticssymposium.org/program/awards/" style="box-shadow:inset 0 0 0 0 transparent; background-color: transparent; text-decoration: none;">
-<img src="/img/award-trophy-light-25.png" height="25" style="display: inline; vertical-align: top; margin: 0" alt="First Honorable Mention, Best Technical Paper Award" title="First Honorable Mention, Best Technical Paper Award">
+<img src="/img/icon_gray_trophy-25.png" height="25" style="display: inline; vertical-align: top; margin: 0" alt="First Honorable Mention, Best Technical Paper Award" title="First Honorable Mention, Best Technical Paper Award">
 </a>
 <a href="https://2020.hapticssymposium.org/program/awards/" style="box-shadow:inset 0 0 0 0 transparent; background-color: transparent; text-decoration: none;">
-<img src="/img/award-medal-orange-25.png" height="25" style="display: inline; vertical-align: top; margin: 0" alt="Winner, Best Video Presentation" title="Winner, Best Video Presentation">
+<img src="/img/icon_orange_trophy-25.png" height="25" style="display: inline; vertical-align: top; margin: 0" alt="Winner, Best Video Presentation" title="Winner, Best Video Presentation">
 </a>
 <br>
 </div>
@@ -306,7 +306,7 @@ This online video program features short video presentations (approx. 3 minutes)
 <iframe loading="lazy" width="350" height="197" src="https://www.youtube.com/embed/47aAdPQ-WRo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 <a href=" https://doi.org/10.1109/TOH.2020.2970927" target="_blank">On the Role of Lateral Force in Texture-Induced Motion Bias During Reaching Tasks</a> by Gemma Carolina Bettelani, Alessandro Moscatelli and Matteo Bianchi
 <a href="https://2020.hapticssymposium.org/program/awards/" style="box-shadow:inset 0 0 0 0 transparent; background-color: transparent; text-decoration: none;">
-<img src="/img/award-ribbon-light-25.png" height="25" style="display: inline; vertical-align: top; margin: 0" alt="Finalist, Best IEEE ToH Short Paper Award" title="Finalist, Best IEEE ToH Short Paper Award">
+<img src="/img/icon_gray_ribbon-25.png" height="25" style="display: inline; vertical-align: top; margin: 0" alt="Finalist, Best IEEE ToH Short Paper Award" title="Finalist, Best IEEE ToH Short Paper Award">
 </a>
 <br>
 </div>
@@ -333,10 +333,10 @@ This online video program features short video presentations (approx. 3 minutes)
 <iframe loading="lazy" width="350" height="197" src="https://www.youtube.com/embed/QtovA48V2DM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 <a href="https://doi.org/10.1109/TOH.2019.2963028" target="_blank">PUMAH : Pan-tilt Ultrasound Mid-Air Haptics for larger interaction workspace in virtual reality</a> by Thomas Howard, Maud Marchal, Anatole Lecuyer, and Claudio Pacchierotti
 <a href="https://2020.hapticssymposium.org/program/awards/" style="box-shadow:inset 0 0 0 0 transparent; background-color: transparent; text-decoration: none;">
-<img src="/img/award-ribbon-light-25.png" height="25" style="display: inline; vertical-align: top; margin: 0" alt="Finalist, Best IEEE ToH Short Paper Award" title="Finalist, Best IEEE ToH Short Paper Award">
+<img src="/img/icon_gray_ribbon-25.png" height="25" style="display: inline; vertical-align: top; margin: 0" alt="Finalist, Best IEEE ToH Short Paper Award" title="Finalist, Best IEEE ToH Short Paper Award">
 </a>
 <a href="https://2020.hapticssymposium.org/program/awards/" style="box-shadow:inset 0 0 0 0 transparent; background-color: transparent; text-decoration: none;">
-<img src="/img/award-medal-dark-25.png" height="25" style="display: inline; vertical-align: top; margin: 0" alt="Honorable Mention, Best Video Presentation" title="Honorable Mention, Best Video Presentation">
+<img src="/img/icon_gray_trophy-25.png" height="25" style="display: inline; vertical-align: top; margin: 0" alt="Honorable Mention, Best Video Presentation" title="Honorable Mention, Best Video Presentation">
 </a>
 <br>
 </div>
@@ -393,7 +393,7 @@ This online video program features short video presentations (approx. 3 minutes)
 <iframe loading="lazy" width="350" height="197" src="https://www.youtube.com/embed/6DFlP80zBpE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 <a href="https://doi.org/10.1109/TOH.2020.2966483" target="_blank">Dimensional Reduction for 6D Vibrotactile Display</a> by Ruisi Zhang, Trevor J. Schwehr and Jake J. Abbott
 <a href="https://2020.hapticssymposium.org/program/awards/" style="box-shadow:inset 0 0 0 0 transparent; background-color: transparent; text-decoration: none;">
-<img src="/img/award-ribbon-light-25.png" height="25" style="display: inline; vertical-align: top; margin: 0" alt="Finalist, Best IEEE ToH Short Paper Award" title="Finalist, Best IEEE ToH Short Paper Award">
+<img src="/img/icon_gray_ribbon-25.png" height="25" style="display: inline; vertical-align: top; margin: 0" alt="Finalist, Best IEEE ToH Short Paper Award" title="Finalist, Best IEEE ToH Short Paper Award">
 </a>
 <br>
 </div>
@@ -401,7 +401,7 @@ This online video program features short video presentations (approx. 3 minutes)
 <iframe loading="lazy" width="350" height="197" src="https://www.youtube.com/embed/8vIyeMrZ0so" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 <a href="https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.80.00957e94" target="_blank">Vibrator Transparency: Re-using Vibrotactile Signal Assets for Different Black Box Vibrators without Re-designing </a> by Yusuke Ujitoko, Koichi Hirota and Sho Sakurai
 <a href="https://2020.hapticssymposium.org/program/awards/" style="box-shadow:inset 0 0 0 0 transparent; background-color: transparent; text-decoration: none;">
-<img src="/img/award-trophy-dark-25.png" height="25" style="display: inline; vertical-align: top; margin: 0" alt="Second Honorable Mention, Best Technical Paper Award" title="Second Honorable Mention, Best Technical Paper Award">
+<img src="/img/icon_gray_trophy-25.png" height="25" style="display: inline; vertical-align: top; margin: 0" alt="Second Honorable Mention, Best Technical Paper Award" title="Second Honorable Mention, Best Technical Paper Award">
 </a>
 <br>
 </div>
@@ -423,7 +423,7 @@ This online video program features short video presentations (approx. 3 minutes)
 <iframe loading="lazy" width="350" height="197" src="https://www.youtube.com/embed/6HQ1d5mPP1c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 <a href="https://dx.doi.org/10.1109/TOH.2020.2967389" target="_blank">Altering the Stiffness, Friction, and Shape Perception of Tangible Objects in Virtual Reality Using Wearable Haptics</a> by David Steeven Villa Salazar, Claudio Pacchierotti, Xavier De tinguy de la girouliere, Anderson Maciel, and Maud Marchal
 <a href="https://2020.hapticssymposium.org/program/awards/" style="box-shadow:inset 0 0 0 0 transparent; background-color: transparent; text-decoration: none;">
-<img src="/img/award-trophy-dark-25.png" height="25" style="display: inline; vertical-align: top; margin: 0" alt="Second Honorable Mention, Best IEEE ToH Short Paper Award" title="Second Honorable Mention, Best IEEE ToH Short Paper Award">
+<img src="/img/icon_gray_trophy-25.png" height="25" style="display: inline; vertical-align: top; margin: 0" alt="Second Honorable Mention, Best IEEE ToH Short Paper Award" title="Second Honorable Mention, Best IEEE ToH Short Paper Award">
 </a>
 <br>
 </div>
@@ -470,7 +470,7 @@ This online video program features short video presentations (approx. 3 minutes)
 <iframe loading="lazy" width="350" height="197" src="https://www.youtube.com/embed/44RM8j0vMbQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 <a href="https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.3.3eea0b25" target="_blank">Hand Guidance Using Grasping Metaphor and Wearable Haptics</a> by Tommaso Lisini Baldi, Nicole D'Aurizio and Domenico Prattichizzo
 <a href="https://2020.hapticssymposium.org/program/awards/" style="box-shadow:inset 0 0 0 0 transparent; background-color: transparent; text-decoration: none;">
-<img src="/img/award-ribbon-light-25.png" height="25" style="display: inline; vertical-align: top; margin: 0" alt="Finalist, Best Technical Paper Award" title="Finalist, Best Technical Paper Award">
+<img src="/img/icon_gray_ribbon-25.png" height="25" style="display: inline; vertical-align: top; margin: 0" alt="Finalist, Best Technical Paper Award" title="Finalist, Best Technical Paper Award">
 </a>
 <br>
 </div>
