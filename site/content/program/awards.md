@@ -22,11 +22,7 @@ A committee of three experts (Katherine J. Kuchenbecker, Vincent Lévesque, and 
 Héctor Barreiro, Stephen Sinclair, and Miguel A. Otaduy <br>
 $1000 prize sponsored by <a href="http://www.forcedimension.com">Force Dimension</a>
 
-
 </div>
-
-
-
 
 <div class="w-100 center mw6 pa3 mb1">
 
@@ -56,13 +52,29 @@ Forty-one of the papers presented at the conference were published as technical 
 
 A committee of three experts (Seungmoon Choi, Katherine J. Kuchenbecker, and Veronica Santos) selected the winner of this award based on the final manuscripts, any supplementary materials, the anonymized reviews, and the video presentations.  In addition to the winner, they selected one first honorable mention and two second honorable mentions.
 
+![An award slide featuring the authors and sponsor](/img/0fc1cbd7-a1a6-4488-b171-0ed6eb3a9ead-mpi-stuttgart.mpg.de.png "An award slide featuring the authors and sponsor")
+
+
+
+![An award slide featuring the authors and sponsor](/img/47aff54e-25e5-48ca-a446-330069532b78-mpi-stuttgart.mpg.de.png "An award slide featuring the authors and sponsor")
+
+
+
+![An award slide featuring the authors and sponsor](/img/af369802-4b88-43a5-b1ca-5741ec2302ef-mpi-stuttgart.mpg.de.png "An award slide featuring the authors and sponsor")
+
+
+
+![An award slide featuring the authors and sponsor](/img/ecbe90e1-b9ae-4722-b808-369b13b91917-mpi-stuttgart.mpg.de.png "An award slide featuring the authors and sponsor")
+
 
 
 
 
 ## Best Video Presentation
 
-In lieu of oral presentations, authors of all ToH short papers and technical papers were invited to prepare and submit a three-minute-long video presentation.  Almost all authors provided such a video, which can be accessed on the [video presentations page](https://2020.hapticssymposium.org/program/video-presentations/) of this website.
+n lieu of oral presentations, authors of all ToH short papers and technical papers were invited to prepare and submit a three-minute-long video presentation.  All authors provided such a video, which can be accessed on the video presentations page of this website.
+
+
 
 This award will be selected through a community-based voting process.  Each person associated with IEEE Haptics Symposium 2020 has the right to vote, including registrants, co-authors of all types of contributions, student volunteers, and members of the Organizing Committee, Program Committee, and Conference Editorial Board.  Individuals are asked not to vote for videos produced by their own research team.  The details of the voting process were distributed by email on June 13, and votes are due by June 19.  
 
