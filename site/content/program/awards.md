@@ -84,7 +84,9 @@ A total of forty-four work-in-progress (WIP) papers were accepted for the confer
 
 A committee of four experts (Heather Culbertson, Katherine J. Kuchenbecker, Masashi Nakatini, and Myrthe Plansier) selected the winner of this award based on the final manuscripts, the anonymized reviews, and the video presentations. In addition to the winner, they selected one honorable mention.
 
+![An award slide featuring the authors and sponsor](/img/74e8b6b1-362f-4362-85a0-1e5cab20924f-mpi-stuttgart.mpg.de.png "An award slide featuring the authors and sponsor")
 
+![An award slide featuring the authors and sponsor](/img/7d642e31-a51e-4b11-b0e1-79f4045aee7a-mpi-stuttgart.mpg.de.png "An award slide featuring the authors and sponsor")
 
 
 
