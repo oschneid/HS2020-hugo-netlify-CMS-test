@@ -25,11 +25,8 @@ $1000 prize sponsored by <a href="http://www.forcedimension.com">Force Dimension
 
 </div>
 
-<div class="w-100 w-33-ns">
+<img class="w-100 w-33-ns" src="/img/95abdaed-3dba-4e07-ad7d-a6418049430a-mpi-stuttgart.mpg.de.png" alt="An award slide featuring the authors and sponsor" />
 
-![An award slide featuring the authors and sponsor](/img/95abdaed-3dba-4e07-ad7d-a6418049430a-mpi-stuttgart.mpg.de.png "An award slide featuring the authors and sponsor")
-
-</div>
 
 <hr>
 
