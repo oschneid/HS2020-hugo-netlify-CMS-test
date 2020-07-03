@@ -68,17 +68,13 @@ A committee of three experts (Seungmoon Choi, Katherine J. Kuchenbecker, and Ver
 
 
 
-
-
 ## Best Video Presentation
 
-n lieu of oral presentations, authors of all ToH short papers and technical papers were invited to prepare and submit a three-minute-long video presentation.  All authors provided such a video, which can be accessed on the video presentations page of this website.
+In lieu of oral presentations, authors of all ToH short papers and technical papers were invited to prepare and submit a three-minute-long video presentation.  All authors provided such a video, which can be accessed on the [video presentations](https://2020.hapticssymposium.org/program/video-presentations/) page of this website.
 
+This award was selected through a community-based voting process.  Each person associated with IEEE Haptics Symposium 2020 had the right to vote, including registrants, co-authors of all types of contributions, student volunteers, and members of the Organizing Committee, Program Committee, and Conference Editorial Board.  Individuals were asked not to vote for videos produced by their own research team.  The details of the voting process were distributed by email on June 13, and votes were due by June 21.  
 
-
-This award will be selected through a community-based voting process.  Each person associated with IEEE Haptics Symposium 2020 has the right to vote, including registrants, co-authors of all types of contributions, student volunteers, and members of the Organizing Committee, Program Committee, and Conference Editorial Board.  Individuals are asked not to vote for videos produced by their own research team.  The details of the voting process were distributed by email on June 13, and votes are due by June 19.  
-
-A committee of three experts will tally the votes and select the winner and any possible honorable mentions based on the votes received.  The winner of the award will receive a monetary prize sponsored by [Facebook Reality Labs](https://www.facebook.com/careers/life/facebook-reality-labs-turning-ideas-into-realities).  If any are selected, each honorable mention will receive a smaller monetary prize.  These selected video presentations will also be shown in the livestream event.
+A coordination committee of three experts (Ildar Farkhatdinov, Katherine J. Kuchenbecker, and Claudio Pacchierotti) tallied the votes, removing those that were invalid.  The Awards Chair then selected the one winner and the three honorable mentions based on the votes received.  All selected video presentations were shown in the [livestream event](https://www.youtube.com/watch?v=1h-9czaJmOY).
 
 ## Most Exciting Work-in-progress Paper
 
