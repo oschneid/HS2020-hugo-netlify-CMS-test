@@ -57,6 +57,9 @@ Forty-one of the papers presented at the conference were published as technical 
 A committee of three experts (Seungmoon Choi, Katherine J. Kuchenbecker, and Veronica Santos) selected the winner of this award based on the final manuscripts, any supplementary materials, the anonymized reviews, and the video presentations.  In addition to the winner, they selected one first honorable mention and two second honorable mentions.
 
 
+
+
+
 ## Best Video Presentation
 
 In lieu of oral presentations, authors of all ToH short papers and technical papers were invited to prepare and submit a three-minute-long video presentation.  Almost all authors provided such a video, which can be accessed on the [video presentations page](https://2020.hapticssymposium.org/program/video-presentations/) of this website.
