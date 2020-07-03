@@ -78,9 +78,14 @@ A coordination committee of three experts (Ildar Farkhatdinov, Katherine J. Kuch
 
 
 <div class="w-100 center mw6 pa3 mb1">
-<img class="0 ma3" src="IMAGE" alt="An award slide featuring the authors and sponsor" />
-<strong> AWARD </strong><br><a href="LINK">TITLE</a><br>AUTHORS<br>$MONEY prize sponsored by <a href="LINK">SPONSOR</a>
+<img class="0 ma3" src="/img/6b719219-f91d-4bf1-bc3f-2134da68103d-mpi-stuttgart.mpg.de.png" alt="An award slide featuring the authors and sponsor" />
+
+<strong> Honorable mention (1 of 3): </strong><br><a href="https://youtu.be/Pz4VusPdVfY">Elastowave: Localized Tactile Feedback in a Soft Haptic Interface via Focused Elastic Waves</a><br>Gregory Reardon, Nikolas Kastor, Yitian Shao, and Yon Visell
+<br>
+$250 prize sponsored by <a href="https://www.facebook.com/careers/life/facebook-reality-labs-turning-ideas-into-realities">Facebook Reality Labs</a>
 </div>
+
+
 ![An award slide featuring the authors and sponsor](/img/6b719219-f91d-4bf1-bc3f-2134da68103d-mpi-stuttgart.mpg.de.png "An award slide featuring the authors and sponsor")
 
 <div class="w-100 center mw6 pa3 mb1">
