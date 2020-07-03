@@ -17,12 +17,8 @@ A committee of three experts (Katherine J. Kuchenbecker, Vincent Lévesque, and 
   [Path Routing Optimization for  STM Ultrasound Rendering](https://doi.org/10.1109/TOH.2019.2963647)
   Héctor Barreiro, Stephen Sinclair, and Miguel A. Otaduy
   $1000 prize sponsored by [Force Dimension](http://www.forcedimension.com)
-  ![]()
+  ![](<>)
 * 
-
-
-
-
 
 ## Best Technical Paper
 
