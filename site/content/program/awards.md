@@ -15,9 +15,9 @@ A committee of three experts (Katherine J. Kuchenbecker, Vincent Lévesque, and 
 
 <div class="fl w-100 center">
 
-<img class="fl w-100 w-50-ns pa1" src="/img/95abdaed-3dba-4e07-ad7d-a6418049430a-mpi-stuttgart.mpg.de.png" alt="An award slide featuring the authors and sponsor" />
+<img class="fl w-100 w-40-ns pa1" src="/img/95abdaed-3dba-4e07-ad7d-a6418049430a-mpi-stuttgart.mpg.de.png" alt="An award slide featuring the authors and sponsor" />
 
-<div class="fl w-100 w-50-ns pa1 v-btm">
+<div class="fl w-100 w-40-ns pa1 v-btm">
 <strong>Winner:</strong><br>
 <a href="https://doi.org/10.1109/TOH.2019.2963647">Path Routing Optimization for  STM Ultrasound Rendering</a><br>
 Héctor Barreiro, Stephen Sinclair, and Miguel A. Otaduy <br>
