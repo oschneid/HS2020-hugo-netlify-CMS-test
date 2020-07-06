@@ -51,7 +51,7 @@ A committee of three experts (Seungmoon Choi, Katherine J. Kuchenbecker, and Ver
 
 
 <div class="w-100 center mw6 pa3 mb1">
-<img class="0 ma3" src="/img/af369802-4b88-43a5-b1ca-5741ec2302ef-mpi-stuttgart.mpg.de.png" alt="An award slide featuring the authors and sponsor" />
+<img class="0 ma3" src="/img/a422817e-f3d9-4d72-9494-ad8a3863585b-mpi-stuttgart.mpg.de.png" alt="An award slide featuring the authors and sponsor" />
 <strong> Second honorable mention (1 of 2): </strong><br><a href="https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.7.ec43f6a7">Time-Dependent Cues Encode the Minimum Exploration Time in Discriminating Naturalistic Compliances</a><br>Chang Xu and Gregory J. Gerling<br>$250 prize sponsored by <a href="https://www.facebook.com/careers/life/facebook-reality-labs-turning-ideas-into-realities">Facebook Reality Labs</a>
 </div>
 
