@@ -113,7 +113,7 @@ A committee of four experts (Heather Culbertson, Katherine J. Kuchenbecker, Masa
 </div>
 
 <div class="w-100 center mw6 pa3 mb1">
-<img class="0 ma3" src="/img/7d642e31-a51e-4b11-b0e1-79f4045aee7a-mpi-stuttgart.mpg.de.png" alt="An award slide featuring the authors and sponsor" />
+<img class="0 ma3" src="/img/1db55ac2-ec6e-4052-82e4-224ef279b030-fritz.box.png" alt="An award slide featuring the authors and sponsor" />
 <strong> Honorable Mention: </strong><br>Tactile Fingerspelling Letter Identification Using Whole-Hand Mechanical Signals <br>Stejara Dinulescu, Gregory Reardon, Sven Topp, and Yon Visell<br>$100 prize sponsored by <a href="https://www.intuitive.com/en-us">Intuitive Surgical</a>
 </div>
 
