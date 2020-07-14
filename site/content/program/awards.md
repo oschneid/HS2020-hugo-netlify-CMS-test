@@ -39,7 +39,7 @@ A committee of three experts (Seungmoon Choi, Katherine J. Kuchenbecker, and Ver
 
 <div class="w-100 center mw6 pa3 mb1">
 <img class="0 ma3" src="/img/0fc1cbd7-a1a6-4488-b171-0ed6eb3a9ead-mpi-stuttgart.mpg.de.png" alt="An award slide featuring the authors and sponsor" />
-<strong> Winner: </strong><br><a href="https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.25.aa4d97aa">Elastowave: Localized Tactile Feedback in a Soft Haptic Interface via Focused Elastic Waves</a><br>Gregory Reardon, Nikolas Kastor, Yitian Shao, and Yon Visell<br>$1000 prize sponsored by <a href="https://www.facebook.com/careers/life/facebook-reality-labs-turning-ideas-into-realities">Facebook Reality Labs</a>
+<strong> Winner: </strong><br><a href="https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.25.aa4d97aa">Elastowave: Localized Tactile Feedback in a SoftHaptic Interface via Focused Elastic Waves</a><br>Gregory Reardon, Nikolas Kastor, Yitian Shao, and Yon Visell<br>$1000 prize sponsored by <a href="https://www.facebook.com/careers/life/facebook-reality-labs-turning-ideas-into-realities">Facebook Reality Labs</a>
 </div>
 
 
