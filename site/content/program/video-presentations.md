@@ -491,7 +491,7 @@ This online video program features short video presentations (approx. 3 minutes)
 <br>
 </div>
 <div>
-<iframe loading="lazy" width="350" height="197" src="https://youtu.be/5bNOmB1XH2k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+<iframe loading="lazy" width="350" height="197" src="https://www.youtube.com/embed/5bNOmB1XH2k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 <a href="https://doi.org/10.1109/HAPTICS45997.2020.ras.HAP20.89.9286fc30" target="_blank">SwarmCloak: Landing of Two Micro-Quadrotors on Human Hands Using Wearable Tactile Interface Driven by Light Intensity </a> by Evgeny Tsykunov, Ruslan Agishev, Roman Ibrahimov, Taha Moriyama, Luiza Labazanova, Hiroyuki Kajimoto, and Dzmitry Tsetserukou
 <br>
 </div>
